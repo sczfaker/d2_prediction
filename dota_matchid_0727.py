@@ -2,12 +2,13 @@ print ("excute!")
 from os import chdir,listdir,rename
 from fake_useragent import UserAgent
 from itertools import zip_longest
+from time import strptime,mktime
 from re import findall,compile
+from json import dump,load
 from bs4 import BeautifulSoup
 from random import randint
 from requests import get
 from time import sleep
-from json import dump,load
 import pandas as pd
 import datetime
 import requests
@@ -18,18 +19,15 @@ import re
 import time
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-# import sys,io 
-# sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
-
-# from time import strptime,mktime
+import sys,io 
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
 pattern="(?=)(?<=)"
-# match_basic_url是一组dotabuff或者其他数据平台的,replayurl输入是比赛规划的新闻字符串或者网页
-#模拟
 class Tournament_id_dotabuff(object):
-    """docstring for ClassName"""
+    """职业比赛从dota_id部分爬取,而opendota可以直接获取录像"""
     def __init__(self):
         self.match_tier1,self.match_tier2,self.match_tier3,self.match_tier4=[],[],[],[]
         self.page_num=1
+        self.missing_count=[]
         self.ua = UserAgent()
         print (self.ua.random)
         self.league_record=[]
@@ -39,93 +37,51 @@ class Tournament_id_dotabuff(object):
         self.urlbasic="https://www.dotabuff.com/"
         self.headers={"user-agent":self.ua.random}
         self.teamfight_url="https://www.dotabuff.com/esports/leagues/11831-weplay-pushka-league/series"
-        self.dpl="https://www.dotabuff.com/esports/leagues/11898-2020-dpl-cda-dota2/"
+        self.dpl="https://www.dotabuff.com/esports/leagues/11898-2020-dpl-cda-dota2/series"
         self.teamfight_url="https://www.dotabuff.com/esports/leagues/11370-dota2/series"
         self.dpl="https://www.dotabuff.com/esports/leagues/12139-2020-dpl-cda-s2-dota2-s2/series"
         self.pit="https://www.dotabuff.com/esports/leagues/12182-amd-sapphire-oga-dota-pit-china/series"
-        #self.asian_gold="https://www.dotabuff.com/esports/leagues/11382-asian-dota2-gold-occupation-competition/series"
+        self.esl_tailand_20mil="https://www.dotabuff.com/esports/leagues/12229-esl-one-thailand-2020-online-powered-by-intel/series"
         self.parimatch="https://www.dotabuff.com/esports/leagues/12175-parimatch-league-season-3-play-offs/series"
         self.ONE_Esports_Dota2_SEA_League="https://www.dotabuff.com/esports/leagues/12069-one-esports-dota-2-sea-league/series"
         self.The_Great_American_Rivalry="https://www.dotabuff.com/esports/leagues/12116-the-great-american-rivalry/series"
-        # session=requests.session
-        # session.cookies=cookielib.LWPCookieJar(filename='cookies')
-        # session.cookies
-        self.pit_na="https://www.dotabuff.com/esports/leagues/12183-amd-sapphire-oga-dota-pit-na-latam/series"#https://liquipedia.net/dota2/Dota_Pit_League/Online/2/Americas
-        self.moon_aisa="https://www.dotabuff.com/esports/series?league_tier=professional_plus"
-        self.one_runtime_newmatch=0
-        #self.arena_blood=""
+        self.omega_50million="https://www.dotabuff.com/esports/leagues/12245-omega-league/series"
+        self.bts53_3="https://www.dotabuff.com/esports/leagues/11263-masters-tournament/series"
+        self.cha_dota2="https://www.dotabuff.com/esports/leagues/12386-imba-dota2/series"
+        self.mid_autumn="https://www.dotabuff.com/esports/leagues/12459-moon-studio-mid-autumn-league/series"
+        self.oga_pit_cn="https://www.dotabuff.com/esports/leagues/12396-amd-sapphire-oga-dota-pit-china/series"
+        self.oga_pit_eu="https://www.dotabuff.com/esports/leagues/12397-amd-sapphire-oga-dota-pit-eu-cis/series"
+       	self.free_win="https://www.dotabuff.com/esports/leagues/12382-freewin-invitational-europe/series"
+       	self.OceanicEDLS="https://www.dotabuff.com/esports/leagues/12205-oceanic-esports-dota-league-season-2/series"
+       	self.esl_M_2="https://www.dotabuff.com/esports/leagues/12413-esl-meisterschaft-dota-2-2020-season-2/series"
+       	self.esl_intel_powerd="https://www.dotabuff.com/esports/leagues/12436-esl-one-germany-2020-online-powered-by-intel/series"
+        self.pit_na="https://www.dotabuff.com/esports/leagues/12183-amd-sapphire-oga-dota-pit-na-latam/series"
+
+        self.cda_pre="https://www.dotabuff.com/esports/leagues/12528-cda-fdc-dota2/series"
+        count_cdapre=0
+       	count_ocean=0
+       	count_esl_M_2=0
+       	count_free_win=0
+        count_oga_pit_eu=0
+        count_oga_pit_cn=0
+        count_midautumn=0
+        count_cha_dota2=0
+        count_omega=0
+        count_esltail_20mil=0
+        count_bts5th=0
+       	count_esl_intel_power=0
         count_dpl,count_ONE_Esports_Dota2_SEA_League,count_pit=0,0,0
         count_pit_na=0
         count_GAR=0
         count_parimatch=0
         count_moon_aisa=0
+        self.one_runtime_newmatch=0
         self.DIR="MATCH_JSON_DIR_0727"
-        # self.getmatchid_url={"GWB":[self.gamers_without_borders,count_gwb],"dpl":[self.dpl_cda,count_dpl],"pit_eu":[self.pit_eu,count_piteu],"berg":[self.berg_eu,count_berg],"esllos":[self.esl_los,count_esllos],"blast":[self.blast_eu,count_blast],"epic_eucn":[self.epic_eucn,count_eucn]}#,
-        #"asian_gd":[self.asian_gold,count_arena]
-        #"Parimatch":[self.parimatch,count_parimatch]
-        self.getmatchid_url={"dpl2":[self.dpl,count_dpl],"OGApit":[self.pit,count_pit],"SEA":[self.ONE_Esports_Dota2_SEA_League,count_ONE_Esports_Dota2_SEA_League],"GAR":[self.The_Great_American_Rivalry,count_GAR],"count_pit_na":[self.pit_na,count_pit_na],"moon_aisa":[self.moon_aisa,count_moon_aisa]}
+        self.getmatchid_url={"dpl2":[self.dpl,count_dpl],"OGApit":[self.pit,count_pit],"SEA":[self.ONE_Esports_Dota2_SEA_League,count_ONE_Esports_Dota2_SEA_League],"GAR":[self.The_Great_American_Rivalry,count_GAR],"count_pit_na":[self.pit_na,count_pit_na],"omega":[self.omega_50million,count_omega],"esltailand":[self.esl_tailand_20mil,count_esltail_20mil],"bts":[self.bts53_3,count_bts5th],"cha_dota2":[self.cha_dota2,count_cha_dota2],"oga_pit_cn":[self.oga_pit_cn,count_oga_pit_cn],"oga_pit_eu":[self.oga_pit_eu,count_oga_pit_eu],"free_win":[self.free_win,count_free_win],"oceannicEDLS":[self.OceanicEDLS,count_ocean],"esl_M_2":[self.esl_M_2,count_esl_M_2],"esl_intel_powerd":[self.esl_intel_powerd,count_esl_intel_power],"moon_midautumn_league_2020":[self.mid_autumn,count_midautumn],"cdapre20201020":[self.cda_pre,count_cdapre]}
+
         print (self.getmatchid_url)
     def delete_outdated_data(self):
         league_id=[11382]
-    def Tournament_preview(self):
-        update_mainpage=True
-        dict_tournament={"ongoing":{},"upcoming":{},"recent":{}}
-        with open("Tournaments_Preview.json","r+",encoding="utf-8") as f:
-            dict_tournament=load(f)
-        tournament_page_html=str(datetime.date.today()).replace("-","_")+"tournament_page"    
-        if update_mainpage:
-            self.tournament_page="https://liquipedia.net/dota2/Portal:Tournaments"
-            req_object=requests.get(self.tournament_page,headers=self.headers,timeout=30)
-            with open(tournament_page_html+".txt","w+",encoding="utf-8") as f:
-                f.write(req_object.text)
-                print("write new page ok.")
-        with open(tournament_page_html+".txt","r+",encoding="utf-8") as f:
-            bs4_obejct=BeautifulSoup(f.read(),"html.parser")
-            upcoming_ongogin=bs4_obejct.find_all("h3")
-            print (len(upcoming_ongogin))
-            upcoming_ongogin_tag=[]
-            for tag in upcoming_ongogin[:3]:
-                table=tag.next_sibling.next_sibling
-                upcoming_ongogin_tag.append(table.div)
-        # print (upcoming_ongogin_tag)
-        prefix="https://liquipedia.net/"
-        for type_tag,tag in enumerate(upcoming_ongogin_tag):
-            div_row=tag.find_all("div",class_="divRow")
-            div_hea=tag.find("div",class_="divHeaderRow")
-            title_list=div_hea.find_all("divCell")
-            print ("tag长度不对",len(div_row))
-            print (type_tag)
-            for one_row in div_row:
-                dict_info_tour={}
-                one_attr_list=one_row.find_all("div",class_=re.compile("divCell.{10,}"))
-                tournament_headtag=one_attr_list[0].find("b").find("a")
-                tournament_link,title=tournament_headtag["href"],tournament_headtag.get_text()
-                full_url=prefix+tournament_link
-                date=one_attr_list[1].get_text()
-                pricepoul=one_attr_list[2].get_text()
-                pricepoul="".join(pricepoul[1:].split(","))
-                # print ("金额:",pricepoul)
-                if pricepoul:
-                    pricepoul=int(pricepoul)
-                # print (pricepoul)
-                team_num=one_attr_list[3].get_text()
-                location=one_attr_list[4].span.get_text()
-                dict_info_tour["date"]=date
-                dict_info_tour["pricepoul"]=pricepoul
-                dict_info_tour["team_num"]=team_num
-                dict_info_tour["location"]=location
-                dict_info_tour["url"]=full_url
-                if type_tag==0:
-                    dict_tournament["upcoming"][title]=dict_info_tour
-                elif type_tag==1:
-                    dict_tournament["ongoing"][title]=dict_info_tour
-                elif type_tag==2:
-                    dict_tournament["recent"][title]=dict_info_tour
-        # print (len(dict_tournament["upcoming"]),len(dict_tournament["ongoing"]),len(dict_tournament["recent"]))
-        with open("Tournaments_Preview.json","w+",encoding="utf-8") as f:
-            dump(dict_tournament,f,ensure_ascii=True)
-                # tr_obejct_list=tbody.find_all("tr")
-
     def get_live_matchid(self):
         self.matchurl="https://www.dotabuff.com/esports"
     def get_match_info(self):
@@ -144,11 +100,7 @@ class Tournament_id_dotabuff(object):
             print ("当前主URL:",self.current_url)
             while self.next_url or self.teamfight_url:
                 team_fight={}
-                ## 检测 数据 更新 差了 几天 , 如果 查了很多天 就要更新了 更新代码在下面
-                # day_of_get_teamfight_page="2020_04_23_team_fights"
                 day_of_get_teamfight_page=str(datetime.date.today()).replace("-","_")+"_team_fights"
-                #print (10)
-                #break
                 try:
                     req_object=requests.get(self.current_url,headers=self.headers,timeout=30)
                 except:
@@ -258,15 +210,6 @@ class Tournament_id_dotabuff(object):
             except:
                 print ("miss one match.",str(one_file.split(".")[0]))
                 continue
-                # assert len([picks["is_pick"] for picks in dict_f["picks_bans"] if picks["is_pick"]==True])==10,"need to crawl on dotabuff."
-                # radiant,dire=[],[]
-                # for picks in dict_f["picks_bans"]:
-                #     if picks["is_pick"]==True:
-                #         if picks["team"]==0:
-                #             radiant.append(picks["hero_id"])
-                #         else:
-                #             dire.append(picks["hero_id"])
-                # assert len(radiant)==5 and len(dire)==5
         print (self.total_count)
     def confirm(self):
         print ("start...confirm")
@@ -297,19 +240,17 @@ class Tournament_id_dotabuff(object):
                     sleep(randint(30,60))
                     print ("write",match_id,"not OK.")
                     continue                    
+    def bet_rate(self):
+        xdr_id="106395830418878"
+        url_list=["https://www.raybet1.com/match/%s"%(xdr_id)]
     def update_normal_randint_dire_to_match_json(self):
         print ("start update_normal_randint_dire_to_match_json")
         self.success_count=0
         self.already_count=0
         normal_text_need_clean=[file for file in listdir(self.DIR) if file[-4:]==".txt" and file[:6]=="normal" and os.stat(self.DIR+"/"+file).st_size>5000]#file[:-5].split("_")[-1]
-        print("待检验和清洗长度team picks:",len(normal_text_need_clean))
-        # with open("hero_id_name.json","r+",encoding="utf-8") as f:
-            # dict_id_hero=load(f)  
+        print("待检验和清洗长度team picks:",len(normal_text_need_clean)) 
         with open("hero_name_id.json","r+",encoding="utf-8") as f:
             dict_name_id=load(f)  
-            # for k,v in dict_hero_id.items():
-                # hero_name_id[v]=k
-        #     dump(hero_name_id,f,ensure_ascii=False)
         for file_clean in normal_text_need_clean:
             radiant_name,dire_name=[],[]
             with open(self.DIR+"/"+str(file_clean),"r+",encoding="utf-8") as f:
@@ -392,36 +333,3 @@ if __name__ == '__main__':
         instance_t.update_normal_randint_dire_to_match_json()
     if TOUR_PREVIEW==True:
         instance_t.Tournament_preview()
-#print (matches_url)
-# for match in matches_url:
-#   try:
-#       self.headers={"user-agent":self.ua.random}
-#       matchid=match[2].split("/")[-1]
-#       if not re.match("\d{8,}",matchid):
-#           break
-#       # print (matchid,type(matchid))
-#       with open ("dplcda_matches/dpl_matches_queue.txt","a+",encoding="utf-8") as f_queue:
-#           f_queue.seek(0)
-#           queue_list=f_queue.readlines()
-#           url_linebreak=match[2]+"\n"
-#           print(url_linebreak,"当前页数",self.page_num)
-#           if url_linebreak not in queue_list:
-#               sleep(random.randint(5,12)) 
-#               req_object=requests.get(match[2],headers=self.headers,timeout=30)
-#               print("当前状态码",req_object.status_code,len(req_object.text))
-#               if req_object.status_code!=200:
-#                   #print (req_object.status_code,match[2])
-#                   assert 1>2,"request too many maybe."
-#               try:
-#                   with open("dplcda_matches/"+i[0]+"_"+matchid+".txt","w+",encoding="utf-8") as f:
-#                       f.write(req_object.text)
-#                   f_queue.write("\n"+match[2])
-#               except:
-#                   print (matchid,"filename error",i[0])
-#                   continue
-#           else:
-#               print ("already crawled page match.")
-#   except:
-#       print ("fail one url")
-#       continue
-#   print("ok")

@@ -5,6 +5,8 @@ from requests import get
 import datetime
 import requests
 import random
+print(60000/60/60)
+print()
 import sys,io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
 import psycopg2

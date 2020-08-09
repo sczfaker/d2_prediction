@@ -1,3 +1,4 @@
+"击杀奖励,可靠金钱,不可靠金钱"
 type_of_gold=['reliable','unreliable']
 first_blood_time=150
 sum_of_procession=0
@@ -24,25 +25,17 @@ def get_kill_money(num_of_assit_hero,rank_me,rank_dead,comback,dead_procession,l
 	#print (poor_coe)
 	#print (pro_coe)
 	return utt
-
 # lostmoney=50+pro/40
 # buyback=100 +pro/13
 # buyback_cooldown=8*60
 # buyback_punishment=[0,25]
 # reborn_time=4*level+buyback_punishment[0]
-
-
 print (110+8*25)
-
 for i in range(5):
 	for j in range(2):
 			print ("你在你们阵营中排名(1-5)的:"+str(j),end="<=>")
 			print ("阵亡英雄在对方阵营中排名(1-5)的:"+str(i),end=":")
 			print (110+8*25+get_kill_money(2,j,i,0,0,24,0))
-
-
-
-
 # test_fuc()
 t=5#财产综合
 t=4#等级

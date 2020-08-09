@@ -25,7 +25,7 @@ class OpendotaReq(object):
         self.teamid="https://api.opendota.com/api/226124774/"
         self.teamid="https://api.opendota.com/api/226124774/"    
         self.headers={"user-agent":self.ua.random}
-        self.path="F:/cl/reqdotadata/MATCH_JSON_DIR_0727/queue_0727.txt"
+        self.path="W:/cl/req_gamesportsdata/MATCH_JSON_DIR_0727/queue_0727.txt"
         with open(self.path,"r+",encoding="utf-8") as f:
             self.matchid_0727=f.read().split("\n")[:-1]
     def match_info(self,matchid):
@@ -96,14 +96,9 @@ class OpendotaReq(object):
         with open(MATCH_JSON_DIR+"/"+"queue_normal.txt","w+",encoding="utf-8") as f:
             for i in fl:
                 f.write(i)
-
-"""
-
-"""
 MATCH_MISS=True
 QUEUE_MISS=True
 NORMAL_QUEUE_MISS=False
-CHECK_JSON_QUEUELINE_TXT=False
 instance=OpendotaReq()
 if False:
     instance.get_team_id()
@@ -148,6 +143,7 @@ fail_normal_list=[]
 num=0
 count_match=0
 if NORMAL_QUEUE_MISS:
+    instance.queue_repeat("queue_normal.txt")
     with open (MATCH_JSON_DIR+"/queue_normal.txt","r+",encoding="utf-8") as f:
         match_id=[mid.strip() for mid in f.readlines()]
     if False:
@@ -179,6 +175,7 @@ if NORMAL_QUEUE_MISS:
                         f.write(mid+"\n")
             else:
                 print ("already in queue.")
+CHECK_JSON_QUEUELINE_TXT=True
 if CHECK_JSON_QUEUELINE_TXT==True:
     instance.check()
     for i in instance.folder_info:
@@ -186,8 +183,6 @@ if CHECK_JSON_QUEUELINE_TXT==True:
     print ("total_json:",instance.clean_banpic_match_json)
     print ("legal_txt:",instance.clean_banpic_match_txt)
     print ("illeagal_Json:",instance.no_radiant_team_count)
-if True:
-    instance.queue_repeat("queue_normal.txt")
     #account_str=t.account_info("226124774")
     #account_dict=loads(account_str)
 #assert 1>2+#2print (s,s1)

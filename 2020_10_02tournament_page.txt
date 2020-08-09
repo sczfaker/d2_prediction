@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html class="client-nojs Send_pizza_to_FO-nTTaX All_glory_to_Liquipedia" lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8"/>
+<title>Portal:Tournaments - Liquipedia Dota 2 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":134,"wgPageName":"Portal:Tournaments","wgTitle":"Tournaments","wgCurRevisionId":1070955,"wgRevisionId":1070955,"wgArticleId":831,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with underscore team templates","Competitions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Tournaments","wgRelevantArticleId":831,"wgRequestId":"bc24b3c0b2811d3cfc853694","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":1070955,"wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/dota2/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"LengthOfUrl":"100","UpdateNotificationServerDomain":"https://liquipedia.net/","UpdateNotificationServerSubPath":"/notifications/","wgWikiEditorEnabledModules":[],"wgDota2WebApiImagePath":"/dota2/extensions/Dota2WebApi/resources/images/","liquiflowCacheVersion":"23","srfFilteredConfig":null});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","ext.brackets.Bracket.styles":"ready","ext.bugtracker":"ready","ext.liquipediaads":"ready","ext.networknotice.Notice":"ready","ext.liquigoals":"ready","ext.TeamLiquidIntegration.liquipedia-custom-icons":"ready","fontawesome-pro":"ready","ext.wikimenu.wikicolors":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.liquiflow.theme.dota2":"ready","skins.liquiflow.scripts":"loading"});mw.loader.implement("user.tokens@106y09h",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.brackets.Bracket.scripts","ext.ShortUrl.scripts","ext.trendingmenu","ext.Notification.scripts","ext.wikimenu.menu","ext.flaggedRevs.advanced"]);mw.loader.load("/dota2/load.php?debug=false\u0026lang=en\u0026modules=skins.liquiflow.scripts\u0026only=scripts\u0026skin=liquiflow");});</script>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=ext.TeamLiquidIntegration.liquipedia-custom-icons%7Cext.brackets.Bracket.styles%7Cext.bugtracker%2Cliquigoals%2Cliquipediaads%7Cext.flaggedRevs.basic%7Cext.networknotice.Notice%7Cext.wikimenu.wikicolors%7Cfontawesome-pro%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.liquiflow.theme.dota2&amp;only=styles&amp;skin=liquiflow"/>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=liquiflow"/>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=ext.srf.styles&amp;only=styles&amp;skin=liquiflow"/>
+<script async="" src="/dota2/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=liquiflow"></script>
+<link rel="stylesheet" href="/commons/load.php?debug=false&amp;articles=Variables.css%7CAmbox.css%7CBracket.css%7CColours.css%7CCrosstable.css%7CDivTable.css%7CFilterButtons.css%7CGrid.css%7CIcons.css%7CInfobox.css%7CMainpage.css%7CMatchseries.css%7CMiscellaneous.css%7CNavFrame.css%7CNavbox.css%7CPanels.css%7CPrizepooltable.css%7CQuote.css%7CSelectall.css%7CStatisticstable.css%7CSwisstable.css%7CTables.css%7CTabs.css%7CTeamTemplates.css%7CTeamcard.css%7CTechtree.css&amp;only=styles&amp;mode=articles&amp;cacheversion=31&amp;*"/><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700,700italic%7CDroid+Sans+Mono%7CRoboto:500%7CSource+Code+Pro:400,700&amp;display=swap"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=liquiflow"/>
+<meta name="generator" content="MediaWiki 1.31.10"/>
+<meta name="description" content="Unsure on how to create a page for a tournament? Check out the Tournament tutorial.&#10;In this portal you can find the links to every tournament page currently on Liquipedia. Each tab is for each tournament tier.&#10;Highlighted tournaments are tournaments sponsored by Valve."/>
+<link rel="alternate" type="application/rdf+xml" title="Portal:Tournaments" href="/dota2/index.php?title=Special:ExportRDF/Portal:Tournaments&amp;xmlmime=rdf"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/dota2/opensearch_desc.php" title="Liquipedia Dota 2 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://liquipedia.net/dota2/api.php?action=rsd"/>
+<link rel="license" href="/dota2/Liquipedia:Copyrights"/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:site" content="@LiquipediaNet"/><meta name="twitter:title" content="Portal:Tournaments"/><meta name="twitter:description" content="Unsure on how to create a page for a tournament? Check out the Tournament tutorial.&#10;In this portal you can find the links to every tournament page currently on Liquipedia. Each tab is for each tournament tier.&#10;Highlighted tournaments are tournaments sponsored by Valve."/><meta name="twitter:domain" content="liquipedia.net"/>
+<meta property="og:type" content="article"/><meta property="og:url" content="https://liquipedia.net/dota2/Portal:Tournaments"/><meta property="og:title" content="Portal:Tournaments"/><meta property="og:description" content="Unsure on how to create a page for a tournament? Check out the Tournament tutorial.&#10;In this portal you can find the links to every tournament page currently on Liquipedia. Each tab is for each tournament tier.&#10;Highlighted tournaments are tournaments sponsored by Valve."/><meta property="og:site_name" content="Liquipedia Dota 2 Wiki"/>
+<!-- 
+	************************************************
+	*  _ _             _                _ _        *
+	* | (_) __ _ _   _(_)_ __   ___  __| (_) __ _  *
+	* | | |/ _` | | | | | '_ \ / _ \/ _` | |/ _` | *
+	* | | | (_| | |_| | | |_) |  __/ (_| | | (_| | *
+	* |_|_|\__, |\__,_|_| .__/ \___|\__,_|_|\__,_| *
+	*         |_|       |_|                        *
+	************************************************
+-->
+<link rel="apple-touch-icon" sizes="57x57" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-57x57.png"/><link rel="apple-touch-icon" sizes="60x60" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-60x60.png"/><link rel="apple-touch-icon" sizes="72x72" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-72x72.png"/><link rel="apple-touch-icon" sizes="76x76" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-76x76.png"/><link rel="apple-touch-icon" sizes="114x114" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-114x114.png"/><link rel="apple-touch-icon" sizes="120x120" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-120x120.png"/><link rel="apple-touch-icon" sizes="144x144" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-144x144.png"/><link rel="apple-touch-icon" sizes="152x152" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-152x152.png"/><link rel="icon" sizes="16x16" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-16x16.png"/><link rel="icon" sizes="32x32" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-32x32.png"/><link rel="icon" sizes="96x96" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-96x96.png"/><link rel="icon" sizes="128x128" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-128x128.png"/><link rel="icon" sizes="196x196" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-196x196.png"/><link name="application-name" content="Liquipedia Dota 2 Wiki" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-196x196.png"/><link name="msapplication-TileColor" content="#ffffff"/><link name="msapplication-TileImage" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-144x144.png"/><link name="msapplication-square70x70logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-70x70.png"/><link name="msapplication-square150x150logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-150x150.png"/><link name="msapplication-wide310x150logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-310x150.png"/><link name="msapplication-square310x310logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-310x310.png"/>
+<link rel="canonical" href="https://liquipedia.net/dota2/Portal:Tournaments"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#b12a2a">
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	googletag.cmd.push( function () {
+		googletag.pubads().setTargeting( 'url', location.pathname );
+	} );
+</script>
+<script type="text/javascript">
+  window["nitroAds"] = window["nitroAds"] || {
+    createAd: function() {
+      window.nitroAds.queue.push(["createAd", arguments]);
+    },
+    queue: []
+  };
+</script>
+<script async src="https://s.nitropay.com/ads-90.js"></script>
+            
+<!--[if lt IE 9]><script src="/dota2/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=LiquiFlow&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-134 ns-subject page-Portal_Tournaments rootpage-Portal_Tournaments skin-liquiflow action-view wiki-dota2 logged-out" id="top">
+		<nav class="navbar navbar-default navbar-fixed-top noprint" id="slide-nav">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 navbar-main-column">
+						<div class="navbar-header">
+							<button class="navbar-toggle" id="main-nav-toggler">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="fas fa-fw fa-bars fa-2x"></span></span>
+							</button>
+
+							<a class="navbar-brand" href="/dota2/Main_Page"
+							    title="Visit the main page">
+								<div style="display: inline-block;">
+									<div style="float: left;"><img id="brand-logo" src="/commons/extensions/TeamLiquidIntegration/resources/pagelogo/liquipedia_icon_menu.png" alt="Logo"></div>
+									<div class="brand-name visible-xs logotype" style="white-space: nowrap; margin-left: 5px; float: left;">liquipedia</div>
+								</div>
+							</a>
+
+															<button class="navbar-toggle pull-right" id="toc-toggler">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="fas fa-fw fa-list fa-2x"></span>								</button>
+														<button id="mobile-search-button" class="navbar-toggle navbar-search-toggle pull-right visible-xs">
+								<span class="fas fa-fw fa-search fa-2x"></span>							</button>
+
+						</div><!-- /.navbar-header -->
+													<div id="slide-toc" class="visible-xs">
+								<div id="scroll-wrapper-toc" class="">
+									<div class="nav navbar-nav">
+										<div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul class="nav">
+<li class="toclevel-1 tocsection-1"><a data-target="#About_Tiers" href="#About_Tiers"><span class="tocnumber">1</span> <span class="toctext">About Tiers</span></a></li>
+<li class="toclevel-1 tocsection-2"><a data-target="#Tournaments" href="#Tournaments"><span class="tocnumber">2</span> <span class="toctext">Tournaments</span></a>
+<ul class="nav">
+<li class="toclevel-2 tocsection-3"><a data-target="#Upcoming" href="#Upcoming"><span class="tocnumber">2.1</span> <span class="toctext">Upcoming</span></a></li>
+<li class="toclevel-2 tocsection-4"><a data-target="#Ongoing" href="#Ongoing"><span class="tocnumber">2.2</span> <span class="toctext">Ongoing</span></a></li>
+<li class="toclevel-2 tocsection-5"><a data-target="#Most_Recent" href="#Most_Recent"><span class="tocnumber">2.3</span> <span class="toctext">Most Recent</span></a></li>
+</ul>
+</li>
+</ul>
+									</div>
+								</div>
+							</div>
+						
+						<div id="slidemenu">
+							<div id="scroll-wrapper-menu">
+								<ul class="nav navbar-nav">
+																		<li class="dropdown dropdown-brand hidden-xs">
+										<a id="brand-menu-toggle" class="dropdown-toggle brand-title" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span id="brand-desktop" class="brand-name logotype" style="font-size:18px;">liquipedia</span> <span class="caret"></span> <br>
+											<span class="hidden-xs brand-subtitle">
+												Dota 2											</span>
+										</a>
+										<ul id="brand-menu" class="dropdown-menu">
+											<div id="ext-wikimenu" class="ext-wikimenu" data-active="0" data-count-other-wikis="0"><div class="ext-wikimenu-tabs"><a href="#" class="ext-wikimenu-tab" data-tab="0"><div class="ext-wikimenu-tab-bold">Main Wikis</div></a><a href="#" class="ext-wikimenu-tab" data-tab="1"><div class="ext-wikimenu-tab-bold">Alpha Wikis</div></a><a href="#" class="ext-wikimenu-tab" data-tab="2"><div class="ext-wikimenu-tab-bold">Pre Alpha Wikis</div></a></div><div class="ext-wikimenu-contents"><div class="ext-wikimenu-content" data-content="0"><a href="/counterstrike/Main_Page" class="ext-wikimenu-color-counterstrike">Counter-Strike</a><a href="/starcraft2/Main_Page" class="ext-wikimenu-color-starcraft2">StarCraft II</a><a href="/pubg/Main_Page" class="ext-wikimenu-color-pubg">PUBG</a><a href="/overwatch/Main_Page" class="ext-wikimenu-color-overwatch">Overwatch</a><a href="/rainbowsix/Main_Page" class="ext-wikimenu-color-rainbowsix">Rainbow Six</a><a href="/valorant/Main_Page" class="ext-wikimenu-color-valorant">VALORANT</a><a href="/rocketleague/Main_Page" class="ext-wikimenu-color-rocketleague">Rocket League</a><a href="/leagueoflegends/Main_Page" class="ext-wikimenu-color-leagueoflegends">League of Legends</a><a href="/smash/Main_Page" class="ext-wikimenu-color-smash">Smash</a><a href="/warcraft/Main_Page" class="ext-wikimenu-color-warcraft">Warcraft</a><a href="/apexlegends/Main_Page" class="ext-wikimenu-color-apexlegends">Apex Legends</a><a href="/starcraft/Main_Page" class="ext-wikimenu-color-starcraft">Brood War</a><a href="/hearthstone/Main_Page" class="ext-wikimenu-color-hearthstone">Hearthstone</a><a href="/heroes/Main_Page" class="ext-wikimenu-color-heroes">Heroes</a><a href="/artifact/Main_Page" class="ext-wikimenu-color-artifact">Artifact</a><a href="/commons/Main_Page" class="ext-wikimenu-color-commons">Commons</a></div><div class="ext-wikimenu-content" data-content="1"><a href="/fighters/Main_Page" class="ext-wikimenu-color-fighters">Fighting Games</a><a href="/arenaofvalor/Main_Page" class="ext-wikimenu-color-arenaofvalor">Arena of Valor</a><a href="/arenafps/Main_Page" class="ext-wikimenu-color-arenafps">Arena FPS</a><a href="/clashroyale/Main_Page" class="ext-wikimenu-color-clashroyale">Clash Royale</a><a href="/fortnite/Main_Page" class="ext-wikimenu-color-fortnite">Fortnite</a><a href="/worldofwarcraft/Main_Page" class="ext-wikimenu-color-worldofwarcraft">World of Warcraft</a><a href="/teamfortress/Main_Page" class="ext-wikimenu-color-teamfortress">Team Fortress</a><a href="/fifa/Main_Page" class="ext-wikimenu-color-fifa">FIFA</a><a href="/paladins/Main_Page" class="ext-wikimenu-color-paladins">Paladins</a><a href="/freefire/Main_Page" class="ext-wikimenu-color-freefire">Free Fire</a><a href="/ageofempires/Main_Page" class="ext-wikimenu-color-ageofempires">Age of Empires</a></div><div class="ext-wikimenu-content" data-content="2"><a href="/pokemon/Main_Page" class="ext-wikimenu-color-pokemon">Pokémon</a><a href="/callofduty/Main_Page" class="ext-wikimenu-color-callofduty">Call of Duty</a><a href="/battalion/Main_Page" class="ext-wikimenu-color-battalion">Battalion 1944</a><a href="/underlords/Main_Page" class="ext-wikimenu-color-underlords">Dota Underlords</a><a href="/trackmania/Main_Page" class="ext-wikimenu-color-trackmania">TrackMania</a><a href="/runeterra/Main_Page" class="ext-wikimenu-color-runeterra">Runeterra</a><a href="/brawlstars/Main_Page" class="ext-wikimenu-color-brawlstars">Brawlstars</a><a href="/autochess/Main_Page" class="ext-wikimenu-color-autochess">Autochess</a><a href="/simracing/Main_Page" class="ext-wikimenu-color-simracing">Sim Racing</a><a href="/crossfire/Main_Page" class="ext-wikimenu-color-crossfire">Crossfire</a><a href="/magic/Main_Page" class="ext-wikimenu-color-magic">Magic</a><a href="/teamfighttactics/Main_Page" class="ext-wikimenu-color-teamfighttactics">Teamfight Tactics</a><a href="/battlerite/Main_Page" class="ext-wikimenu-color-battlerite">Battlerite</a><a href="/criticalops/Main_Page" class="ext-wikimenu-color-criticalops">Critical Ops</a></div></div></div>										</ul>
+									</li>
+
+																				<li class="dropdown icon-tablet">
+												<a id="trending-pages-menu-toggle" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+													<div class="visible-xl visible-lg visible-md visible-xs"><span class="far fa-fw fa-chart-line"></span> Trending <span class="caret"></span></div>
+													<div class="visible-sm">
+														<span class="far fa-fw fa-chart-line"></span> <span class="caret"></span>
+													</div>
+												</a>
+												<ul id="trending-pages-menu" class="dropdown-menu"></ul>
+											</li>
+																						<li class="dropdown hidden-xs icon-tablet">
+												<a id="tournaments-menu-toggle" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+													<div class="visible-xl visible-lg visible-md visible-xs"><span class="fas fa-fw fa-trophy"></span> Tournaments <span class="caret"></span></div>
+													<div class="visible-sm">
+														<span class="fas fa-fw fa-trophy"></span> <span class="caret"></span>
+													</div>
+												</a>
+												<div id="tournaments-menu" class="dropdown-menu multi-column columns-3">
+													<div class="row">
+																														<div class="col-sm-4">
+																	<ul id="tournaments-menu-upcoming" class="multi-column-dropdown">
+																		<li class="dropdown-header">Upcoming</li>
+																		<li><a href="/dota2/ESL_One/Germany/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020</a></li>																	</ul>
+																</div>
+																																<div class="col-sm-4">
+																	<ul id="tournaments-menu-ongoing" class="multi-column-dropdown">
+																		<li class="dropdown-header">Ongoing</li>
+																		<li><a href="/dota2/ESL/Meisterschaft/2020/Season_2"><span class="league-icon-small-image"><img alt="" src="/commons/images/a/a2/ESL_Meisterschaft_2019_icon.png" width="50" height="50" loading="lazy" /></span> ESL Meisterschaft S2</a></li><li><a href="/dota2/ESL/UK_Premiership/2020/Autumn"><span class="league-icon-small-image"><img alt="" src="/commons/images/3/36/ESL_Premiership_2019_icon.png" width="50" height="50" loading="lazy" /></span> ESL Premiership '20 Autumn</a></li><li><a href="/dota2/Moon_Studio/Mid-Autumn/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/5/5f/Moon_Studio_Mid-Autumn_League_icon.png" width="50" height="50" loading="lazy" /></span> Moon Studio Mid-Autumn</a></li><li><a href="/dota2/Oceanic_Esports_League/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/b/b0/Oceanic_Esports_icon.png" width="50" height="50" loading="lazy" /></span> Oceanic Esports League S2</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/China"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: CN</a></li><li><a href="/dota2/FreeWin_Invitational/Europe"><span class="league-icon-small-image"><img alt="" src="/commons/images/5/5a/FreeWin_Invitational_Icon.png" width="50" height="58" loading="lazy" /></span> FreeWin Invitational EU</a></li><li><a href="/dota2/China_Dota2_Pro_Cup/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></span> China Pro Cup S1</a></li><li><a href="/dota2/Sazka_eLEAGUE/2020/Summer/Regular_Season"><span class="league-icon-small-image"><img alt="" src="/commons/images/6/67/SAZKA_eLEAGUE_Icon.png" width="50" height="50" loading="lazy" /></span> Sazka eLEAGUE Summer '20</a></li><li><a href="/dota2/AOC_Play_Dota2/1/Open_Qualifier/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/b/be/UCC_icon.png" width="50" height="50" loading="lazy" /></span> AOC Play Dota2 OQ#2</a></li>																	</ul>
+																</div>
+																																<div class="col-sm-4">
+																	<ul id="tournaments-menu-completed" class="multi-column-dropdown">
+																		<li class="dropdown-header">Completed</li>
+																		<li><a href="/dota2/BTS/Pro_Series/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: EU/CIS</a></li><li><a href="/dota2/BTS/Pro_Series/3/Southeast_Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: SEA</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: EU/CIS</a></li><li><a href="/dota2/BTS/Pro_Series/3/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: AM</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: Asia</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Immortal_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Immortal</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Divine</a></li><li><a href="/dota2/OMEGA_League/1/Americas/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: AM Divine</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: AM</a></li><li><a href="/dota2/OMEGA_League/1/Asia/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: Asia Divine</a></li><li><a href="/dota2/Moon_Studio/Asian_League/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/4/4f/Moon_Studio_Asian_League_icon.png" width="50" height="50" loading="lazy" /></span> Moon Studio Asian League</a></li><li><a href="/dota2/The_Great_American_Rivalry/Season_1/Division_1"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/ff/The_Great_American_Rivalry_icon.png" width="50" height="50" loading="lazy" /></span> The Great American Rivalry D1</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: EU CIS</a></li><li><a href="/dota2/DPL-CDA_Professional_League/Season_2"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f7/DPL-CDA_icon.png" width="50" height="50" loading="lazy" /></span> DPL-CDA League S2</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: AM</a></li>																	</ul>
+																</div>
+																													</div>
+													<div class="row">
+														<div style="float:right;margin-right:23px"><a href="/dota2/index.php?title=Liquipedia:Tournaments&action=edit">[edit]</a></div>
+													</div>
+												</div>
+											</li>
+											<li class="visible-xs mobile-divider"></li>
+																								<li class="dropdown visible-xs">
+														<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+															<span class="fas fa-fw fa-trophy"></span> Upcoming <span class="caret"></span>
+														</a>
+														<ul class="dropdown-menu">
+															<li><a href="/dota2/ESL_One/Germany/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020</a></li>
+														</ul>
+													</li>
+																										<li class="dropdown visible-xs">
+														<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+															<span class="fas fa-fw fa-trophy"></span> Ongoing <span class="caret"></span>
+														</a>
+														<ul class="dropdown-menu">
+															<li><a href="/dota2/ESL/Meisterschaft/2020/Season_2"><span class="league-icon-small-image"><img alt="" src="/commons/images/a/a2/ESL_Meisterschaft_2019_icon.png" width="50" height="50" loading="lazy" /></span> ESL Meisterschaft S2</a></li><li><a href="/dota2/ESL/UK_Premiership/2020/Autumn"><span class="league-icon-small-image"><img alt="" src="/commons/images/3/36/ESL_Premiership_2019_icon.png" width="50" height="50" loading="lazy" /></span> ESL Premiership '20 Autumn</a></li><li><a href="/dota2/Moon_Studio/Mid-Autumn/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/5/5f/Moon_Studio_Mid-Autumn_League_icon.png" width="50" height="50" loading="lazy" /></span> Moon Studio Mid-Autumn</a></li><li><a href="/dota2/Oceanic_Esports_League/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/b/b0/Oceanic_Esports_icon.png" width="50" height="50" loading="lazy" /></span> Oceanic Esports League S2</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/China"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: CN</a></li><li><a href="/dota2/FreeWin_Invitational/Europe"><span class="league-icon-small-image"><img alt="" src="/commons/images/5/5a/FreeWin_Invitational_Icon.png" width="50" height="58" loading="lazy" /></span> FreeWin Invitational EU</a></li><li><a href="/dota2/China_Dota2_Pro_Cup/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></span> China Pro Cup S1</a></li><li><a href="/dota2/Sazka_eLEAGUE/2020/Summer/Regular_Season"><span class="league-icon-small-image"><img alt="" src="/commons/images/6/67/SAZKA_eLEAGUE_Icon.png" width="50" height="50" loading="lazy" /></span> Sazka eLEAGUE Summer '20</a></li><li><a href="/dota2/AOC_Play_Dota2/1/Open_Qualifier/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/b/be/UCC_icon.png" width="50" height="50" loading="lazy" /></span> AOC Play Dota2 OQ#2</a></li>
+														</ul>
+													</li>
+																										<li class="dropdown visible-xs">
+														<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+															<span class="fas fa-fw fa-trophy"></span> Completed <span class="caret"></span>
+														</a>
+														<ul class="dropdown-menu">
+															<li><a href="/dota2/BTS/Pro_Series/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: EU/CIS</a></li><li><a href="/dota2/BTS/Pro_Series/3/Southeast_Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: SEA</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: EU/CIS</a></li><li><a href="/dota2/BTS/Pro_Series/3/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: AM</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: Asia</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Immortal_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Immortal</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Divine</a></li><li><a href="/dota2/OMEGA_League/1/Americas/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: AM Divine</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: AM</a></li><li><a href="/dota2/OMEGA_League/1/Asia/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: Asia Divine</a></li><li><a href="/dota2/Moon_Studio/Asian_League/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/4/4f/Moon_Studio_Asian_League_icon.png" width="50" height="50" loading="lazy" /></span> Moon Studio Asian League</a></li><li><a href="/dota2/The_Great_American_Rivalry/Season_1/Division_1"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/ff/The_Great_American_Rivalry_icon.png" width="50" height="50" loading="lazy" /></span> The Great American Rivalry D1</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: EU CIS</a></li><li><a href="/dota2/DPL-CDA_Professional_League/Season_2"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f7/DPL-CDA_icon.png" width="50" height="50" loading="lazy" /></span> DPL-CDA League S2</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: AM</a></li>
+														</ul>
+													</li>
+																								<li class="visible-xs mobile-divider"></li>
+											<li class="dropdown icon-tablet">
+												<a id="contribute-menu-toggle" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+													<div class="visible-xl visible-lg visible-md visible-xs"><span class="fas fa-fw fa-puzzle-piece"></span> Contribute <span class="caret"></span></div>
+													<div class="visible-sm">
+														<span class="fas fa-fw fa-puzzle-piece"></span> <span class="caret"></span>
+													</div>
+												</a>
+												<ul id="contribute-menu" class="dropdown-menu">
+													<li><a id="contribute-menu-edit-an-article" href="/dota2/Help:Edit_an_Article">Edit an Article</a></li><li><a id="contribute-menu-create-an-article" href="/dota2/Help:Create_an_Article">Create an Article</a></li><li><a id="contribute-menu-help-portal" href="/dota2/Help:Contents">Help Portal</a></li><li><a id="contribute-menu-notability-guidelines" href="/dota2/Liquipedia:Notability_Guidelines">Notability Guidelines</a></li><li><a id="contribute-menu-chat-with-us" href="https://liquipedia.net/discord">Chat With Us</a></li><li><a id="contribute-menu-feedback-thread" href="https://tl.net/forum/website-feedback/94785-liquipedia-feedback-thread">Feedback Thread</a></li>												</ul>
+											</li>
+																				<li class="visible-xs mobile-divider"></li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-gavel"></span> Actions <span class="caret"></span>
+										</a>
+										<ul class="dropdown-menu">
+																												<li id="ca-nstab-portal-mobile" class="selected" data-stuff="context-134">
+							<a href="/dota2/Portal:Tournaments"
+							   >
+								   <span class="far fa-fw fa-file-alt"></span> <span class="hidden-sm">Portal</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-talk-mobile" data-stuff="context-134">
+							<a href="/dota2/Portal_talk:Tournaments"
+							    title="Discussion about the content page [t]">
+								   <span class="far fa-fw fa-comments-alt"></span> <span class="hidden-sm">Talk</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+																						<li id="ca-viewsource-mobile">
+							<a href="/dota2/index.php?title=Portal:Tournaments&amp;action=edit"
+							    title="This page is protected.&#10;You can view its source [e]">
+								   <span class="far fa-fw fa-pencil-alt"></span> <span class="hidden-sm">Edit</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-history-mobile" class="collapsible">
+							<a href="/dota2/index.php?title=Portal:Tournaments&amp;action=history"
+							    title="Past revisions of this page [h]">
+								   <span class="far fa-fw fa-history"></span> <span class="hidden-sm">History</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+					
+															</ul>
+									</li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-share-alt"></span> <span class="hidden-sm">Share</span> <span class="caret"></span>
+										</a>
+										
+					<ul class="dropdown-menu liquiflow-menu-share">
+												<li>
+							<a data-type="twitter" onclick="Share.twitter( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-twitter"></span> Twitter
+							</a>
+						</li>
+						<li>
+							<a data-type="facebook" onclick="Share.facebook( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-facebook-f"></span> Facebook
+							</a>
+						</li>
+						<li>
+							<a data-type="reddit" onclick="Share.reddit( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-reddit-alien"></span></span> Reddit
+							</a>
+						</li>
+						<li>
+							<a data-type="qq" onclick="Share.qq( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-qq"></span> Tencent QQ
+							</a>
+						</li>
+						<li>
+							<a data-type="vk" onclick="Share.vk( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-vk"></span> VK
+							</a>
+						</li>
+						<li>
+							<a data-type="weibo" onclick="Share.weibo( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-weibo"></span> Weibo
+							</a>
+						</li>
+						<li class="hidden-lg">
+							<a data-type="whatsapp" onclick="Share.whatsapp( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-whatsapp"></span> WhatsApp
+							</a>
+						</li>
+					</ul>
+
+														</li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-wrench"></span> <span class="hidden-sm">Tools</span> <span class="caret"></span>
+										</a>
+															<ul class="dropdown-menu">
+						<li class="dropdown-header">General</li>
+						<li><a href="/dota2/Special:RecentChanges"><span class="far fa-fw fa-clock"></span> Recent changes</a></li>
+													<li><a href="/dota2/Special:PendingChanges"><span class="far fa-fw fa-circle-notch"></span> Pending changes</a></li>
+													
+						<li><a href="/dota2/Special:Random"><span class="fas fa-fw fa-random"></span> Random page</a></li>
+
+						<li class="divider"></li><li><a href="/dota2/Special:Stream"><span class="fas fa-fw fa-tv-retro"></span> Stream Page</a></li>
+						<li class="divider"></li>
+						<li class="dropdown-header">Specific</li>
+						<li id="t-whatlinkshere-mobile"><a href="/dota2/Special:WhatLinksHere/Portal:Tournaments" title="A list of all wiki pages that link here"><span class="fas fa-fw fa-link"></span> What links here</a></li><li id="t-recentchangeslinked-mobile"><a href="/dota2/Special:RecentChangesLinked/Portal:Tournaments" rel="nofollow" title="Recent changes in pages linked from this page"><span class="liquipedia-custom-icon liquipedia-custom-icon-related-changes"></span> Related changes</a></li><li id="t-upload-mobile"><a href="https://liquipedia.net/commons/Special:Upload" title="Upload files"><span class="fas fa-fw fa-upload"></span> Upload file</a></li><li id="t-specialpages-mobile"><a href="/dota2/Special:SpecialPages" title="A list of all special pages"><span class="fas fa-fw fa-magic"></span> Special pages</a></li><li id="t-print-mobile"><a href="/dota2/index.php?title=Portal:Tournaments&amp;printable=yes" rel="alternate" title="Printable version of this page"><span class="fas fa-fw fa-print"></span> Printable version</a></li><li id="t-permalink-mobile"><a href="/dota2/index.php?title=Portal:Tournaments&amp;oldid=1070955" title="Permanent link to this revision of the page"><span class="far fa-fw fa-dot-circle"></span> Permanent link</a></li><li id="t-info-mobile"><a href="/dota2/index.php?title=Portal:Tournaments&amp;action=info" title="More information about this page"><span class="fas fa-fw fa-info"></span> Page information</a></li>					</ul>
+														</li>
+																		<li id="pt-createaccount-mobile" class="visible-xs"><a href="https://tl.net/mytlnet/register" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="fas fa-fw fa-user-plus"></span> Create Account</a></li><li id="pt-login-mobile" class="visible-xs"><a href="/dota2/index.php?title=Special:UserLogin&amp;returnto=Portal%3ATournaments" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="fas fa-fw fa-sign-in-alt"></span> Log in</a></li>
+									<li class="visible-xs mobile-divider"></li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-map-signs"></span> Other Wikis <span class="caret"></span>
+										</a>
+										<ul class="dropdown-menu">
+											<li><a href="https://liquipedia.net/starcraft/Main_Page">Brood War</a></li><li><a href="https://liquipedia.net/starcraft2/Main_Page">StarCraft II</a></li><li><a href="https://liquipedia.net/hearthstone/Main_Page">Hearthstone</a></li><li><a href="https://liquipedia.net/heroes/Main_Page">Heroes of the Storm</a></li><li><a href="https://liquipedia.net/smash/Main_Page">Smash</a></li><li><a href="https://liquipedia.net/counterstrike/Main_Page">Counter-Strike</a></li><li><a href="https://liquipedia.net/overwatch/Main_Page">Overwatch</a></li><li><a href="https://liquipedia.net/rocketleague/Main_Page">Rocket League</a></li><li><a href="https://liquipedia.net/rainbowsix/Main_Page">Rainbow Six</a></li><li><a href="https://liquipedia.net/warcraft/Main_Page">Warcraft</a></li><li><a href="https://liquipedia.net/artifact/Main_Page">Artifact</a></li><li><a href="https://liquipedia.net/leagueoflegends/Main_Page">League of Legends</a></li><li><a href="https://liquipedia.net/pubg/Main_Page">PUBG</a></li><li><a href="https://liquipedia.net/apexlegends/Main_Page">Apex Legends</a></li><li><a href="https://liquipedia.net/commons/Main_Page">Liquipedia Commons</a></li>										</ul>
+									</li>
+									<li class="dropdown visible-xs">
+										<a href="#top">
+											<span class="fas fa-fw fa-arrow-up"></span> Back to top										</a>
+									</li>
+
+								</ul><!-- /.navbar-nav -->
+
+								<ul class="nav navbar-nav navbar-right tablet-personal">
+									<li id="pt-createaccount" class="hidden-sm hidden-xs"><a href="https://tl.net/mytlnet/register" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="fas fa-fw fa-user-plus"></span> </a></li><li id="pt-login" class="icon-tablet hidden-xs"><a href="/dota2/index.php?title=Special:UserLogin&amp;returnto=Portal%3ATournaments" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="fas fa-fw fa-sign-in-alt"></span> </a></li>								</ul><!-- /.navbar-nav .navbar-right -->
+								<ul class="nav navbar-nav navbar-right">
+														<li class="hidden-xs">
+						<form action="/dota2/index.php" id="searchform" class="navbar-form" role="search">
+							<div class="input-group">
+								<input id="searchInput" type="search" accesskey="f"
+								       title="Search liquipedia Dota 2 Wiki [alt-shift-f]" placeholder="Search"
+								       name="search" autocomplete="off">
+								<div class="input-group-btn">
+									<button class="btn btn-default searchButton" type="submit" id="searchButton">
+										<span class="fas fa-fw fa-search"></span>									</button>
+								</div>
+							</div>
+						</form>
+					</li>
+													</ul><!-- /.navbar-nav .navbar-right -->
+
+							</div>	<!-- /#scroll-wrapper-menu -->
+						</div><!-- /#slide-menu -->
+					</div><!-- /.col-lg-8 -->
+				</div><!-- /.row -->
+			</div><!-- /.container-fluid -->
+		</nav><!-- /.navbar -->
+
+		<nav id="mobile-search-bar" class="navbar visible-xs noprint hidden">
+			<form action="/dota2/index.php" id="mobile-search-form" class="navbar-form navbar-left" role="search">
+				<div class="input-group">
+					<input id="searchInput-mobile" type="search" accesskey="f" title="Search liquipedia Dota 2 Wiki [alt-shift-f]" placeholder="Search liquipedia" name="search" autocomplete="off" class="form-control">
+					<div class="input-group-btn">
+						<button class="btn navbar-search-btn searchButton" type="submit" id="searchButton-mobile">
+							<span class="fas fa-fw fa-search"></span><span class="fas fa-fw fa-arrow-right"></span>						</button>
+					</div>
+				</div>
+			</form>
+		</nav><!-- /#mobile-search-bar -->
+
+		<div id="wiki-nav" class="navbar navbar-inverse hidden-xs noprint">
+			<div class="container-fluid">
+				<div class="row">
+					<div id="wiki-nav-main-column" class="col-md-12">
+						<div class="wiki-tool-nav">
+							<ul class="nav navbar-nav navbar-nav-2">
+																									<li id="ca-nstab-portal" class="selected" data-stuff="context-134">
+							<a href="/dota2/Portal:Tournaments"
+							   >
+								   <span class="far fa-fw fa-file-alt"></span> <span class="hidden-sm">Portal</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-talk" data-stuff="context-134">
+							<a href="/dota2/Portal_talk:Tournaments"
+							    title="Discussion about the content page [t]" accesskey="t">
+								   <span class="far fa-fw fa-comments-alt"></span> <span class="hidden-sm">Talk</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+																						<li id="ca-viewsource">
+							<a href="/dota2/index.php?title=Portal:Tournaments&amp;action=edit"
+							    title="This page is protected.&#10;You can view its source [e]" accesskey="e">
+								   <span class="far fa-fw fa-pencil-alt"></span> <span class="hidden-sm">Edit</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-history" class="collapsible">
+							<a href="/dota2/index.php?title=Portal:Tournaments&amp;action=history"
+							    title="Past revisions of this page [h]" accesskey="h">
+								   <span class="far fa-fw fa-history"></span> <span class="hidden-sm">History</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+					
+												</ul>
+
+							<ul class="nav navbar-nav navbar-right navbar-nav-2">
+								<li class="dropdown" id="dropdown-share">
+									<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+										<span class="fas fa-fw fa-share-alt"></span> <span class="hidden-sm">Share</span> <span class="caret"></span>
+									</a>
+									
+					<ul class="dropdown-menu liquiflow-menu-share">
+												<li>
+							<a data-type="twitter" onclick="Share.twitter( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-twitter"></span> Twitter
+							</a>
+						</li>
+						<li>
+							<a data-type="facebook" onclick="Share.facebook( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-facebook-f"></span> Facebook
+							</a>
+						</li>
+						<li>
+							<a data-type="reddit" onclick="Share.reddit( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-reddit-alien"></span></span> Reddit
+							</a>
+						</li>
+						<li>
+							<a data-type="qq" onclick="Share.qq( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-qq"></span> Tencent QQ
+							</a>
+						</li>
+						<li>
+							<a data-type="vk" onclick="Share.vk( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-vk"></span> VK
+							</a>
+						</li>
+						<li>
+							<a data-type="weibo" onclick="Share.weibo( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-weibo"></span> Weibo
+							</a>
+						</li>
+						<li class="hidden-lg">
+							<a data-type="whatsapp" onclick="Share.whatsapp( 'https://liquipedia.net/dota2/Portal:Tournaments', 'Portal:Tournaments' )">
+								<span class="fab fa-fw fa-whatsapp"></span> WhatsApp
+							</a>
+						</li>
+					</ul>
+
+													</li>
+								<li class="dropdown">
+									<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+										<span class="fas fa-fw fa-wrench"></span> <span class="hidden-sm">Tools</span> <span class="caret"></span>
+									</a>
+														<ul class="dropdown-menu">
+						<li class="dropdown-header">General</li>
+						<li><a href="/dota2/Special:RecentChanges"  title="A list of recent changes in the wiki [r]" accesskey="r"><span class="far fa-fw fa-clock"></span> Recent changes</a></li>
+													<li><a href="/dota2/Special:PendingChanges"><span class="far fa-fw fa-circle-notch"></span> Pending changes</a></li>
+													
+						<li><a href="/dota2/Special:Random"  title="Load a random page [x]" accesskey="x"><span class="fas fa-fw fa-random"></span> Random page</a></li>
+
+						<li class="divider"></li><li><a href="/dota2/Special:Stream"><span class="fas fa-fw fa-tv-retro"></span> Stream Page</a></li>
+						<li class="divider"></li>
+						<li class="dropdown-header">Specific</li>
+						<li id="t-whatlinkshere"><a href="/dota2/Special:WhatLinksHere/Portal:Tournaments" title="A list of all wiki pages that link here [j]" accesskey="j"><span class="fas fa-fw fa-link"></span> What links here</a></li><li id="t-recentchangeslinked"><a href="/dota2/Special:RecentChangesLinked/Portal:Tournaments" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span class="liquipedia-custom-icon liquipedia-custom-icon-related-changes"></span> Related changes</a></li><li id="t-upload"><a href="https://liquipedia.net/commons/Special:Upload" title="Upload files [u]" accesskey="u"><span class="fas fa-fw fa-upload"></span> Upload file</a></li><li id="t-specialpages"><a href="/dota2/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span class="fas fa-fw fa-magic"></span> Special pages</a></li><li id="t-print"><a href="/dota2/index.php?title=Portal:Tournaments&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span class="fas fa-fw fa-print"></span> Printable version</a></li><li id="t-permalink"><a href="/dota2/index.php?title=Portal:Tournaments&amp;oldid=1070955" title="Permanent link to this revision of the page"><span class="far fa-fw fa-dot-circle"></span> Permanent link</a></li><li id="t-info"><a href="/dota2/index.php?title=Portal:Tournaments&amp;action=info" title="More information about this page"><span class="fas fa-fw fa-info"></span> Page information</a></li>					</ul>
+													</li>
+																
+												</ul><!-- /.navbar-right -->
+						</div><!--  /.wiki-tool-nav -->
+					</div><!-- /.col-lg-8 -->
+				</div><!-- /.row -->
+			</div><!-- /.container-fluid -->
+		</div><!-- /.navbar-inverse -->
+
+		<div id="wrap">
+
+			<div id="sidebar-toc-column" class="hidden-xs hidden-sm hidden-md">
+				<div id="sidebar-toc" class="sidebar-toc bs-docs-sidebar hidden-print hidden-xs hidden-sm affix-top " style="" role="complementary">
+					<div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul class="nav">
+<li class="toclevel-1 tocsection-1"><a data-target="#About_Tiers" href="#About_Tiers"><span class="tocnumber">1</span> <span class="toctext">About Tiers</span></a></li>
+<li class="toclevel-1 tocsection-2"><a data-target="#Tournaments" href="#Tournaments"><span class="tocnumber">2</span> <span class="toctext">Tournaments</span></a>
+<ul class="nav">
+<li class="toclevel-2 tocsection-3"><a data-target="#Upcoming" href="#Upcoming"><span class="tocnumber">2.1</span> <span class="toctext">Upcoming</span></a></li>
+<li class="toclevel-2 tocsection-4"><a data-target="#Ongoing" href="#Ongoing"><span class="tocnumber">2.2</span> <span class="toctext">Ongoing</span></a></li>
+<li class="toclevel-2 tocsection-5"><a data-target="#Most_Recent" href="#Most_Recent"><span class="tocnumber">2.3</span> <span class="toctext">Most Recent</span></a></li>
+</ul>
+</li>
+</ul>
+<div id="sidebar-ad" class="navigation-not-searchable"><div id="dota2_300x250_SATF"></div></div>				</div>
+			</div><!-- /#sidebar-toc-colum -->
+
+			<div class="container-fluid main-content">
+				<div class="row">
+
+					<div id="main-content-column" class="col-md-12">
+						<div id="main-content" class="mw-body">
+
+							<div class="networknotice networknotice-red ie-only-do-not-reuse-this-class">Liquipedia will soon drop support for Internet Explorer.</div><style>@supports(position:sticky){.ie-only-do-not-reuse-this-class{display:none;}}</style><div id="top-ad" class="navigation-not-searchable"><div id="dota2_970x90_ATF"></div></div>
+							<h1 id="firstHeading" class="firstHeading">
+								<span dir="auto">Portal:Tournaments</span>
+							</h1>
+
+														<div id="bodyContent" class="mw-body-content">
+																	<div id="siteSub">
+																			</div>
+								
+								<div id="contentSub">
+																	</div>
+
+								
+								
+								<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="tabs-static"><ul class="nav nav-tabs navigation-not-searchable tabs tabs10"><li class="active"><a class="mw-selflink selflink">Introduction</a></li><li><a href="/dota2/Recent_Tournament_Results" title="Recent Tournament Results">Recent Results</a></li><li><a href="/dota2/Tier_1_Tournaments" title="Tier 1 Tournaments">Tier 1</a></li><li><a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a></li><li><a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a></li><li><a href="/dota2/Tier_4_Tournaments" title="Tier 4 Tournaments">Tier 4</a></li><li><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifiers</a></li><li><a href="/dota2/Monthly_Tournaments" title="Monthly Tournaments">Monthly</a></li><li><a href="/dota2/Weekly_Tournaments" title="Weekly Tournaments">Weekly</a></li><li><a href="/dota2/Show_Matches" title="Show Matches">Show Matches</a></li></ul></div>
+<div id="toc" class="toc hidden-lg hidden-xl"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#About_Tiers"><span class="tocnumber">1</span> <span class="toctext">About Tiers</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tournaments"><span class="tocnumber">2</span> <span class="toctext">Tournaments</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Upcoming"><span class="tocnumber">2.1</span> <span class="toctext">Upcoming</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Ongoing"><span class="tocnumber">2.2</span> <span class="toctext">Ongoing</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Most_Recent"><span class="tocnumber">2.3</span> <span class="toctext">Most Recent</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<dl><dd><i>Unsure on how to create a page for a tournament? Check out the <a href="/dota2/Tournament_tutorial" class="mw-redirect" title="Tournament tutorial">Tournament tutorial</a></i>.</dd></dl>
+<big><center>In this portal you can find the links to every tournament page currently on Liquipedia. Each tab is for each tournament tier.
+<br /><span class="valvemajor-highlighted">Highlighted tournaments</span> are tournaments sponsored by <b><a href="/dota2/Valve" class="mw-redirect" title="Valve">Valve</a></b>.</center></big>
+<h2><span class="mw-headline" id="About_Tiers">About Tiers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=Portal:Tournaments&amp;action=edit&amp;section=1" title="Edit section: About Tiers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tier 1, Tier 2, Tier 3 and Tier 4 are the tiers for the most important tournaments on this wiki. They are categorized as follows:
+</p>
+<table class="rl-responsive-table" style="width:95%;">
+<tbody><tr><th scope="col" style="width:10%">Name</th><th scope="col" style="width:10%">Typical prize pool</th><th scope="col">Description</th></tr>
+<tr><td><b><a href="/dota2/Tier_1_Tournaments" title="Tier 1 Tournaments">Tier 1</a></b></td><td>$300,000+</td><td class="rl-responsive-table-left-align">Former <i>Premier</i>. <b>Tier 1 Tournaments</b> offer an outstanding prize pool, are almost exclusively played offline, and feature the best teams from all over the world.</td></tr>
+<tr><td><b><a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a></b></td><td>$50,000+</td><td class="rl-responsive-table-left-align">Former <i>Major</i>. <b>Tier 2 Tournaments</b> feature a large prize pool and a good number of top-tier teams.</td></tr>
+<tr><td><b><a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a></b></td><td>$3,000+</td><td class="rl-responsive-table-left-align">Former <i>Minor</i>. <b>Tier 3 Tournaments</b> offer a smaller prize pool and less prestige than <b>Tier 2 Tournaments</b> but still draw a high level of competition.</td></tr>
+<tr><td><b><a href="/dota2/Tier_4_Tournaments" title="Tier 4 Tournaments">Tier 4</a></b></td><td>$3,000 or less</td><td class="rl-responsive-table-left-align"><b>Tier 4 Tournaments</b> are the lowest ranked events, almost always played online with no top teams participating.</td></tr>
+</tbody></table>
+<p><i>While the prize pool is an important factor for categorizing tournaments, it does not equal a specific tier.</i>
+</p>
+<h2><span class="mw-headline" id="Tournaments">Tournaments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=Portal:Tournaments&amp;action=edit&amp;section=2" title="Edit section: Tournaments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Upcoming">Upcoming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=Portal:Tournaments&amp;action=edit&amp;section=3" title="Edit section: Upcoming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="table-responsive"><div class="divTable table-full-width tournament-card"><div class="divHeaderRow"><div class="divCell">&#8195;Tier&#8195;&#8195;<abbr title="Series">S</abbr>&#160;&#160;&#160;Tournament</div><div class="divCell">Date</div><div class="divCell">Prize</div><div class="divCell"><abbr title="Number of Participating Teams or Players">P#</abbr></div><div class="divCell">Location</div><div class="divCell">Winner</div><div class="divCell">Runner-up</div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_1_Tournaments" title="Tier 1 Tournaments">Tier 1</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/ONE_Esports_Invitational" title="ONE Esports Invitational"><img alt="ONE Esports Invitational" src="/commons/images/e/e1/ONE_Esports_logo.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/ONE_Esports/Invitational/2020/Jakarta" title="ONE Esports/Invitational/2020/Jakarta">ONE Esports Dota 2 Invitational Jakarta</a></b></div><div class="divCell EventDetails Date Header">Nov 23 - 29, 2020</div><div class="divCell EventDetails Prize Header">$500,000</div><div class="divCell EventDetails PlayerNumber Header">12<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Indonesia" title="Indonesia"><img alt="Indonesia" src="/commons/images/b/bb/Id_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Jakarta<span class="CountryText">, Indonesia</span></div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_4_Tournaments" title="Tier 4 Tournaments">Tier 4</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Axe_Gaming_Heroes" title="Axe Gaming Heroes"><img alt="Axe Gaming Heroes" src="/commons/images/7/77/Axe_Cool_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Axe_Cool_Cup/1" title="Axe Cool Cup/1">Axe Cool Cup</a></b></div><div class="divCell EventDetails Date Header">Oct 16 - 30, 2020</div><div class="divCell EventDetails Prize Header">$500</div><div class="divCell EventDetails PlayerNumber Header">6<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:South_America" title="South America"><img alt="South America" src="/commons/images/7/76/Unasur_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;South America</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Sazka_eLEAGUE" title="Sazka eLEAGUE"><img alt="Sazka eLEAGUE" src="/commons/images/6/67/SAZKA_eLEAGUE_Icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Sazka_eLEAGUE/2020/Summer" title="Sazka eLEAGUE/2020/Summer">Sazka eLEAGUE Summer 2020</a></b></div><div class="divCell EventDetails Date Header">Oct 10 - 11, 2020</div><div class="divCell EventDetails Prize Header">$8,598</div><div class="divCell EventDetails PlayerNumber Header">6<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Czech_Republic" title="Czech Republic"><img alt="Czech Republic" src="/commons/images/d/d4/Cz_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Czech Republic</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/AOC_Play_Dota2/1" title="AOC Play Dota2"><img alt="AOC Play Dota2" src="/commons/images/b/be/UCC_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/AOC_Play_Dota2/1" title="AOC Play Dota2/1">AOC Play Dota2</a></b></div><div class="divCell EventDetails Date Header">Oct 05 - 13, 2020</div><div class="divCell EventDetails Prize Header">$5,000</div><div class="divCell EventDetails PlayerNumber Header">8<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;CIS</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/ESL_One" title="ESL One"><img alt="ESL One" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/ESL_One/Germany/2020" title="ESL One/Germany/2020">ESL One Germany 2020</a></b></div><div class="divCell EventDetails Date Header">Oct 05 - Nov 01, 2020</div><div class="divCell EventDetails Prize Header">$400,000</div><div class="divCell EventDetails PlayerNumber Header">16<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;CIS</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div></div></div>
+<h3><span class="mw-headline" id="Ongoing">Ongoing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=Portal:Tournaments&amp;action=edit&amp;section=4" title="Edit section: Ongoing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="table-responsive"><div class="divTable table-full-width tournament-card"><div class="divHeaderRow"><div class="divCell">&#8195;Tier&#8195;&#8195;<abbr title="Series">S</abbr>&#160;&#160;&#160;Tournament</div><div class="divCell">Date</div><div class="divCell">Prize</div><div class="divCell"><abbr title="Number of Participating Teams or Players">P#</abbr></div><div class="divCell">Location</div><div class="divCell">Winner</div><div class="divCell">Runner-up</div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/ESL_Meisterschaft" title="ESL Meisterschaft"><img alt="ESL Meisterschaft" src="/commons/images/a/a2/ESL_Meisterschaft_2019_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/ESL/Meisterschaft/2020/Season_2" title="ESL/Meisterschaft/2020/Season 2">ESL Meisterschaft 2020 Season 2</a></b></div><div class="divCell EventDetails Date Header">Sep 22, 2020 - Jan 24, 2021</div><div class="divCell EventDetails Prize Header">$31,260</div><div class="divCell EventDetails PlayerNumber Header">12<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Germany" title="Germany"><img alt="Germany" src="/commons/images/0/0c/De_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Germany</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_4_Tournaments" title="Tier 4 Tournaments">Tier 4</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/LPL_Pro_League" title="LPL Pro League"><img alt="LPL Pro League" src="/commons/images/1/1d/LPL_Pro_League_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/LetsPlayLive/2020/ANZ_Championship/Season_3" title="LetsPlayLive/2020/ANZ Championship/Season 3">LPL Pro 2020 Season 3</a></b></div><div class="divCell EventDetails Date Header">Sep 21 - Nov 16, 2020</div><div class="divCell EventDetails Prize Header">$3,534</div><div class="divCell EventDetails PlayerNumber Header">8<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Oceania" title="Oceania"><img alt="Oceania" src="/commons/images/5/5c/Anz_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Oceania<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:Southeast_Asia" title="South East Asia"><img alt="South East Asia" src="/commons/images/8/85/Asean_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;Southeast Asia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/ESL_Premiership" title="ESL Premiership"><img alt="ESL Premiership" src="/commons/images/3/36/ESL_Premiership_2019_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/ESL/UK_Premiership/2020/Autumn" title="ESL/UK Premiership/2020/Autumn">ESL Premiership 2020 Autumn</a></b></div><div class="divCell EventDetails Date Header">Sep 05 - Nov 08, 2020</div><div class="divCell EventDetails Prize Header">$16,558</div><div class="divCell EventDetails PlayerNumber Header">8<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="/commons/images/5/5e/Gb_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;United Kingdom</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Moon_Studio/Mid-Autumn/2020" title="Moon Studio Mid-Autumn League"><img alt="Moon Studio Mid-Autumn League" src="/commons/images/5/5f/Moon_Studio_Mid-Autumn_League_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Moon_Studio/Mid-Autumn/2020" title="Moon Studio/Mid-Autumn/2020">Moon Studio Mid-Autumn League</a></b></div><div class="divCell EventDetails Date Header">Oct 01 - 28, 2020</div><div class="divCell EventDetails Prize Header">$55,000</div><div class="divCell EventDetails PlayerNumber Header">19<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Asia" title="Asia"><img alt="Asia" src="/commons/images/e/e1/Asia_flag_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Asia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Oceanic_Esports_League" title="Oceanic Esports League"><img alt="Oceanic Esports League" src="/commons/images/b/b0/Oceanic_Esports_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Oceanic_Esports_League/2" title="Oceanic Esports League/2">Oceanic Esports League - Season 2</a></b></div><div class="divCell EventDetails Date Header">Aug 05 - Oct 24, 2020</div><div class="divCell EventDetails Prize Header">$24,243</div><div class="divCell EventDetails PlayerNumber Header">10<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Oceania" title="Oceania"><img alt="Oceania" src="/commons/images/5/5c/Anz_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Oceania</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Dota_Pit" title="Dota Pit"><img alt="Dota Pit" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Dota_Pit_League/Online/3/China" title="Dota Pit League/Online/3/China">OGA Dota PIT S3: China</a></b></div><div class="divCell EventDetails Date Header">Sep 29 - Oct 11, 2020</div><div class="divCell EventDetails Prize Header">$90,000</div><div class="divCell EventDetails PlayerNumber Header">10<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:China" title="China"><img alt="China" src="/commons/images/0/01/Cn_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;China</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/FreeWin_Invitational/Europe" title="FreeWin Invitational - Europe"><img alt="FreeWin Invitational - Europe" src="/commons/images/thumb/5/5a/FreeWin_Invitational_Icon.png/43px-FreeWin_Invitational_Icon.png" width="43" height="50" srcset="/commons/images/5/5a/FreeWin_Invitational_Icon.png 1.5x" loading="lazy" /></a></span>&#160;<b><a href="/dota2/FreeWin_Invitational/Europe" title="FreeWin Invitational/Europe">FreeWin Invitational - Europe</a></b></div><div class="divCell EventDetails Date Header">Sep 28 - Oct 09, 2020</div><div class="divCell EventDetails Prize Header">$5,000</div><div class="divCell EventDetails PlayerNumber Header">6<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;CIS</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/China_Dota2_Pro_Cup" title="China Dota2 Pro Cup"><img alt="China Dota2 Pro Cup" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup/1">China Dota2 Pro Cup Season 1</a></b></div><div class="divCell EventDetails Date Header">Sep 17 - Oct 03, 2020</div><div class="divCell EventDetails Prize Header">$80,000</div><div class="divCell EventDetails PlayerNumber Header">10<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:China" title="China"><img alt="China" src="/commons/images/0/01/Cn_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Shanghai<span class="CountryText">, China</span></div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/AOC_Play_Dota2/1/Open_Qualifier/2" title="AOC Play Dota2 - Open Qualifier #2"><img alt="AOC Play Dota2 - Open Qualifier #2" src="/commons/images/b/be/UCC_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/AOC_Play_Dota2/1/Open_Qualifier/2" title="AOC Play Dota2/1/Open Qualifier/2">AOC Play Dota2 - Open Qualifier #2</a></b></div><div class="divCell EventDetails Date Header">Oct 01, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">29<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;CIS</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player"><span data-highlightingclass="TBD" class="team-template-team-standard"><span class="team-template-image"><img alt="" src="/commons/images/9/93/Logo_filler_std.png" width="60" height="25" loading="lazy" /></span> <span class="team-template-text"><abbr title="To Be Determined">TBD</abbr></span></span></span></div></div></div></div></div>
+<h3><span class="mw-headline" id="Most_Recent">Most Recent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=Portal:Tournaments&amp;action=edit&amp;section=5" title="Edit section: Most Recent">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="table-responsive"><div class="divTable table-full-width tournament-card"><div class="divHeaderRow"><div class="divCell">&#8195;Tier&#8195;&#8195;<abbr title="Series">S</abbr>&#160;&#160;&#160;Tournament</div><div class="divCell">Date</div><div class="divCell">Prize</div><div class="divCell"><abbr title="Number of Participating Teams or Players">P#</abbr></div><div class="divCell">Location</div><div class="divCell">Winner</div><div class="divCell">Runner-up</div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/BTS_Pro_Series" title="BTS Pro Series"><img alt="BTS Pro Series" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/BTS/Pro_Series/3/Europe_CIS" title="BTS/Pro Series/3/Europe CIS">BTS Pro Series Season 3: Europe/CIS</a></b></div><div class="divCell EventDetails Date Header">Sep 12 - 30, 2020</div><div class="divCell EventDetails Prize Header">$50,000</div><div class="divCell EventDetails PlayerNumber Header">9<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;CIS</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Vikin.gg" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Vikin.gg" title="Vikin.gg"><img alt="" src="/commons/images/0/02/Vikin.gg_logo_2020_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Vikin.gg" title="Vikin.gg">Vikin.gg</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="mudgolems" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Mudgolems" title="Mudgolems"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Mudgolems&amp;action=edit&amp;redlink=1" class="new" title="Mudgolems (page does not exist)">mudgol.</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/IeSF" title="IeSF"><img alt="IeSF" src="/commons/images/3/3b/IeSF_Icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/IeSF_World_Championship/2020/Czech_Republic" title="IeSF World Championship/2020/Czech Republic">IeSF World Championship 2020 Czech Republic Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 28, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">4<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Czech_Republic" title="Czech Republic"><img alt="Czech Republic" src="/commons/images/d/d4/Cz_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Czech Republic</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Hippomaniacs" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Hippomaniacs" title="Hippomaniacs"><img alt="" src="/commons/images/d/d9/Hippomaniacs_small.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Hippomaniacs" title="Hippomaniacs">HpM</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/IeSF" title="IeSF"><img alt="IeSF" src="/commons/images/3/3b/IeSF_Icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/IeSF_World_Championship/2020/Philippines" title="IeSF World Championship/2020/Philippines">IeSF World Championship 2020 Filipino Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 26 - 27, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">4<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Philippines" title="Philippines"><img alt="Philippines" src="/commons/images/d/db/Ph_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Philippines</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Neon Esports" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Neon_Esports" title="Neon Esports"><img alt="" src="/commons/images/2/28/Neon_Esports_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Neon_Esports" title="Neon Esports">Neon</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/IeSF" title="IeSF"><img alt="IeSF" src="/commons/images/3/3b/IeSF_Icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/IeSF_World_Championship/2020/Indonesia" title="IeSF World Championship/2020/Indonesia">IeSF World Championship 2020 Indonesian Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 26 - 27, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">4<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Indonesia" title="Indonesia"><img alt="Indonesia" src="/commons/images/b/bb/Id_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Indonesia</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Mix Elite Team" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Mix_Elite_Team" title="Mix Elite Team"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Mix_Elite_Team&amp;action=edit&amp;redlink=1" class="new" title="Mix Elite Team (page does not exist)">Mix Elite Team</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/ESL_One" title="ESL One"><img alt="ESL One" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/ESL_One/Germany/2020/Closed_Qualifier" title="ESL One/Germany/2020/Closed Qualifier">ESL One Germany 2020 - Closed Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 25 - 27, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">8<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;CIS</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="mudgolems" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Mudgolems" title="Mudgolems"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Mudgolems&amp;action=edit&amp;redlink=1" class="new" title="Mudgolems (page does not exist)">mudgol.</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Show_Match_Tournaments" class="mw-redirect" title="Show Match Tournaments">Show M.</a>&#160;<span class="league-icon-small-image"><a href="/dota2/Bot_TI/2020" title="Bot TI 2020"><img alt="Bot TI 2020" src="/commons/images/7/72/Beyond_The_Summit_2018_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Bot_TI/2020" title="Bot TI/2020">Bot TI 2020</a></b></div><div class="divCell EventDetails Date Header">Sep 23 - 27, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">&#160;</div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><img alt="" src="/commons/images/a/af/Space_filler_flag.png" width="18" height="12" loading="lazy" /></span></span>&#160;</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="hero_tiny" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Hero_tiny" title="Hero tiny"><img alt="" src="/commons/images/d/db/Tiny_fightclub.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Hero_tiny&amp;action=edit&amp;redlink=1" class="new" title="Hero tiny (page does not exist)">Tiny</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="hero_sand_king" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Hero_sand_king" title="Hero sand king"><img alt="" src="/commons/images/e/ed/Sand_King_fightclub.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Hero_sand_king&amp;action=edit&amp;redlink=1" class="new" title="Hero sand king (page does not exist)">Sand King</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/BTS_Pro_Series" title="BTS Pro Series"><img alt="BTS Pro Series" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/BTS/Pro_Series/3/Southeast_Asia" title="BTS/Pro Series/3/Southeast Asia">BTS Pro Series Season 3: Southeast Asia</a></b></div><div class="divCell EventDetails Date Header">Sep 12 - 27, 2020</div><div class="divCell EventDetails Prize Header">$50,000</div><div class="divCell EventDetails PlayerNumber Header">10<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Southeast_Asia" title="South East Asia"><img alt="South East Asia" src="/commons/images/8/85/Asean_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Southeast Asia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Motivate.Trust Gaming" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Motivate.Trust_Gaming" title="Motivate.Trust Gaming"><img alt="" src="/commons/images/7/7a/Motivate.Trust_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Motivate.Trust_Gaming" title="Motivate.Trust Gaming">MG.Trust</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="BOOM Esports" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/BOOM_Esports" title="BOOM Esports"><img alt="" src="/commons/images/a/a3/Boom_Esports_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/BOOM_Esports" title="BOOM Esports">BOOM</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/AOC_Play_Dota2/1/Open_Qualifier/1" title="AOC Play Dota2 - Open Qualifier #1"><img alt="AOC Play Dota2 - Open Qualifier #1" src="/commons/images/b/be/UCC_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/AOC_Play_Dota2/1/Open_Qualifier/1" title="AOC Play Dota2/1/Open Qualifier/1">AOC Play Dota2 - Open Qualifier #1</a></b></div><div class="divCell EventDetails Date Header">Sep 26, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">21<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;CIS</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Burning Fire" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Burning_Fire" title="Burning Fire"><img alt="" src="/commons/images/c/c6/Burning_Fire_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Burning_Fire" title="Burning Fire">BF</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/IeSF" title="IeSF"><img alt="IeSF" src="/commons/images/3/3b/IeSF_Icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/IeSF_World_Championship/2020/Sweden" title="IeSF World Championship/2020/Sweden">IeSF World Championship 2020 Sweden Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 26, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">2<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Sweden" title="Sweden"><img alt="Sweden" src="/commons/images/0/02/Se_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Stockholm<span class="CountryText">, Sweden</span></div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Team GO" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Team_GO" title="Team GO"><img alt="" src="/commons/images/0/09/Teamgologo_std.png" width="60" height="25" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Team_GO&amp;action=edit&amp;redlink=1" class="new" title="Team GO (page does not exist)">GO</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Dota_Pit" title="Dota Pit"><img alt="Dota Pit" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS" title="Dota Pit League/Online/3/Europe CIS">OGA Dota PIT S3: Europe/CIS</a></b></div><div class="divCell EventDetails Date Header">Sep 23 - 26, 2020</div><div class="divCell EventDetails Prize Header">$170,000</div><div class="divCell EventDetails PlayerNumber Header">8<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;CIS</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Team Secret" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Team_Secret" title="Team Secret"><img alt="" src="/commons/images/a/a7/Secretdotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Team_Secret" title="Team Secret">Secret</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="VP.Prodigy" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/VP.Prodigy" title="VP.Prodigy"><img alt="" src="/commons/images/6/6f/VP.Prodigy_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/VP.Prodigy" title="VP.Prodigy">VP.P</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/ESL_One" title="ESL One"><img alt="ESL One" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/ESL_One/Germany/2020/Open_Qualifier/2" title="ESL One/Germany/2020/Open Qualifier/2">ESL One Germany 2020 - Open Qualifier #2</a></b></div><div class="divCell EventDetails Date Header">Sep 22 - 24, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">65<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;CIS</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Tempo Esports" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Tempo_Esports" title="Tempo Esports"><img alt="" src="/commons/images/2/20/Tempo_Esports_logo_202004_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Tempo_Esports" title="Tempo Esports">Tempo</a></span></span></span><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Winstrike Team" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Winstrike_Team" title="Winstrike Team"><img alt="" src="/commons/images/4/47/Winstrike_Team_2019_std_logo.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Winstrike_Team" title="Winstrike Team">Winstrike</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/BTS_Pro_Series" title="BTS Pro Series"><img alt="BTS Pro Series" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/BTS/Pro_Series/3/Americas" title="BTS/Pro Series/3/Americas">BTS Pro Series Season 3: Americas</a></b></div><div class="divCell EventDetails Date Header">Sep 07 - 22, 2020</div><div class="divCell EventDetails Prize Header">$50,000</div><div class="divCell EventDetails PlayerNumber Header">10<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:North_America" title="North America"><img alt="North America" src="/commons/images/2/21/UsCa_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Americas</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Quincy Crew" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Quincy_Crew" title="Quincy Crew"><img alt="" src="/commons/images/5/54/Quincy_Crew_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Quincy_Crew" title="Quincy Crew">QC</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="CR4ZY" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/CR4ZY" title="CR4ZY"><img alt="" src="/commons/images/b/b4/CR4ZY_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/CR4ZY" title="CR4ZY">CR4ZY</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Law_of_Inertia_League/1" title="Law of Inertia League"><img alt="Law of Inertia League" src="/commons/images/2/22/Law_of_Inertia_League_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Law_of_Inertia_League/1" title="Law of Inertia League/1">Law of Inertia League</a></b></div><div class="divCell EventDetails Date Header">Aug 30 - Sep 22, 2020</div><div class="divCell EventDetails Prize Header">$15,000</div><div class="divCell EventDetails PlayerNumber Header">12<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Asia" title="Asia"><img alt="Asia" src="/commons/images/e/e1/Asia_flag_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Asia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Symmetric" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Symmetric" title="Symmetric"><img alt="" src="/commons/images/c/c9/Symmetric_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Symmetric&amp;action=edit&amp;redlink=1" class="new" title="Symmetric (page does not exist)">SY</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Cignal Ultra" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Cignal_Ultra" title="Cignal Ultra"><img alt="" src="/commons/images/1/10/Cignal_Ultra_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Cignal_Ultra" title="Cignal Ultra">Cignal</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/Dota_Pit" title="Dota Pit"><img alt="Dota Pit" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS/Closed_Qualifier" title="Dota Pit League/Online/3/Europe CIS/Closed Qualifier">OGA Dota PIT S3: Europe/CIS - Closed Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 20 - 21, 2020</div><div class="divCell EventDetails Prize Header">$5,000</div><div class="divCell EventDetails PlayerNumber Header">4<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;CIS</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="FlyToMoon" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/FlyToMoon" title="FlyToMoon"><img alt="" src="/commons/images/2/2b/FlyToMoon_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/FlyToMoon" title="FlyToMoon">FTM</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_4_Tournaments" title="Tier 4 Tournaments">Tier 4</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/RESF_Events" title="RESF Events"><img alt="RESF Events" src="/commons/images/3/3c/RESF.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/City_Online" title="City Online">City Online</a></b></div><div class="divCell EventDetails Date Header">Sep 19 - 20, 2020</div><div class="divCell EventDetails Prize Header">$1,195</div><div class="divCell EventDetails PlayerNumber Header">64<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Russia" title="Russia"><img alt="Russia" src="/commons/images/7/76/Ru_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Russia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="TPB" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/TPB" title="TPB"><img alt="" src="/commons/images/0/07/TPB_new_logo_sm.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/TPB" title="TPB">TPB</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="lowkees" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Lowkees" title="Lowkees"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Lowkees&amp;action=edit&amp;redlink=1" class="new" title="Lowkees (page does not exist)">lowkees</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/ESL_One" title="ESL One"><img alt="ESL One" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/ESL_One/Germany/2020/Open_Qualifier/1" title="ESL One/Germany/2020/Open Qualifier/1">ESL One Germany 2020 - Open Qualifier #1</a></b></div><div class="divCell EventDetails Date Header">Sep 19 - 20, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">56<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe<span class="CountryFlag" style="vertical-align:1px"><br /><span class="flag"><a href="/dota2/Category:CIS" title="CIS"><img alt="CIS" src="/commons/images/2/2b/Cis_hd.png" width="36" height="24" loading="lazy" /></a></span></span><span class="CountryText">&#160;&amp;</span>&#160;CIS</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Team Generation" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Team_Generation" title="Team Generation"><img alt="" src="/commons/images/b/b7/Team_Generation_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Team_Generation&amp;action=edit&amp;redlink=1" class="new" title="Team Generation (page does not exist)">TeamGen</a></span></span></span><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="Yellow Submarine" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Yellow_Submarine" title="Yellow Submarine"><img alt="" src="/commons/images/c/c5/Yellowsubmarinelogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Yellow_Submarine" title="Yellow Submarine">YeS</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_4_Tournaments" title="Tier 4 Tournaments">Tier 4</a>&#160;&#160;&#160;<span class="league-icon-small-image"><img alt="" src="/commons/images/4/44/Logo_filler_event.png" width="50" height="50" loading="lazy" /></span>&#160;<b><a href="/dota2/MSL/MSLD2K_Kerala_Dota2_League_Season2" title="MSL/MSLD2K Kerala Dota2 League Season2">MSL DotA 2 Kerala League 2020: Season 2</a></b></div><div class="divCell EventDetails Date Header">Aug 28 - Sep 20, 2020</div><div class="divCell EventDetails Prize Header">$587</div><div class="divCell EventDetails PlayerNumber Header">28<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:India" title="India"><img alt="India" src="/commons/images/f/f8/In_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;India</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="testmark" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Testmark" title="Testmark"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Testmark&amp;action=edit&amp;redlink=1" class="new" title="Testmark (page does not exist)">?</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="testval" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Testval" title="Testval"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Testval&amp;action=edit&amp;redlink=1" class="new" title="Testval (page does not exist)">VAL VAL 2.0</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_4_Tournaments" title="Tier 4 Tournaments">Tier 4</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Battle_Of_The_Cities" title="Battle Of The Cities"><img alt="Battle Of The Cities" src="/commons/images/0/0f/Battle_of_the_Cities_league_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Battle_Of_The_Cities/2020" title="Battle Of The Cities/2020">Battle Of The Cities 2020</a></b></div><div class="divCell EventDetails Date Header">Sep 19, 2020</div><div class="divCell EventDetails Prize Header">$2,389</div><div class="divCell EventDetails PlayerNumber Header">4<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Russia" title="Russia"><img alt="Russia" src="/commons/images/7/76/Ru_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Russia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="SMARACIS Esports" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/SMARACIS_Esports" title="SMARACIS Esports"><img alt="" src="/commons/images/b/b6/Smaracis_esports_sm.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/SMARACIS_Esports" title="SMARACIS Esports">SeS</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Ural Ghouls" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Ural_Ghouls" title="Ural Ghouls"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Ural_Ghouls&amp;action=edit&amp;redlink=1" class="new" title="Ural Ghouls (page does not exist)">Ural Ghouls</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Monthly_Tournaments" title="Monthly Tournaments">Monthly</a>&#160;<span class="league-icon-small-image"><a href="/dota2/Epulze_Monthly_Cup" title="Epulze Monthly Cup"><img alt="Epulze Monthly Cup" src="/commons/images/3/35/Epulze_logo_m.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Epulze/Monthly_Cup/2020/September" title="Epulze/Monthly Cup/2020/September">Epulze Monthly Cup Europe September 2020</a></b></div><div class="divCell EventDetails Date Header">Sep 19, 2020</div><div class="divCell EventDetails Prize Header">$500</div><div class="divCell EventDetails PlayerNumber Header">42<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Europe" title="Europe"><img alt="Europe" src="/commons/images/f/f3/Eu_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Europe</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="No Bounty Hunter" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/No_Bounty_Hunter" title="No Bounty Hunter"><img alt="" src="/commons/images/f/f0/No_Bounty_Hunter_std_logo.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=No_Bounty_Hunter&amp;action=edit&amp;redlink=1" class="new" title="No Bounty Hunter (page does not exist)">NBH</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Hippomaniacs" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Hippomaniacs" title="Hippomaniacs"><img alt="" src="/commons/images/d/d9/Hippomaniacs_small.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Hippomaniacs" title="Hippomaniacs">HpM</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Monthly_Tournaments" title="Monthly Tournaments">Monthly</a>&#160;<span class="league-icon-small-image"><a href="/dota2/Epulze_Monthly_Cup" title="Epulze Monthly Cup"><img alt="Epulze Monthly Cup" src="/commons/images/3/35/Epulze_logo_m.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Epulze/Monthly_Cup_North_America/2020/September" title="Epulze/Monthly Cup North America/2020/September">Epulze Monthly Cup North America September 2020</a></b></div><div class="divCell EventDetails Date Header">Sep 19, 2020</div><div class="divCell EventDetails Prize Header">$500</div><div class="divCell EventDetails PlayerNumber Header">7<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:North_America" title="North America"><img alt="North America" src="/commons/images/2/21/UsCa_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;North America</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Beaver Cleaver" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Beaver_Cleaver" title="Beaver Cleaver"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Beaver_Cleaver&amp;action=edit&amp;redlink=1" class="new" title="Beaver Cleaver (page does not exist)">BC</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="c4 Reborn" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/C4_Reborn" title="C4 Reborn"><img alt="" src="/commons/images/2/25/C41.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=C4_Reborn&amp;action=edit&amp;redlink=1" class="new" title="C4 Reborn (page does not exist)">c4R</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Monthly_Tournaments" title="Monthly Tournaments">Monthly</a>&#160;<span class="league-icon-small-image"><a href="/dota2/Epulze_Monthly_Cup" title="Epulze Monthly Cup"><img alt="Epulze Monthly Cup" src="/commons/images/3/35/Epulze_logo_m.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Epulze/Monthly_Cup_South_America/2020/September" title="Epulze/Monthly Cup South America/2020/September">Epulze Monthly Cup South America September 2020</a></b></div><div class="divCell EventDetails Date Header">Sep 19, 2020</div><div class="divCell EventDetails Prize Header">$500</div><div class="divCell EventDetails PlayerNumber Header">23<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:South_America" title="South America"><img alt="South America" src="/commons/images/7/76/Unasur_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;South America</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Omega Gaming" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Omega_Gaming" title="Omega Gaming"><img alt="" src="/commons/images/d/d4/Omega_Gaming_std_logo.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Omega_Gaming&amp;action=edit&amp;redlink=1" class="new" title="Omega Gaming (page does not exist)">OmG</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Soul Moon" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Soul_Moon" title="Soul Moon"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Soul_Moon&amp;action=edit&amp;redlink=1" class="new" title="Soul Moon (page does not exist)">SM</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Monthly_Tournaments" title="Monthly Tournaments">Monthly</a>&#160;<span class="league-icon-small-image"><a href="/dota2/Epulze_Monthly_Cup" title="Epulze Monthly Cup"><img alt="Epulze Monthly Cup" src="/commons/images/3/35/Epulze_logo_m.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Epulze/Monthly_Cup_Asia/2020/September" title="Epulze/Monthly Cup Asia/2020/September">Epulze Monthly Cup Southeast Asia September 2020</a></b></div><div class="divCell EventDetails Date Header">Sep 19, 2020</div><div class="divCell EventDetails Prize Header">$500</div><div class="divCell EventDetails PlayerNumber Header">14<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Southeast_Asia" title="South East Asia"><img alt="South East Asia" src="/commons/images/8/85/Asean_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Southeast Asia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Team ENTs" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Team_ENTs" title="Team ENTs"><img alt="" src="/commons/images/a/a0/Team_ENTs_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Team_ENTs&amp;action=edit&amp;redlink=1" class="new" title="Team ENTs (page does not exist)">ENTs</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Reckoning Esports" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Reckoning_Esports" title="Reckoning Esports"><img alt="" src="/commons/images/f/f7/Reckoning_Esports_logo_2019_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Reckoning_Esports" title="Reckoning Esports">RE</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/IeSF" title="IeSF"><img alt="IeSF" src="/commons/images/3/3b/IeSF_Icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/IeSF_World_Championship/2020/Kazakhstan" title="IeSF World Championship/2020/Kazakhstan">IeSF World Championship 2020 Kazakhstan Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 15 - 16, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">14<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Kazakhstan" title="Kazakhstan"><img alt="Kazakhstan" src="/commons/images/9/91/Kz_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Kazakhstan</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="FreeAgenti" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/FreeAgenti" title="FreeAgenti"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=FreeAgenti&amp;action=edit&amp;redlink=1" class="new" title="FreeAgenti (page does not exist)">FreeAgenti</a></span></span></span></div></div></div><div class="divRow"><div class="divCell Tournament Header">&#160;&#160;<a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a>&#160;&#160;&#160;<span class="league-icon-small-image"><a href="/dota2/Hari_Merdeka_Hari_Malaysia/2020" title="ENTs Hari Merdeka &amp; Hari Malaysia 2020"><img alt="ENTs Hari Merdeka &amp; Hari Malaysia 2020" src="/commons/images/d/d2/ENTs_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/Hari_Merdeka_Hari_Malaysia/2020" title="Hari Merdeka Hari Malaysia/2020">ENTs Hari Merdeka &amp; Hari Malaysia 2020</a></b></div><div class="divCell EventDetails Date Header">Sep 13 - 16, 2020</div><div class="divCell EventDetails Prize Header">$7,263</div><div class="divCell EventDetails PlayerNumber Header">8<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:Malaysia" title="Malaysia"><img alt="Malaysia" src="/commons/images/1/13/My_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;Malaysia</div><div class="divCell Placement FirstPlace"><span class="Medal"><span title="First Place"><img alt="" src="/commons/images/1/10/Gold.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="IO" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/IO" title="IO"><img alt="" src="/commons/images/8/88/IO_Dota2_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=IO&amp;action=edit&amp;redlink=1" class="new" title="IO (page does not exist)">IO</a></span></span></div><div class="divCell Placement SecondPlace"><span class="Medal"><span title="Second Place"><img alt="" src="/commons/images/0/0b/Silver.png" width="24" height="24" loading="lazy" /></span>&#160;</span><span data-highlightingclass="Galaxy Racer" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Galaxy_Racer" title="Galaxy Racer"><img alt="" src="/commons/images/3/3e/Galaxy_Racer_Esports_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Galaxy_Racer" title="Galaxy Racer">GXR</a></span></span></div></div><div class="divRow"><div class="divCell Tournament Header"><a href="/dota2/Qualifier_Tournaments" class="mw-redirect" title="Qualifier Tournaments">Qualifier</a>&#160;<span class="league-icon-small-image"><a href="/dota2/China_Dota2_Pro_Cup" title="China Dota2 Pro Cup"><img alt="China Dota2 Pro Cup" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span>&#160;<b><a href="/dota2/China_Dota2_Pro_Cup/1/Open_Qualifier" title="China Dota2 Pro Cup/1/Open Qualifier">China Dota2 Pro Cup Season 1: Open Qualifier</a></b></div><div class="divCell EventDetails Date Header">Sep 14 - 15, 2020</div><div class="divCell EventDetails Prize Header">&#160;</div><div class="divCell EventDetails PlayerNumber Header">21<span class="PlayerNumberSuffix">&#160;teams</span></div><div class="divCell EventDetails Location Header"><span class="CountryFlag" style="vertical-align:1px"><span class="flag"><a href="/dota2/Category:China" title="China"><img alt="China" src="/commons/images/0/01/Cn_hd.png" width="36" height="24" loading="lazy" /></a></span></span>&#160;China</div><div class="divCell Placement FirstPlaceBlank"></div><div class="divCell Placement QualifiedPlace"><div class="mobile-unset-max-width" style="max-width:280px"><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="LBZS" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/LBZS" title="LBZS"><img alt="" src="/commons/images/4/41/LBZS_logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=LBZS&amp;action=edit&amp;redlink=1" class="new" title="LBZS (page does not exist)">LBZS</a></span></span></span><span class="Player" style="margin-right:5px;white-space:nowrap;display:inline-block"><span data-highlightingclass="MelonMan" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/MelonMan" title="MelonMan"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=MelonMan&amp;action=edit&amp;redlink=1" class="new" title="MelonMan (page does not exist)">Melon</a></span></span></span></div></div></div></div></div>
+
+<div class="content-ad navigation-not-searchable"><div id="dota2_970x250_BTF"></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20201001174304
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0.001 seconds
+CPU time usage: 0.404 seconds
+Real time usage: 0.619 seconds
+Preprocessor visited node count: 1111/1500000
+Preprocessor generated node count: 2470/1250000
+Post‐expand include size: 62069/3170304 bytes
+Template argument size: 1/3170304 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.069/3.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+Memory usage: 12 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   20.330      1 -total
+ 94.23%   19.158      1 Template:TournamentTabsHeader
+ 88.57%   18.007      1 Template:Tabs_static
+  5.16%    1.049      6 Template:TierDisplay/1
+  4.29%    0.871      6 Template:TierDisplay/2
+  4.27%    0.868      6 Template:TierDisplay/3
+  4.16%    0.846      6 Template:TierDisplay/4
+-->
+</div>
+<!-- Saved in parser cache with key liquipedia-wikidota_:stable-pcache:idhash:831-0!canonical and timestamp 20201001174304 and revision id 1070955
+ -->
+</div>
+																	<div class="printfooter">
+										Retrieved from "<a dir="ltr" href="https://liquipedia.net/dota2/index.php?title=Portal:Tournaments&amp;oldid=1070955">https://liquipedia.net/dota2/index.php?title=Portal:Tournaments&amp;oldid=1070955</a>"									</div>
+																<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/dota2/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/dota2/index.php?title=Category:Pages_with_underscore_team_templates&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with underscore team templates (page does not exist)">Pages with underscore team templates</a></li><li><a href="/dota2/Category:Competitions" title="Category:Competitions">Competitions</a></li></ul></div></div>								<div class="visualClear"></div>
+															</div>
+						</div>
+					</div><!-- /#main-content-column -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /#wrap -->
+
+				<div id="footer" class="footer">
+			<div class="container-fluid">
+				<div class="col-md-12">
+					<div class="row">
+						<div class="footer-links">
+							<div class="col-md-2 hidden-sm hidden-xs">
+								<div class="col">
+									<a id="footer-logo-big" href="https://liquipedia.net"></a>
+								</div>
+							</div>
+
+							<div class="col-md-2 col-sm-3 col-xs-6">
+								<div class="col">
+									<h4>Our Wikis</h4>
+									<ul>
+										<li><a href="/apexlegends/" target="_blank">Apex Legends</a></li>
+										<li><a href="/artifact/" target="_blank">Artifact</a></li>
+										<li><a href="/starcraft/" target="_blank">Brood War</a></li>
+										<li><a href="/counterstrike/" target="_blank">Counter-Strike</a></li>
+										<li><a href="/dota2/" target="_blank">Dota 2</a></li>
+										<li><a href="/hearthstone/" target="_blank">Hearthstone</a></li>
+										<li><a href="/heroes/" target="_blank">Heroes of the Storm</a></li>
+										<li><a href="/leagueoflegends/" target="_blank">League of Legends</a></li>
+										<li><a href="/overwatch/" target="_blank">Overwatch</a></li>
+										<li><a href="/pubg/" target="_blank">PUBG</a></li>
+										<li><a href="/rainbowsix/" target="_blank">Rainbow Six</a></li>
+										<li><a href="/rocketleague/" target="_blank">Rocket League</a></li>
+										<li><a href="/smash/" target="_blank">Smash</a></li>
+										<li><a href="/starcraft2/" target="_blank">StarCraft II</a></li>
+										<li><a href="/warcraft/" target="_blank">Warcraft III</a></li>
+										<li><a href="/commons/" target="_blank">Commons</a></li>
+									</ul>
+								</div>
+							</div>
+
+							<div class="col-md-2 col-sm-3 col-xs-6">
+								<h4>Alpha</h4>
+								<ul>
+									<li><a href="/fortnite/" target="_blank">Fortnite</a></li>
+									<li><a href="/arenafps/" target="_blank">Arena FPS</a></li>
+									<li><a href="/teamfortress/" target="_blank">Team Fortress</a></li>
+									<li><a href="/worldofwarcraft/" target="_blank">World of Warcraft</a></li>
+									<li><a href="/fighters/" target="_blank">Fighting Games</a></li>
+									<li><a href="/fifa/" target="_blank">FIFA</a></li>
+									<li><a href="/clashroyale/" target="_blank">Clash Royale</a></li>
+									<li><a href="/arenaofvalor/" target="_blank">Arena of Valor</a></li>
+									<li><a href="/paladins/" target="_blank">Paladins</a></li>
+								</ul>
+							</div>
+							<div class="col-md-2 col-sm-3 col-xs-6">
+								<h4>About</h4>
+								<ul>
+																			<li id="footer-places-privacy">
+											<a href="/dota2/Liquipedia:Privacy_policy" class="mw-redirect" title="Liquipedia:Privacy policy">Privacy policy</a>										</li>
+																			<li id="footer-places-about">
+											<a href="/dota2/Liquipedia:About" class="mw-redirect" title="Liquipedia:About">About Liquipedia Dota 2 Wiki</a>										</li>
+																			<li id="footer-places-disclaimer">
+											<a href="/dota2/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a>										</li>
+																		<li><a href="#" id="ncmp-consent-link"></a></li>
+								</ul>
+								<h4>Contact Us</h4>
+								<ul>
+									<li><a href="mailto:contact@liquipedia.net">Send an email</a></li>
+									<li><a href="https://tl.net/forum/website-feedback/94785-liquipedia-feedback-thread" target="_blank">Post feedback</a></li>
+									<li><a href="https://liquipedia.net/discord" target="_blank">Chat with us</a></li>
+								</ul>
+							</div>
+
+							<div class="col-md-2 hidden-sm hidden-xs">
+								<h4>Affiliated Sites</h4>
+								<ul>
+									<li><a href="https://liquipedia.net">Liquipedia Portal</a></li>
+									<li><a href="https://tl.net" target="_blank">TL.net</a></li>
+									<li><a href="https://www.liquiddota.com" target="_blank">LiquidDota.com</a></li>
+									<li><a href="https://www.liquidlegends.net" target="_blank">LiquidLegends.net</a></li>
+									<li><a href="https://masterleague.net/" target="_blank">MasterLeague.net</a></li>
+									<li><a href="https://qihl.gg/" target="_blank">qihl.gg</a></li>
+								</ul>
+							</div>
+
+							<div class="col-md-2 col-sm-3 col-xs-12">
+								<h4 class="hidden-xs">Follow Us</h4>
+								<ul id="footer-social-media">
+									<li>
+										<a target="_blank" href="https://twitter.com/LiquipediaNet" class="social-icon twitter-icon">
+											<span class="social-link">Twitter</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://www.facebook.com/Liquipedia" class="social-icon facebook-icon">
+											<span class="social-link">Facebook</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://www.youtube.com/user/Liquipedia" class="social-icon youtube-icon">
+											<span class="social-link">YouTube</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://www.twitch.tv/liquipedia" class="social-icon twitch-icon">
+											<span class="social-link">Twitch</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://github.com/Liquipedia" class="social-icon github-icon">
+											<span class="social-link">GitHub</span>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div><!-- ./footer-links -->
+					</div><!-- ./row -->
+				</div><!-- ./col-lg-8 -->
+
+				<div style="text-align:center;padding-bottom:1em;" class="col-md-12 col-xs-12">
+					<ul id="f-list">
+														<li id="footer-info-lastmod">
+									 This page was last edited on 27 September 2020, at 06:50.								</li>
+																<li id="footer-info-copyright">
+									Text/code is available under <a href="/dota2/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.								</li>
+													</ul><!-- #/f-list -->
+				</div><!-- ./col-lg-8 -->
+			</div><!-- /.container-fluid -->
+		</div><!-- /.footer -->
+
+		<script>/*<![CDATA[*/(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load('/commons/load.php?debug=false&articles=UseStrict.js%7CPolyfill.js%7CCore.js%7CBracket.js%7CCollapse.js%7CCopyToClipboard.js%7CCountdown.js%7CCrosstable.js%7CFilterButtons.js%7CLiquipedia_links.js%7CMainpage.js%7CMiscellaneous.js%7CPrizepooltable.js%7CSelectall.js%7CSiteNotice.js%7CTabs.js%7CCoreEnd.js&only=scripts&mode=articles&cacheversion=31&*');});/*]]>*/</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0.001},"limitreport":{"cputime":"0.404","walltime":"0.619","ppvisitednodes":{"value":1111,"limit":1500000},"ppgeneratednodes":{"value":2470,"limit":1250000},"postexpandincludesize":{"value":62069,"limit":3170304},"templateargumentsize":{"value":1,"limit":3170304},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   20.330      1 -total"," 94.23%   19.158      1 Template:TournamentTabsHeader"," 88.57%   18.007      1 Template:Tabs_static","  5.16%    1.049      6 Template:TierDisplay/1","  4.29%    0.871      6 Template:TierDisplay/2","  4.27%    0.868      6 Template:TierDisplay/3","  4.16%    0.846      6 Template:TierDisplay/4"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"3.000"},"limitreport-memusage":{"value":1687543,"limit":52428800}},"liquipedia":{"memory-usage":"12 MB"},"cachereport":{"timestamp":"20201001174304","ttl":86400,"transientcontent":false}}});});</script><script type="text/javascript">
+if(document.getElementById("dota2_336x280_BTF") !== null) {
+window["nitroAds"].createAd("dota2_336x280_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  },
+  "mediaQuery": "(min-width: 320px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_300x250_SATF") !== null) {
+window["nitroAds"].createAd("dota2_300x250_SATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  },
+  "mediaQuery": "(min-width: 1305px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_300x1050_SATF") !== null) {
+window["nitroAds"].createAd("dota2_300x1050_SATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["300","250"],
+    ["160","600"],
+    ["300","600"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  },
+  "mediaQuery": "(min-width: 1305px)"
+});}
+</script><script type="text/javascript">
+window["nitroAds"].createAd("dota2_970x90_ATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["320","50"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 320px) and (max-width: 747px)"
+});
+</script>
+
+<script type="text/javascript">
+window["nitroAds"].createAd("dota2_970x90_ATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["728", "90"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 748px) and (max-width: 989px)"
+});
+</script>
+
+<script type="text/javascript">
+window["nitroAds"].createAd("dota2_970x90_ATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["970","90"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 990px)"
+});
+</script><script type="text/javascript">
+if(document.getElementById("dota2_728x90_BTF") !== null) {
+window["nitroAds"].createAd("dota2_728x90_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["320","50"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 320px) and (max-width: 747px)"
+});
+}
+</script>
+
+<script type="text/javascript">
+if(document.getElementById("dota2_728x90_BTF") !== null) {
+window["nitroAds"].createAd("dota2_728x90_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["728", "90"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 748px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_970x250_BTF") !== null) {
+window["nitroAds"].createAd("dota2_970x250_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["320","50"],
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 320px) and (max-width: 747px)"
+});
+}
+</script>
+
+<script type="text/javascript">
+if(document.getElementById("dota2_970x250_BTF") !== null) {
+window["nitroAds"].createAd("dota2_970x250_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["728", "90"],
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 748px) and (max-width: 989px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_970x250_BTF") !== null) {
+window["nitroAds"].createAd("dota2_970x250_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "visibleMargin": 250,
+  "sizes": [
+    ["728", "90"],
+    ["300","250"],
+    ["970","90"],
+    ["970","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 990px)"
+});
+}
+</script>
+<!-- GA -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-576564-4"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() { dataLayer.push( arguments ); }
+	gtag( 'js', new Date() );
+	gtag( 'config', 'UA-576564-4', { 'anonymize_ip': true } );
+	gtag( 'config', 'UA-576564-21', { 'anonymize_ip': true } );
+</script>
+<!-- TL -->
+<script>
+	( function() {
+		if ( typeof window.fetch === 'function' ) {
+			var w = window.location.href;
+			if ( w.indexOf( '.php' ) == -1 ) {
+				var data = 'action=wikiPageView&url=' + encodeURIComponent( w );
+				window.fetch(
+					"/stats/",
+					{
+						method: 'POST',
+						headers: new Headers(
+							{
+								'Content-Type': 'application/x-www-form-urlencoded'
+							}
+						),
+						body: data
+					}
+				);
+			}
+		}
+	} )();
+</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":876});});</script>
+		</body>
+		</html>
+
+		

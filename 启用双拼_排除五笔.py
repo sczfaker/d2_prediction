@@ -15,7 +15,6 @@ class ClassName(object):
 		return
 	def railway_system(self):
 		dij=["汉口","武昌","汉阳","钟祥","东莞","东莞东"]
-		jdi=["抖音爬虫解君愁","种子基因编辑","孟德尔是如何解决自己的饥饿的"]
 		return
 	def filter_style(self):
 		return

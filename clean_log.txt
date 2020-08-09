@@ -1,0 +1,3016 @@
+success 5498639749 normalmatch_5498639749.txt
+success 5492580659 normalmatch_5492580659.txt
+success 5492580659 normalmatch_5492580659.txt
+success 5492647859 normalmatch_5492647859.txt
+success 5492647859 normalmatch_5492647859.txt
+success 5492719175 normalmatch_5492719175.txt
+success 5492719175 normalmatch_5492719175.txt
+success 5492735830 normalmatch_5492735830.txt
+success 5492735830 normalmatch_5492735830.txt
+success 5492788727 normalmatch_5492788727.txt
+success 5492788727 normalmatch_5492788727.txt
+success 5492832475 normalmatch_5492832475.txt
+success 5492832475 normalmatch_5492832475.txt
+success 5492931292 normalmatch_5492931292.txt
+success 5492931292 normalmatch_5492931292.txt
+success 5492975204 normalmatch_5492975204.txt
+success 5492975204 normalmatch_5492975204.txt
+success 5492990124 normalmatch_5492990124.txt
+success 5492990124 normalmatch_5492990124.txt
+success 5492992876 normalmatch_5492992876.txt
+success 5492992876 normalmatch_5492992876.txt
+success 5493029293 normalmatch_5493029293.txt
+success 5493029293 normalmatch_5493029293.txt
+success 5493056425 normalmatch_5493056425.txt
+success 5493056425 normalmatch_5493056425.txt
+success 5493059852 normalmatch_5493059852.txt
+success 5493059852 normalmatch_5493059852.txt
+success 5493062231 normalmatch_5493062231.txt
+success 5493062231 normalmatch_5493062231.txt
+success 5493085291 normalmatch_5493085291.txt
+success 5493085291 normalmatch_5493085291.txt
+success 5493086049 normalmatch_5493086049.txt
+success 5493086049 normalmatch_5493086049.txt
+success 5493114541 normalmatch_5493114541.txt
+success 5493114541 normalmatch_5493114541.txt
+success 5493134740 normalmatch_5493134740.txt
+success 5493134740 normalmatch_5493134740.txt
+success 5493138300 normalmatch_5493138300.txt
+success 5493138300 normalmatch_5493138300.txt
+success 5493140818 normalmatch_5493140818.txt
+success 5493140818 normalmatch_5493140818.txt
+success 5493170600 normalmatch_5493170600.txt
+success 5493170600 normalmatch_5493170600.txt
+success 5493172315 normalmatch_5493172315.txt
+success 5493172315 normalmatch_5493172315.txt
+success 5493194191 normalmatch_5493194191.txt
+success 5493194191 normalmatch_5493194191.txt
+success 5493208218 normalmatch_5493208218.txt
+success 5493208218 normalmatch_5493208218.txt
+success 5493220595 normalmatch_5493220595.txt
+success 5493220595 normalmatch_5493220595.txt
+success 5493245777 normalmatch_5493245777.txt
+success 5493245777 normalmatch_5493245777.txt
+success 5493267857 normalmatch_5493267857.txt
+success 5493267857 normalmatch_5493267857.txt
+success 5493282066 normalmatch_5493282066.txt
+success 5493282066 normalmatch_5493282066.txt
+success 5493301791 normalmatch_5493301791.txt
+success 5493301791 normalmatch_5493301791.txt
+success 5493319167 normalmatch_5493319167.txt
+success 5493319167 normalmatch_5493319167.txt
+success 5493349281 normalmatch_5493349281.txt
+success 5493349281 normalmatch_5493349281.txt
+success 5493358642 normalmatch_5493358642.txt
+success 5493358642 normalmatch_5493358642.txt
+success 5493394735 normalmatch_5493394735.txt
+success 5493394735 normalmatch_5493394735.txt
+success 5493418929 normalmatch_5493418929.txt
+success 5493418929 normalmatch_5493418929.txt
+success 5493434525 normalmatch_5493434525.txt
+success 5493434525 normalmatch_5493434525.txt
+success 5493443054 normalmatch_5493443054.txt
+success 5493443054 normalmatch_5493443054.txt
+success 5493495642 normalmatch_5493495642.txt
+success 5493495642 normalmatch_5493495642.txt
+success 5493527422 normalmatch_5493527422.txt
+success 5493527422 normalmatch_5493527422.txt
+success 5493527633 normalmatch_5493527633.txt
+success 5493527633 normalmatch_5493527633.txt
+success 5493560034 normalmatch_5493560034.txt
+success 5493560034 normalmatch_5493560034.txt
+success 5493573881 normalmatch_5493573881.txt
+success 5493573881 normalmatch_5493573881.txt
+success 5493615686 normalmatch_5493615686.txt
+success 5493615686 normalmatch_5493615686.txt
+success 5493623603 normalmatch_5493623603.txt
+success 5493623603 normalmatch_5493623603.txt
+success 5493692408 normalmatch_5493692408.txt
+success 5493692408 normalmatch_5493692408.txt
+success 5493824188 normalmatch_5493824188.txt
+success 5493824188 normalmatch_5493824188.txt
+success 5493831374 normalmatch_5493831374.txt
+success 5493831374 normalmatch_5493831374.txt
+success 5493979459 normalmatch_5493979459.txt
+success 5493979459 normalmatch_5493979459.txt
+success 5494063252 normalmatch_5494063252.txt
+success 5494063252 normalmatch_5494063252.txt
+success 5494088497 normalmatch_5494088497.txt
+success 5494088497 normalmatch_5494088497.txt
+success 5494114545 normalmatch_5494114545.txt
+success 5494114545 normalmatch_5494114545.txt
+success 5494161265 normalmatch_5494161265.txt
+success 5494161265 normalmatch_5494161265.txt
+success 5494309648 normalmatch_5494309648.txt
+success 5494309648 normalmatch_5494309648.txt
+success 5494420969 normalmatch_5494420969.txt
+success 5494420969 normalmatch_5494420969.txt
+success 5494466790 normalmatch_5494466790.txt
+success 5494466790 normalmatch_5494466790.txt
+success 5494467653 normalmatch_5494467653.txt
+success 5494467653 normalmatch_5494467653.txt
+success 5494503140 normalmatch_5494503140.txt
+success 5494503140 normalmatch_5494503140.txt
+success 5494527691 normalmatch_5494527691.txt
+success 5494527691 normalmatch_5494527691.txt
+success 5494578577 normalmatch_5494578577.txt
+success 5494578577 normalmatch_5494578577.txt
+success 5494583105 normalmatch_5494583105.txt
+success 5494583105 normalmatch_5494583105.txt
+success 5494608892 normalmatch_5494608892.txt
+success 5494608892 normalmatch_5494608892.txt
+success 5494668158 normalmatch_5494668158.txt
+success 5494668158 normalmatch_5494668158.txt
+success 5494679458 normalmatch_5494679458.txt
+success 5494679458 normalmatch_5494679458.txt
+success 5494730830 normalmatch_5494730830.txt
+success 5494730830 normalmatch_5494730830.txt
+success 5494762410 normalmatch_5494762410.txt
+success 5494762410 normalmatch_5494762410.txt
+success 5494788648 normalmatch_5494788648.txt
+success 5494788648 normalmatch_5494788648.txt
+success 5494801067 normalmatch_5494801067.txt
+success 5494801067 normalmatch_5494801067.txt
+success 5494813005 normalmatch_5494813005.txt
+success 5494813005 normalmatch_5494813005.txt
+success 5494843591 normalmatch_5494843591.txt
+success 5494843591 normalmatch_5494843591.txt
+success 5494862167 normalmatch_5494862167.txt
+success 5494862167 normalmatch_5494862167.txt
+success 5494903720 normalmatch_5494903720.txt
+success 5494903720 normalmatch_5494903720.txt
+success 5494958835 normalmatch_5494958835.txt
+success 5494958835 normalmatch_5494958835.txt
+success 5494976926 normalmatch_5494976926.txt
+success 5494976926 normalmatch_5494976926.txt
+success 5495031598 normalmatch_5495031598.txt
+success 5495031598 normalmatch_5495031598.txt
+success 5495063364 normalmatch_5495063364.txt
+success 5495063364 normalmatch_5495063364.txt
+success 5495074950 normalmatch_5495074950.txt
+success 5495074950 normalmatch_5495074950.txt
+success 5495080072 normalmatch_5495080072.txt
+success 5495080072 normalmatch_5495080072.txt
+success 5495107730 normalmatch_5495107730.txt
+success 5495107730 normalmatch_5495107730.txt
+success 5495110868 normalmatch_5495110868.txt
+success 5495110868 normalmatch_5495110868.txt
+success 5495222756 normalmatch_5495222756.txt
+success 5495222756 normalmatch_5495222756.txt
+success 5495321748 normalmatch_5495321748.txt
+success 5495321748 normalmatch_5495321748.txt
+success 5495363389 normalmatch_5495363389.txt
+success 5495363389 normalmatch_5495363389.txt
+success 5495416409 normalmatch_5495416409.txt
+success 5495416409 normalmatch_5495416409.txt
+success 5495432485 normalmatch_5495432485.txt
+success 5495432485 normalmatch_5495432485.txt
+success 5495494964 normalmatch_5495494964.txt
+success 5495494964 normalmatch_5495494964.txt
+success 5495497308 normalmatch_5495497308.txt
+success 5495497308 normalmatch_5495497308.txt
+success 5495538870 normalmatch_5495538870.txt
+success 5495538870 normalmatch_5495538870.txt
+success 5495561670 normalmatch_5495561670.txt
+success 5495561670 normalmatch_5495561670.txt
+success 5495577116 normalmatch_5495577116.txt
+success 5495577116 normalmatch_5495577116.txt
+success 5495611329 normalmatch_5495611329.txt
+success 5495611329 normalmatch_5495611329.txt
+success 5495625475 normalmatch_5495625475.txt
+success 5495625475 normalmatch_5495625475.txt
+success 5495625996 normalmatch_5495625996.txt
+success 5495625996 normalmatch_5495625996.txt
+success 5495666982 normalmatch_5495666982.txt
+success 5495666982 normalmatch_5495666982.txt
+success 5495727053 normalmatch_5495727053.txt
+success 5495727053 normalmatch_5495727053.txt
+success 5495804162 normalmatch_5495804162.txt
+success 5495804162 normalmatch_5495804162.txt
+success 5495817503 normalmatch_5495817503.txt
+success 5495817503 normalmatch_5495817503.txt
+success 5495821574 normalmatch_5495821574.txt
+success 5495821574 normalmatch_5495821574.txt
+success 5495837642 normalmatch_5495837642.txt
+success 5495837642 normalmatch_5495837642.txt
+success 5495844103 normalmatch_5495844103.txt
+success 5495844103 normalmatch_5495844103.txt
+success 5495856812 normalmatch_5495856812.txt
+success 5495856812 normalmatch_5495856812.txt
+success 5495889555 normalmatch_5495889555.txt
+success 5495889555 normalmatch_5495889555.txt
+success 5495900764 normalmatch_5495900764.txt
+success 5495900764 normalmatch_5495900764.txt
+success 5495904358 normalmatch_5495904358.txt
+success 5495904358 normalmatch_5495904358.txt
+success 5495909548 normalmatch_5495909548.txt
+success 5495909548 normalmatch_5495909548.txt
+success 5495916667 normalmatch_5495916667.txt
+success 5495916667 normalmatch_5495916667.txt
+success 5495922905 normalmatch_5495922905.txt
+success 5495922905 normalmatch_5495922905.txt
+success 5495926401 normalmatch_5495926401.txt
+success 5495926401 normalmatch_5495926401.txt
+success 5495926607 normalmatch_5495926607.txt
+success 5495926607 normalmatch_5495926607.txt
+success 5495949420 normalmatch_5495949420.txt
+success 5495949420 normalmatch_5495949420.txt
+success 5495953960 normalmatch_5495953960.txt
+success 5495953960 normalmatch_5495953960.txt
+success 5495971132 normalmatch_5495971132.txt
+success 5495971132 normalmatch_5495971132.txt
+success 5495991443 normalmatch_5495991443.txt
+success 5495991443 normalmatch_5495991443.txt
+success 5495998006 normalmatch_5495998006.txt
+success 5495998006 normalmatch_5495998006.txt
+success 5496018648 normalmatch_5496018648.txt
+success 5496018648 normalmatch_5496018648.txt
+success 5496024659 normalmatch_5496024659.txt
+success 5496024659 normalmatch_5496024659.txt
+success 5496034419 normalmatch_5496034419.txt
+success 5496034419 normalmatch_5496034419.txt
+success 5496056103 normalmatch_5496056103.txt
+success 5496056103 normalmatch_5496056103.txt
+success 5496067787 normalmatch_5496067787.txt
+success 5496067787 normalmatch_5496067787.txt
+success 5496079256 normalmatch_5496079256.txt
+success 5496079256 normalmatch_5496079256.txt
+success 5496088066 normalmatch_5496088066.txt
+success 5496088066 normalmatch_5496088066.txt
+success 5496095704 normalmatch_5496095704.txt
+success 5496095704 normalmatch_5496095704.txt
+success 5496100930 normalmatch_5496100930.txt
+success 5496100930 normalmatch_5496100930.txt
+success 5496101974 normalmatch_5496101974.txt
+success 5496101974 normalmatch_5496101974.txt
+success 5496108376 normalmatch_5496108376.txt
+success 5496108376 normalmatch_5496108376.txt
+success 5496110545 normalmatch_5496110545.txt
+success 5496110545 normalmatch_5496110545.txt
+success 5496134317 normalmatch_5496134317.txt
+success 5496134317 normalmatch_5496134317.txt
+success 5496183883 normalmatch_5496183883.txt
+success 5496183883 normalmatch_5496183883.txt
+success 5496191514 normalmatch_5496191514.txt
+success 5496191514 normalmatch_5496191514.txt
+success 5496209925 normalmatch_5496209925.txt
+success 5496209925 normalmatch_5496209925.txt
+success 5496235941 normalmatch_5496235941.txt
+success 5496235941 normalmatch_5496235941.txt
+success 5496289944 normalmatch_5496289944.txt
+success 5496289944 normalmatch_5496289944.txt
+success 5496310819 normalmatch_5496310819.txt
+success 5496310819 normalmatch_5496310819.txt
+success 5496315536 normalmatch_5496315536.txt
+success 5496315536 normalmatch_5496315536.txt
+success 5496371584 normalmatch_5496371584.txt
+success 5496371584 normalmatch_5496371584.txt
+success 5496437868 normalmatch_5496437868.txt
+success 5496437868 normalmatch_5496437868.txt
+success 5496454051 normalmatch_5496454051.txt
+success 5496454051 normalmatch_5496454051.txt
+success 5496620536 normalmatch_5496620536.txt
+success 5496620536 normalmatch_5496620536.txt
+success 5496659472 normalmatch_5496659472.txt
+success 5496659472 normalmatch_5496659472.txt
+success 5496661759 normalmatch_5496661759.txt
+success 5496661759 normalmatch_5496661759.txt
+success 5496712644 normalmatch_5496712644.txt
+success 5496712644 normalmatch_5496712644.txt
+success 5496783882 normalmatch_5496783882.txt
+success 5496783882 normalmatch_5496783882.txt
+success 5496883508 normalmatch_5496883508.txt
+success 5496883508 normalmatch_5496883508.txt
+success 5496905488 normalmatch_5496905488.txt
+success 5496905488 normalmatch_5496905488.txt
+success 5496916960 normalmatch_5496916960.txt
+success 5496916960 normalmatch_5496916960.txt
+success 5496938864 normalmatch_5496938864.txt
+success 5496938864 normalmatch_5496938864.txt
+success 5496952320 normalmatch_5496952320.txt
+success 5496952320 normalmatch_5496952320.txt
+success 5497071630 normalmatch_5497071630.txt
+success 5497071630 normalmatch_5497071630.txt
+success 5497080748 normalmatch_5497080748.txt
+success 5497080748 normalmatch_5497080748.txt
+success 5497123749 normalmatch_5497123749.txt
+success 5497123749 normalmatch_5497123749.txt
+success 5497129795 normalmatch_5497129795.txt
+success 5497129795 normalmatch_5497129795.txt
+success 5497142856 normalmatch_5497142856.txt
+success 5497142856 normalmatch_5497142856.txt
+success 5497147552 normalmatch_5497147552.txt
+success 5497147552 normalmatch_5497147552.txt
+success 5497156277 normalmatch_5497156277.txt
+success 5497156277 normalmatch_5497156277.txt
+success 5497161564 normalmatch_5497161564.txt
+success 5497161564 normalmatch_5497161564.txt
+success 5497170574 normalmatch_5497170574.txt
+success 5497170574 normalmatch_5497170574.txt
+success 5497172994 normalmatch_5497172994.txt
+success 5497172994 normalmatch_5497172994.txt
+success 5497190552 normalmatch_5497190552.txt
+success 5497190552 normalmatch_5497190552.txt
+success 5497227176 normalmatch_5497227176.txt
+success 5497227176 normalmatch_5497227176.txt
+success 5497227197 normalmatch_5497227197.txt
+success 5497227197 normalmatch_5497227197.txt
+success 5497244370 normalmatch_5497244370.txt
+success 5497244370 normalmatch_5497244370.txt
+success 5497275518 normalmatch_5497275518.txt
+success 5497275518 normalmatch_5497275518.txt
+success 5497299930 normalmatch_5497299930.txt
+success 5497299930 normalmatch_5497299930.txt
+success 5497303646 normalmatch_5497303646.txt
+success 5497303646 normalmatch_5497303646.txt
+success 5497310746 normalmatch_5497310746.txt
+success 5497310746 normalmatch_5497310746.txt
+success 5497341548 normalmatch_5497341548.txt
+success 5497341548 normalmatch_5497341548.txt
+success 5497350952 normalmatch_5497350952.txt
+success 5497350952 normalmatch_5497350952.txt
+success 5497396329 normalmatch_5497396329.txt
+success 5497396329 normalmatch_5497396329.txt
+success 5497400001 normalmatch_5497400001.txt
+success 5497400001 normalmatch_5497400001.txt
+success 5497406080 normalmatch_5497406080.txt
+success 5497406080 normalmatch_5497406080.txt
+success 5497408117 normalmatch_5497408117.txt
+success 5497408117 normalmatch_5497408117.txt
+success 5497447540 normalmatch_5497447540.txt
+success 5497447540 normalmatch_5497447540.txt
+success 5497456124 normalmatch_5497456124.txt
+success 5497456124 normalmatch_5497456124.txt
+success 5497472414 normalmatch_5497472414.txt
+success 5497472414 normalmatch_5497472414.txt
+success 5497494163 normalmatch_5497494163.txt
+success 5497494163 normalmatch_5497494163.txt
+success 5497498519 normalmatch_5497498519.txt
+success 5497498519 normalmatch_5497498519.txt
+success 5497532121 normalmatch_5497532121.txt
+success 5497532121 normalmatch_5497532121.txt
+success 5497553315 normalmatch_5497553315.txt
+success 5497553315 normalmatch_5497553315.txt
+success 5497568936 normalmatch_5497568936.txt
+success 5497568936 normalmatch_5497568936.txt
+success 5497645383 normalmatch_5497645383.txt
+success 5497645383 normalmatch_5497645383.txt
+success 5497664977 normalmatch_5497664977.txt
+success 5497664977 normalmatch_5497664977.txt
+success 5497945446 normalmatch_5497945446.txt
+success 5497945446 normalmatch_5497945446.txt
+success 5498018058 normalmatch_5498018058.txt
+success 5498018058 normalmatch_5498018058.txt
+success 5498195447 normalmatch_5498195447.txt
+success 5498195447 normalmatch_5498195447.txt
+success 5498223767 normalmatch_5498223767.txt
+success 5498223767 normalmatch_5498223767.txt
+success 5498260821 normalmatch_5498260821.txt
+success 5498260821 normalmatch_5498260821.txt
+success 5498269910 normalmatch_5498269910.txt
+success 5498269910 normalmatch_5498269910.txt
+success 5498312739 normalmatch_5498312739.txt
+success 5498312739 normalmatch_5498312739.txt
+success 5498367970 normalmatch_5498367970.txt
+success 5498367970 normalmatch_5498367970.txt
+success 5498397770 normalmatch_5498397770.txt
+success 5498397770 normalmatch_5498397770.txt
+success 5498398328 normalmatch_5498398328.txt
+success 5498398328 normalmatch_5498398328.txt
+success 5498405756 normalmatch_5498405756.txt
+success 5498405756 normalmatch_5498405756.txt
+success 5498415126 normalmatch_5498415126.txt
+success 5498415126 normalmatch_5498415126.txt
+success 5498456201 normalmatch_5498456201.txt
+success 5498456201 normalmatch_5498456201.txt
+success 5498503061 normalmatch_5498503061.txt
+success 5498503061 normalmatch_5498503061.txt
+success 5498507039 normalmatch_5498507039.txt
+success 5498507039 normalmatch_5498507039.txt
+success 5498527985 normalmatch_5498527985.txt
+success 5498527985 normalmatch_5498527985.txt
+success 5498615023 normalmatch_5498615023.txt
+success 5498615023 normalmatch_5498615023.txt
+success 5498639749 normalmatch_5498639749.txt
+success 5498639749 normalmatch_5498639749.txt
+success 5492580659 normalmatch_5492580659.txt
+success 5492495142 normalmatch_5492495142.txt
+
+success 5492495142 normalmatch_5492495142.txt
+
+success 5492507757 normalmatch_5492507757.txt
+
+success 5492507757 normalmatch_5492507757.txt
+
+success 5492511054 normalmatch_5492511054.txt
+
+success 5492511054 normalmatch_5492511054.txt
+
+success 5492513132 normalmatch_5492513132.txt
+
+success 5492513132 normalmatch_5492513132.txt
+
+success 5492513346 normalmatch_5492513346.txt
+
+success 5492513346 normalmatch_5492513346.txt
+
+success 5492518967 normalmatch_5492518967.txt
+
+success 5492518967 normalmatch_5492518967.txt
+
+success 5492521240 normalmatch_5492521240.txt
+
+success 5492521240 normalmatch_5492521240.txt
+
+success 5492522110 normalmatch_5492522110.txt
+
+success 5492522110 normalmatch_5492522110.txt
+
+success 5492528928 normalmatch_5492528928.txt
+
+success 5492528928 normalmatch_5492528928.txt
+
+success 5492534863 normalmatch_5492534863.txt
+
+success 5492534863 normalmatch_5492534863.txt
+
+success 5492547089 normalmatch_5492547089.txt
+
+success 5492547089 normalmatch_5492547089.txt
+
+success 5492547632 normalmatch_5492547632.txt
+
+success 5492547632 normalmatch_5492547632.txt
+
+success 5492547731 normalmatch_5492547731.txt
+
+success 5492547731 normalmatch_5492547731.txt
+
+success 5492558576 normalmatch_5492558576.txt
+
+success 5492558576 normalmatch_5492558576.txt
+
+success 5492565247 normalmatch_5492565247.txt
+
+success 5492565247 normalmatch_5492565247.txt
+
+success 5492566606 normalmatch_5492566606.txt
+
+success 5492566606 normalmatch_5492566606.txt
+
+success 5492566882 normalmatch_5492566882.txt
+
+success 5492566882 normalmatch_5492566882.txt
+
+success 5492580458 normalmatch_5492580458.txt
+
+success 5492580458 normalmatch_5492580458.txt
+
+success 5492580659 normalmatch_5492580659.txt
+
+success 5492580659 normalmatch_5492580659.txt
+
+success 5492584607 normalmatch_5492584607.txt
+
+success 5492584607 normalmatch_5492584607.txt
+
+success 5492587277 normalmatch_5492587277.txt
+
+success 5492587277 normalmatch_5492587277.txt
+
+success 5492590056 normalmatch_5492590056.txt
+
+success 5492590056 normalmatch_5492590056.txt
+
+success 5492591137 normalmatch_5492591137.txt
+
+success 5492591137 normalmatch_5492591137.txt
+
+success 5492601878 normalmatch_5492601878.txt
+
+success 5492601878 normalmatch_5492601878.txt
+
+success 5492611633 normalmatch_5492611633.txt
+
+success 5492611633 normalmatch_5492611633.txt
+
+success 5492612363 normalmatch_5492612363.txt
+
+success 5492612363 normalmatch_5492612363.txt
+
+success 5492619994 normalmatch_5492619994.txt
+
+success 5492619994 normalmatch_5492619994.txt
+
+success 5492647859 normalmatch_5492647859.txt
+
+success 5492647859 normalmatch_5492647859.txt
+
+success 5492719175 normalmatch_5492719175.txt
+
+success 5492719175 normalmatch_5492719175.txt
+
+success 5492735830 normalmatch_5492735830.txt
+
+success 5492735830 normalmatch_5492735830.txt
+
+success 5492788727 normalmatch_5492788727.txt
+
+success 5492788727 normalmatch_5492788727.txt
+
+success 5492832475 normalmatch_5492832475.txt
+
+success 5492832475 normalmatch_5492832475.txt
+
+success 5492853538 normalmatch_5492853538.txt
+
+success 5492853538 normalmatch_5492853538.txt
+
+success 5492931292 normalmatch_5492931292.txt
+
+success 5492931292 normalmatch_5492931292.txt
+
+success 5492975204 normalmatch_5492975204.txt
+
+success 5492975204 normalmatch_5492975204.txt
+
+success 5492990124 normalmatch_5492990124.txt
+
+success 5492990124 normalmatch_5492990124.txt
+
+success 5492992876 normalmatch_5492992876.txt
+
+success 5492992876 normalmatch_5492992876.txt
+
+success 5492994462 normalmatch_5492994462.txt
+
+success 5492994462 normalmatch_5492994462.txt
+
+success 5493029293 normalmatch_5493029293.txt
+
+success 5493029293 normalmatch_5493029293.txt
+
+success 5493056425 normalmatch_5493056425.txt
+
+success 5493056425 normalmatch_5493056425.txt
+
+success 5493059852 normalmatch_5493059852.txt
+
+success 5493059852 normalmatch_5493059852.txt
+
+success 5493062231 normalmatch_5493062231.txt
+
+success 5493062231 normalmatch_5493062231.txt
+
+success 5493085291 normalmatch_5493085291.txt
+
+success 5493085291 normalmatch_5493085291.txt
+
+success 5493086049 normalmatch_5493086049.txt
+
+success 5493086049 normalmatch_5493086049.txt
+
+success 5493114541 normalmatch_5493114541.txt
+
+success 5493114541 normalmatch_5493114541.txt
+
+success 5493134740 normalmatch_5493134740.txt
+
+success 5493134740 normalmatch_5493134740.txt
+
+success 5493138300 normalmatch_5493138300.txt
+
+success 5493138300 normalmatch_5493138300.txt
+
+success 5493140818 normalmatch_5493140818.txt
+
+success 5493140818 normalmatch_5493140818.txt
+
+success 5493170600 normalmatch_5493170600.txt
+
+success 5493170600 normalmatch_5493170600.txt
+
+success 5493172315 normalmatch_5493172315.txt
+
+success 5493172315 normalmatch_5493172315.txt
+
+success 5493194191 normalmatch_5493194191.txt
+
+success 5493194191 normalmatch_5493194191.txt
+
+success 5493208218 normalmatch_5493208218.txt
+
+success 5493208218 normalmatch_5493208218.txt
+
+success 5493220595 normalmatch_5493220595.txt
+
+success 5493220595 normalmatch_5493220595.txt
+
+success 5493245777 normalmatch_5493245777.txt
+
+success 5493245777 normalmatch_5493245777.txt
+
+success 5493267857 normalmatch_5493267857.txt
+
+success 5493267857 normalmatch_5493267857.txt
+
+success 5493282066 normalmatch_5493282066.txt
+
+success 5493282066 normalmatch_5493282066.txt
+
+success 5493301791 normalmatch_5493301791.txt
+
+success 5493301791 normalmatch_5493301791.txt
+
+success 5493319167 normalmatch_5493319167.txt
+
+success 5493319167 normalmatch_5493319167.txt
+
+success 5493349281 normalmatch_5493349281.txt
+
+success 5493349281 normalmatch_5493349281.txt
+
+success 5493358642 normalmatch_5493358642.txt
+
+success 5493358642 normalmatch_5493358642.txt
+
+success 5493394735 normalmatch_5493394735.txt
+
+success 5493394735 normalmatch_5493394735.txt
+
+success 5493418929 normalmatch_5493418929.txt
+
+success 5493418929 normalmatch_5493418929.txt
+
+success 5493434525 normalmatch_5493434525.txt
+
+success 5493434525 normalmatch_5493434525.txt
+
+success 5493443054 normalmatch_5493443054.txt
+
+success 5493443054 normalmatch_5493443054.txt
+
+success 5493495642 normalmatch_5493495642.txt
+
+success 5493495642 normalmatch_5493495642.txt
+
+success 5493516070 normalmatch_5493516070.txt
+
+success 5493516070 normalmatch_5493516070.txt
+
+success 5493527422 normalmatch_5493527422.txt
+
+success 5493527422 normalmatch_5493527422.txt
+
+success 5493527633 normalmatch_5493527633.txt
+
+success 5493527633 normalmatch_5493527633.txt
+
+success 5493560034 normalmatch_5493560034.txt
+
+success 5493560034 normalmatch_5493560034.txt
+
+success 5493573881 normalmatch_5493573881.txt
+
+success 5493573881 normalmatch_5493573881.txt
+
+success 5493615686 normalmatch_5493615686.txt
+
+success 5493615686 normalmatch_5493615686.txt
+
+success 5493623603 normalmatch_5493623603.txt
+
+success 5493623603 normalmatch_5493623603.txt
+
+success 5493692408 normalmatch_5493692408.txt
+
+success 5493692408 normalmatch_5493692408.txt
+
+success 5493787454 normalmatch_5493787454.txt
+
+success 5493787454 normalmatch_5493787454.txt
+
+success 5493790828 normalmatch_5493790828.txt
+
+success 5493790828 normalmatch_5493790828.txt
+
+success 5493793474 normalmatch_5493793474.txt
+
+success 5493793474 normalmatch_5493793474.txt
+
+success 5493801014 normalmatch_5493801014.txt
+
+success 5493801014 normalmatch_5493801014.txt
+
+success 5493801185 normalmatch_5493801185.txt
+
+success 5493801185 normalmatch_5493801185.txt
+
+success 5493809717 normalmatch_5493809717.txt
+
+success 5493809717 normalmatch_5493809717.txt
+
+success 5493824188 normalmatch_5493824188.txt
+
+success 5493824188 normalmatch_5493824188.txt
+
+success 5493831374 normalmatch_5493831374.txt
+
+success 5493831374 normalmatch_5493831374.txt
+
+success 5493833356 normalmatch_5493833356.txt
+
+success 5493833356 normalmatch_5493833356.txt
+
+success 5493843871 normalmatch_5493843871.txt
+
+success 5493843871 normalmatch_5493843871.txt
+
+success 5493847681 normalmatch_5493847681.txt
+
+success 5493847681 normalmatch_5493847681.txt
+
+success 5493857188 normalmatch_5493857188.txt
+
+success 5493857188 normalmatch_5493857188.txt
+
+success 5493861904 normalmatch_5493861904.txt
+
+success 5493861904 normalmatch_5493861904.txt
+
+success 5493979459 normalmatch_5493979459.txt
+
+success 5493979459 normalmatch_5493979459.txt
+
+success 5494063252 normalmatch_5494063252.txt
+
+success 5494063252 normalmatch_5494063252.txt
+
+success 5494088497 normalmatch_5494088497.txt
+
+success 5494088497 normalmatch_5494088497.txt
+
+success 5494114545 normalmatch_5494114545.txt
+
+success 5494114545 normalmatch_5494114545.txt
+
+success 5494161265 normalmatch_5494161265.txt
+
+success 5494161265 normalmatch_5494161265.txt
+
+success 5494293309 normalmatch_5494293309.txt
+
+success 5494293309 normalmatch_5494293309.txt
+
+success 5494294518 normalmatch_5494294518.txt
+
+success 5494294518 normalmatch_5494294518.txt
+
+success 5494307462 normalmatch_5494307462.txt
+
+success 5494307462 normalmatch_5494307462.txt
+
+success 5494309648 normalmatch_5494309648.txt
+
+success 5494309648 normalmatch_5494309648.txt
+
+success 5494313582 normalmatch_5494313582.txt
+
+success 5494313582 normalmatch_5494313582.txt
+
+success 5494316717 normalmatch_5494316717.txt
+
+success 5494316717 normalmatch_5494316717.txt
+
+success 5494319789 normalmatch_5494319789.txt
+
+success 5494319789 normalmatch_5494319789.txt
+
+success 5494320471 normalmatch_5494320471.txt
+
+success 5494320471 normalmatch_5494320471.txt
+
+success 5494321462 normalmatch_5494321462.txt
+
+success 5494321462 normalmatch_5494321462.txt
+
+success 5494324801 normalmatch_5494324801.txt
+
+success 5494324801 normalmatch_5494324801.txt
+
+success 5494325118 normalmatch_5494325118.txt
+
+success 5494325118 normalmatch_5494325118.txt
+
+success 5494325537 normalmatch_5494325537.txt
+
+success 5494325537 normalmatch_5494325537.txt
+
+success 5494328359 normalmatch_5494328359.txt
+
+success 5494328359 normalmatch_5494328359.txt
+
+success 5494330662 normalmatch_5494330662.txt
+
+success 5494330662 normalmatch_5494330662.txt
+
+success 5494330915 normalmatch_5494330915.txt
+
+success 5494330915 normalmatch_5494330915.txt
+
+success 5494340698 normalmatch_5494340698.txt
+
+success 5494340698 normalmatch_5494340698.txt
+
+success 5494345319 normalmatch_5494345319.txt
+
+success 5494345319 normalmatch_5494345319.txt
+
+success 5494355553 normalmatch_5494355553.txt
+
+success 5494355553 normalmatch_5494355553.txt
+
+success 5494420969 normalmatch_5494420969.txt
+
+success 5494420969 normalmatch_5494420969.txt
+
+success 5494466790 normalmatch_5494466790.txt
+
+success 5494466790 normalmatch_5494466790.txt
+
+success 5494467653 normalmatch_5494467653.txt
+
+success 5494467653 normalmatch_5494467653.txt
+
+success 5494503140 normalmatch_5494503140.txt
+
+success 5494503140 normalmatch_5494503140.txt
+
+success 5494527691 normalmatch_5494527691.txt
+
+success 5494527691 normalmatch_5494527691.txt
+
+success 5494578577 normalmatch_5494578577.txt
+
+success 5494578577 normalmatch_5494578577.txt
+
+success 5494583105 normalmatch_5494583105.txt
+
+success 5494583105 normalmatch_5494583105.txt
+
+success 5494608892 normalmatch_5494608892.txt
+
+success 5494608892 normalmatch_5494608892.txt
+
+success 5494668158 normalmatch_5494668158.txt
+
+success 5494668158 normalmatch_5494668158.txt
+
+success 5494679458 normalmatch_5494679458.txt
+
+success 5494679458 normalmatch_5494679458.txt
+
+success 5494730830 normalmatch_5494730830.txt
+
+success 5494730830 normalmatch_5494730830.txt
+
+success 5494744723 normalmatch_5494744723.txt
+
+success 5494744723 normalmatch_5494744723.txt
+
+success 5494762410 normalmatch_5494762410.txt
+
+success 5494762410 normalmatch_5494762410.txt
+
+success 5494772424 normalmatch_5494772424.txt
+
+success 5494772424 normalmatch_5494772424.txt
+
+success 5494780421 normalmatch_5494780421.txt
+
+success 5494780421 normalmatch_5494780421.txt
+
+success 5494782860 normalmatch_5494782860.txt
+
+success 5494782860 normalmatch_5494782860.txt
+
+success 5494788648 normalmatch_5494788648.txt
+
+success 5494788648 normalmatch_5494788648.txt
+
+success 5494794333 normalmatch_5494794333.txt
+
+success 5494794333 normalmatch_5494794333.txt
+
+success 5494798092 normalmatch_5494798092.txt
+
+success 5494798092 normalmatch_5494798092.txt
+
+success 5494801067 normalmatch_5494801067.txt
+
+success 5494801067 normalmatch_5494801067.txt
+
+success 5494804460 normalmatch_5494804460.txt
+
+success 5494804460 normalmatch_5494804460.txt
+
+success 5494807344 normalmatch_5494807344.txt
+
+success 5494807344 normalmatch_5494807344.txt
+
+success 5494808019 normalmatch_5494808019.txt
+
+success 5494808019 normalmatch_5494808019.txt
+
+success 5494811615 normalmatch_5494811615.txt
+
+success 5494811615 normalmatch_5494811615.txt
+
+success 5494813005 normalmatch_5494813005.txt
+
+success 5494813005 normalmatch_5494813005.txt
+
+success 5494814415 normalmatch_5494814415.txt
+
+success 5494814415 normalmatch_5494814415.txt
+
+success 5494823950 normalmatch_5494823950.txt
+
+success 5494823950 normalmatch_5494823950.txt
+
+success 5494828355 normalmatch_5494828355.txt
+
+success 5494828355 normalmatch_5494828355.txt
+
+success 5494830208 normalmatch_5494830208.txt
+
+success 5494830208 normalmatch_5494830208.txt
+
+success 5494838763 normalmatch_5494838763.txt
+
+success 5494838763 normalmatch_5494838763.txt
+
+success 5494842016 normalmatch_5494842016.txt
+
+success 5494842016 normalmatch_5494842016.txt
+
+success 5494842719 normalmatch_5494842719.txt
+
+success 5494842719 normalmatch_5494842719.txt
+
+success 5494843591 normalmatch_5494843591.txt
+
+success 5494843591 normalmatch_5494843591.txt
+
+success 5494862167 normalmatch_5494862167.txt
+
+success 5494862167 normalmatch_5494862167.txt
+
+success 5494903720 normalmatch_5494903720.txt
+
+success 5494903720 normalmatch_5494903720.txt
+
+success 5494929679 normalmatch_5494929679.txt
+
+success 5494929679 normalmatch_5494929679.txt
+
+success 5494938600 normalmatch_5494938600.txt
+
+success 5494938600 normalmatch_5494938600.txt
+
+success 5494958835 normalmatch_5494958835.txt
+
+success 5494958835 normalmatch_5494958835.txt
+
+success 5494976926 normalmatch_5494976926.txt
+
+success 5494976926 normalmatch_5494976926.txt
+
+success 5495031598 normalmatch_5495031598.txt
+
+success 5495031598 normalmatch_5495031598.txt
+
+success 5495063364 normalmatch_5495063364.txt
+
+success 5495063364 normalmatch_5495063364.txt
+
+success 5495074950 normalmatch_5495074950.txt
+
+success 5495074950 normalmatch_5495074950.txt
+
+success 5495080072 normalmatch_5495080072.txt
+
+success 5495080072 normalmatch_5495080072.txt
+
+success 5495107730 normalmatch_5495107730.txt
+
+success 5495107730 normalmatch_5495107730.txt
+
+success 5495110868 normalmatch_5495110868.txt
+
+success 5495110868 normalmatch_5495110868.txt
+
+success 5495139487 normalmatch_5495139487.txt
+
+success 5495139487 normalmatch_5495139487.txt
+
+success 5495222756 normalmatch_5495222756.txt
+
+success 5495222756 normalmatch_5495222756.txt
+
+success 5495321748 normalmatch_5495321748.txt
+
+success 5495321748 normalmatch_5495321748.txt
+
+success 5495363389 normalmatch_5495363389.txt
+
+success 5495363389 normalmatch_5495363389.txt
+
+success 5495410496 normalmatch_5495410496.txt
+
+success 5495410496 normalmatch_5495410496.txt
+
+success 5495410896 normalmatch_5495410896.txt
+
+success 5495410896 normalmatch_5495410896.txt
+
+success 5495415127 normalmatch_5495415127.txt
+
+success 5495415127 normalmatch_5495415127.txt
+
+success 5495416409 normalmatch_5495416409.txt
+
+success 5495416409 normalmatch_5495416409.txt
+
+success 5495425653 normalmatch_5495425653.txt
+
+success 5495425653 normalmatch_5495425653.txt
+
+success 5495430945 normalmatch_5495430945.txt
+
+success 5495430945 normalmatch_5495430945.txt
+
+success 5495432485 normalmatch_5495432485.txt
+
+success 5495432485 normalmatch_5495432485.txt
+
+success 5495435834 normalmatch_5495435834.txt
+
+success 5495435834 normalmatch_5495435834.txt
+
+success 5495443330 normalmatch_5495443330.txt
+
+success 5495443330 normalmatch_5495443330.txt
+
+success 5495452300 normalmatch_5495452300.txt
+
+success 5495452300 normalmatch_5495452300.txt
+
+success 5495456228 normalmatch_5495456228.txt
+
+success 5495456228 normalmatch_5495456228.txt
+
+success 5495456793 normalmatch_5495456793.txt
+
+success 5495456793 normalmatch_5495456793.txt
+
+success 5495458206 normalmatch_5495458206.txt
+
+success 5495458206 normalmatch_5495458206.txt
+
+success 5495458672 normalmatch_5495458672.txt
+
+success 5495458672 normalmatch_5495458672.txt
+
+success 5495462398 normalmatch_5495462398.txt
+
+success 5495462398 normalmatch_5495462398.txt
+
+success 5495466189 normalmatch_5495466189.txt
+
+success 5495466189 normalmatch_5495466189.txt
+
+success 5495469524 normalmatch_5495469524.txt
+
+success 5495469524 normalmatch_5495469524.txt
+
+success 5495494964 normalmatch_5495494964.txt
+
+success 5495494964 normalmatch_5495494964.txt
+
+success 5495497308 normalmatch_5495497308.txt
+
+success 5495497308 normalmatch_5495497308.txt
+
+success 5495538870 normalmatch_5495538870.txt
+
+success 5495538870 normalmatch_5495538870.txt
+
+success 5495561670 normalmatch_5495561670.txt
+
+success 5495561670 normalmatch_5495561670.txt
+
+success 5495577116 normalmatch_5495577116.txt
+
+success 5495577116 normalmatch_5495577116.txt
+
+success 5495611329 normalmatch_5495611329.txt
+
+success 5495611329 normalmatch_5495611329.txt
+
+success 5495625475 normalmatch_5495625475.txt
+
+success 5495625475 normalmatch_5495625475.txt
+
+success 5495625996 normalmatch_5495625996.txt
+
+success 5495625996 normalmatch_5495625996.txt
+
+success 5495630966 normalmatch_5495630966.txt
+
+success 5495630966 normalmatch_5495630966.txt
+
+success 5495666982 normalmatch_5495666982.txt
+
+success 5495666982 normalmatch_5495666982.txt
+
+success 5495727053 normalmatch_5495727053.txt
+
+success 5495727053 normalmatch_5495727053.txt
+
+success 5495735491 normalmatch_5495735491.txt
+
+success 5495735491 normalmatch_5495735491.txt
+
+success 5495742571 normalmatch_5495742571.txt
+
+success 5495742571 normalmatch_5495742571.txt
+
+success 5495804162 normalmatch_5495804162.txt
+
+success 5495804162 normalmatch_5495804162.txt
+
+success 5495817503 normalmatch_5495817503.txt
+
+success 5495817503 normalmatch_5495817503.txt
+
+success 5495821574 normalmatch_5495821574.txt
+
+success 5495821574 normalmatch_5495821574.txt
+
+success 5495837642 normalmatch_5495837642.txt
+
+success 5495837642 normalmatch_5495837642.txt
+
+success 5495844103 normalmatch_5495844103.txt
+
+success 5495844103 normalmatch_5495844103.txt
+
+success 5495856812 normalmatch_5495856812.txt
+
+success 5495856812 normalmatch_5495856812.txt
+
+success 5495889555 normalmatch_5495889555.txt
+
+success 5495889555 normalmatch_5495889555.txt
+
+success 5495899532 normalmatch_5495899532.txt
+
+success 5495899532 normalmatch_5495899532.txt
+
+success 5495900624 normalmatch_5495900624.txt
+
+success 5495900624 normalmatch_5495900624.txt
+
+success 5495900764 normalmatch_5495900764.txt
+
+success 5495900764 normalmatch_5495900764.txt
+
+success 5495904358 normalmatch_5495904358.txt
+
+success 5495904358 normalmatch_5495904358.txt
+
+success 5495909548 normalmatch_5495909548.txt
+
+success 5495909548 normalmatch_5495909548.txt
+
+success 5495916667 normalmatch_5495916667.txt
+
+success 5495916667 normalmatch_5495916667.txt
+
+success 5495922905 normalmatch_5495922905.txt
+
+success 5495922905 normalmatch_5495922905.txt
+
+success 5495926401 normalmatch_5495926401.txt
+
+success 5495926401 normalmatch_5495926401.txt
+
+success 5495926607 normalmatch_5495926607.txt
+
+success 5495926607 normalmatch_5495926607.txt
+
+success 5495949420 normalmatch_5495949420.txt
+
+success 5495949420 normalmatch_5495949420.txt
+
+success 5495953960 normalmatch_5495953960.txt
+
+success 5495953960 normalmatch_5495953960.txt
+
+success 5495971132 normalmatch_5495971132.txt
+
+success 5495971132 normalmatch_5495971132.txt
+
+success 5495991443 normalmatch_5495991443.txt
+
+success 5495991443 normalmatch_5495991443.txt
+
+success 5495998006 normalmatch_5495998006.txt
+
+success 5495998006 normalmatch_5495998006.txt
+
+success 5496018648 normalmatch_5496018648.txt
+
+success 5496018648 normalmatch_5496018648.txt
+
+success 5496024659 normalmatch_5496024659.txt
+
+success 5496024659 normalmatch_5496024659.txt
+
+success 5496034419 normalmatch_5496034419.txt
+
+success 5496034419 normalmatch_5496034419.txt
+
+success 5496042269 normalmatch_5496042269.txt
+
+success 5496042269 normalmatch_5496042269.txt
+
+success 5496049956 normalmatch_5496049956.txt
+
+success 5496049956 normalmatch_5496049956.txt
+
+success 5496056103 normalmatch_5496056103.txt
+
+success 5496056103 normalmatch_5496056103.txt
+
+success 5496067787 normalmatch_5496067787.txt
+
+success 5496067787 normalmatch_5496067787.txt
+
+success 5496076200 normalmatch_5496076200.txt
+
+success 5496076200 normalmatch_5496076200.txt
+
+success 5496079256 normalmatch_5496079256.txt
+
+success 5496079256 normalmatch_5496079256.txt
+
+success 5496079749 normalmatch_5496079749.txt
+
+success 5496079749 normalmatch_5496079749.txt
+
+success 5496088066 normalmatch_5496088066.txt
+
+success 5496088066 normalmatch_5496088066.txt
+
+success 5496095704 normalmatch_5496095704.txt
+
+success 5496095704 normalmatch_5496095704.txt
+
+success 5496100930 normalmatch_5496100930.txt
+
+success 5496100930 normalmatch_5496100930.txt
+
+success 5496101974 normalmatch_5496101974.txt
+
+success 5496101974 normalmatch_5496101974.txt
+
+success 5496108376 normalmatch_5496108376.txt
+
+success 5496108376 normalmatch_5496108376.txt
+
+success 5496110545 normalmatch_5496110545.txt
+
+success 5496110545 normalmatch_5496110545.txt
+
+success 5496134317 normalmatch_5496134317.txt
+
+success 5496134317 normalmatch_5496134317.txt
+
+success 5496164696 normalmatch_5496164696.txt
+
+success 5496164696 normalmatch_5496164696.txt
+
+success 5496171455 normalmatch_5496171455.txt
+
+success 5496171455 normalmatch_5496171455.txt
+
+success 5496171878 normalmatch_5496171878.txt
+
+success 5496171878 normalmatch_5496171878.txt
+
+success 5496173859 normalmatch_5496173859.txt
+
+success 5496173859 normalmatch_5496173859.txt
+
+success 5496176220 normalmatch_5496176220.txt
+
+success 5496176220 normalmatch_5496176220.txt
+
+success 5496176364 normalmatch_5496176364.txt
+
+success 5496176364 normalmatch_5496176364.txt
+
+success 5496177129 normalmatch_5496177129.txt
+
+success 5496177129 normalmatch_5496177129.txt
+
+success 5496180212 normalmatch_5496180212.txt
+
+success 5496180212 normalmatch_5496180212.txt
+
+success 5496181739 normalmatch_5496181739.txt
+
+success 5496181739 normalmatch_5496181739.txt
+
+success 5496183883 normalmatch_5496183883.txt
+
+success 5496183883 normalmatch_5496183883.txt
+
+success 5496184529 normalmatch_5496184529.txt
+
+success 5496184529 normalmatch_5496184529.txt
+
+success 5496188839 normalmatch_5496188839.txt
+
+success 5496188839 normalmatch_5496188839.txt
+
+success 5496190329 normalmatch_5496190329.txt
+
+success 5496190329 normalmatch_5496190329.txt
+
+success 5496191009 normalmatch_5496191009.txt
+
+success 5496191009 normalmatch_5496191009.txt
+
+success 5496191514 normalmatch_5496191514.txt
+
+success 5496191514 normalmatch_5496191514.txt
+
+success 5496197167 normalmatch_5496197167.txt
+
+success 5496197167 normalmatch_5496197167.txt
+
+success 5496197645 normalmatch_5496197645.txt
+
+success 5496197645 normalmatch_5496197645.txt
+
+success 5496198996 normalmatch_5496198996.txt
+
+success 5496198996 normalmatch_5496198996.txt
+
+success 5496202136 normalmatch_5496202136.txt
+
+success 5496202136 normalmatch_5496202136.txt
+
+success 5496205094 normalmatch_5496205094.txt
+
+success 5496205094 normalmatch_5496205094.txt
+
+success 5496206302 normalmatch_5496206302.txt
+
+success 5496206302 normalmatch_5496206302.txt
+
+success 5496207400 normalmatch_5496207400.txt
+
+success 5496207400 normalmatch_5496207400.txt
+
+success 5496209925 normalmatch_5496209925.txt
+
+success 5496209925 normalmatch_5496209925.txt
+
+success 5496218758 normalmatch_5496218758.txt
+
+success 5496218758 normalmatch_5496218758.txt
+
+success 5496235941 normalmatch_5496235941.txt
+
+success 5496235941 normalmatch_5496235941.txt
+
+success 5496289944 normalmatch_5496289944.txt
+
+success 5496289944 normalmatch_5496289944.txt
+
+success 5496304356 normalmatch_5496304356.txt
+
+success 5496304356 normalmatch_5496304356.txt
+
+success 5496310819 normalmatch_5496310819.txt
+
+success 5496310819 normalmatch_5496310819.txt
+
+success 5496315536 normalmatch_5496315536.txt
+
+success 5496315536 normalmatch_5496315536.txt
+
+success 5496318769 normalmatch_5496318769.txt
+
+success 5496318769 normalmatch_5496318769.txt
+
+success 5496341374 normalmatch_5496341374.txt
+
+success 5496341374 normalmatch_5496341374.txt
+
+success 5496371584 normalmatch_5496371584.txt
+
+success 5496371584 normalmatch_5496371584.txt
+
+success 5496413623 normalmatch_5496413623.txt
+
+success 5496413623 normalmatch_5496413623.txt
+
+success 5496437868 normalmatch_5496437868.txt
+
+success 5496437868 normalmatch_5496437868.txt
+
+success 5496454051 normalmatch_5496454051.txt
+
+success 5496454051 normalmatch_5496454051.txt
+
+success 5496620536 normalmatch_5496620536.txt
+
+success 5496620536 normalmatch_5496620536.txt
+
+success 5496659472 normalmatch_5496659472.txt
+
+success 5496659472 normalmatch_5496659472.txt
+
+success 5496661759 normalmatch_5496661759.txt
+
+success 5496661759 normalmatch_5496661759.txt
+
+success 5496712644 normalmatch_5496712644.txt
+
+success 5496712644 normalmatch_5496712644.txt
+
+success 5496783882 normalmatch_5496783882.txt
+
+success 5496783882 normalmatch_5496783882.txt
+
+success 5496883508 normalmatch_5496883508.txt
+
+success 5496883508 normalmatch_5496883508.txt
+
+success 5496905488 normalmatch_5496905488.txt
+
+success 5496905488 normalmatch_5496905488.txt
+
+success 5496916960 normalmatch_5496916960.txt
+
+success 5496916960 normalmatch_5496916960.txt
+
+success 5496938864 normalmatch_5496938864.txt
+
+success 5496938864 normalmatch_5496938864.txt
+
+success 5496952320 normalmatch_5496952320.txt
+
+success 5496952320 normalmatch_5496952320.txt
+
+success 5497071630 normalmatch_5497071630.txt
+
+success 5497071630 normalmatch_5497071630.txt
+
+success 5497080748 normalmatch_5497080748.txt
+
+success 5497080748 normalmatch_5497080748.txt
+
+success 5497123749 normalmatch_5497123749.txt
+
+success 5497123749 normalmatch_5497123749.txt
+
+success 5497129795 normalmatch_5497129795.txt
+
+success 5497129795 normalmatch_5497129795.txt
+
+success 5497142856 normalmatch_5497142856.txt
+
+success 5497142856 normalmatch_5497142856.txt
+
+success 5497147552 normalmatch_5497147552.txt
+
+success 5497147552 normalmatch_5497147552.txt
+
+success 5497156277 normalmatch_5497156277.txt
+
+success 5497156277 normalmatch_5497156277.txt
+
+success 5497161564 normalmatch_5497161564.txt
+
+success 5497161564 normalmatch_5497161564.txt
+
+success 5497170574 normalmatch_5497170574.txt
+
+success 5497170574 normalmatch_5497170574.txt
+
+success 5497172994 normalmatch_5497172994.txt
+
+success 5497172994 normalmatch_5497172994.txt
+
+success 5497190552 normalmatch_5497190552.txt
+
+success 5497190552 normalmatch_5497190552.txt
+
+success 5497227176 normalmatch_5497227176.txt
+
+success 5497227176 normalmatch_5497227176.txt
+
+success 5497227197 normalmatch_5497227197.txt
+
+success 5497227197 normalmatch_5497227197.txt
+
+success 5497244370 normalmatch_5497244370.txt
+
+success 5497244370 normalmatch_5497244370.txt
+
+success 5497275518 normalmatch_5497275518.txt
+
+success 5497275518 normalmatch_5497275518.txt
+
+success 5497299930 normalmatch_5497299930.txt
+
+success 5497299930 normalmatch_5497299930.txt
+
+success 5497303646 normalmatch_5497303646.txt
+
+success 5497303646 normalmatch_5497303646.txt
+
+success 5497310746 normalmatch_5497310746.txt
+
+success 5497310746 normalmatch_5497310746.txt
+
+success 5497341548 normalmatch_5497341548.txt
+
+success 5497341548 normalmatch_5497341548.txt
+
+success 5497350952 normalmatch_5497350952.txt
+
+success 5497350952 normalmatch_5497350952.txt
+
+success 5497396329 normalmatch_5497396329.txt
+
+success 5497396329 normalmatch_5497396329.txt
+
+success 5497400001 normalmatch_5497400001.txt
+
+success 5497400001 normalmatch_5497400001.txt
+
+success 5497406080 normalmatch_5497406080.txt
+
+success 5497406080 normalmatch_5497406080.txt
+
+success 5497408117 normalmatch_5497408117.txt
+
+success 5497408117 normalmatch_5497408117.txt
+
+success 5497447540 normalmatch_5497447540.txt
+
+success 5497447540 normalmatch_5497447540.txt
+
+success 5497456124 normalmatch_5497456124.txt
+
+success 5497456124 normalmatch_5497456124.txt
+
+success 5497472414 normalmatch_5497472414.txt
+
+success 5497472414 normalmatch_5497472414.txt
+
+success 5497494163 normalmatch_5497494163.txt
+
+success 5497494163 normalmatch_5497494163.txt
+
+success 5497498519 normalmatch_5497498519.txt
+
+success 5497498519 normalmatch_5497498519.txt
+
+success 5497532121 normalmatch_5497532121.txt
+
+success 5497532121 normalmatch_5497532121.txt
+
+success 5497553315 normalmatch_5497553315.txt
+
+success 5497553315 normalmatch_5497553315.txt
+
+success 5497568936 normalmatch_5497568936.txt
+
+success 5497568936 normalmatch_5497568936.txt
+
+success 5497645383 normalmatch_5497645383.txt
+
+success 5497645383 normalmatch_5497645383.txt
+
+success 5497664977 normalmatch_5497664977.txt
+
+success 5497664977 normalmatch_5497664977.txt
+
+success 5497945446 normalmatch_5497945446.txt
+
+success 5497945446 normalmatch_5497945446.txt
+
+success 5498018058 normalmatch_5498018058.txt
+
+success 5498018058 normalmatch_5498018058.txt
+
+success 5498195447 normalmatch_5498195447.txt
+
+success 5498195447 normalmatch_5498195447.txt
+
+success 5498223767 normalmatch_5498223767.txt
+
+success 5498223767 normalmatch_5498223767.txt
+
+success 5498260821 normalmatch_5498260821.txt
+
+success 5498260821 normalmatch_5498260821.txt
+
+success 5498269910 normalmatch_5498269910.txt
+
+success 5498269910 normalmatch_5498269910.txt
+
+success 5498312739 normalmatch_5498312739.txt
+
+success 5498312739 normalmatch_5498312739.txt
+
+success 5498367970 normalmatch_5498367970.txt
+
+success 5498367970 normalmatch_5498367970.txt
+
+success 5498397770 normalmatch_5498397770.txt
+
+success 5498397770 normalmatch_5498397770.txt
+
+success 5498398328 normalmatch_5498398328.txt
+
+success 5498398328 normalmatch_5498398328.txt
+
+success 5498405756 normalmatch_5498405756.txt
+
+success 5498405756 normalmatch_5498405756.txt
+
+success 5498415126 normalmatch_5498415126.txt
+
+success 5498415126 normalmatch_5498415126.txt
+
+success 5498456201 normalmatch_5498456201.txt
+
+success 5498456201 normalmatch_5498456201.txt
+
+success 5498503061 normalmatch_5498503061.txt
+
+success 5498503061 normalmatch_5498503061.txt
+
+success 5498507039 normalmatch_5498507039.txt
+
+success 5498507039 normalmatch_5498507039.txt
+
+success 5498527985 normalmatch_5498527985.txt
+
+success 5498527985 normalmatch_5498527985.txt
+
+success 5498615023 normalmatch_5498615023.txt
+
+success 5498615023 normalmatch_5498615023.txt
+
+success 5498639749 normalmatch_5498639749.txt
+
+success 5498639749 normalmatch_5498639749.txt
+
+success 5492622405 normalmatch_5492622405.txt
+
+success 5492622405 normalmatch_5492622405.txt
+
+success 5492626085 normalmatch_5492626085.txt
+
+success 5492626085 normalmatch_5492626085.txt
+
+success 5492636178 normalmatch_5492636178.txt
+
+success 5492636178 normalmatch_5492636178.txt
+
+success 5492643741 normalmatch_5492643741.txt
+
+success 5492643741 normalmatch_5492643741.txt
+
+success 5492649691 normalmatch_5492649691.txt
+
+success 5492649691 normalmatch_5492649691.txt
+
+success 5492655177 normalmatch_5492655177.txt
+
+success 5492655177 normalmatch_5492655177.txt
+
+success 5492655796 normalmatch_5492655796.txt
+
+success 5492655796 normalmatch_5492655796.txt
+
+success 5492672025 normalmatch_5492672025.txt
+
+success 5492672025 normalmatch_5492672025.txt
+
+success 5492674359 normalmatch_5492674359.txt
+
+success 5492674359 normalmatch_5492674359.txt
+
+success 5492676542 normalmatch_5492676542.txt
+
+success 5492676542 normalmatch_5492676542.txt
+
+success 5492680138 normalmatch_5492680138.txt
+
+success 5492680138 normalmatch_5492680138.txt
+
+success 5492681964 normalmatch_5492681964.txt
+
+success 5492681964 normalmatch_5492681964.txt
+
+success 5492683103 normalmatch_5492683103.txt
+
+success 5492683103 normalmatch_5492683103.txt
+
+success 5492688851 normalmatch_5492688851.txt
+
+success 5492688851 normalmatch_5492688851.txt
+
+success 5492689866 normalmatch_5492689866.txt
+
+success 5492689866 normalmatch_5492689866.txt
+
+success 5492690855 normalmatch_5492690855.txt
+
+success 5492690855 normalmatch_5492690855.txt
+
+success 5492694315 normalmatch_5492694315.txt
+
+success 5492694315 normalmatch_5492694315.txt
+
+success 5492699916 normalmatch_5492699916.txt
+
+success 5492699916 normalmatch_5492699916.txt
+
+success 5492707809 normalmatch_5492707809.txt
+
+success 5492707809 normalmatch_5492707809.txt
+
+success 5492708132 normalmatch_5492708132.txt
+
+success 5492708132 normalmatch_5492708132.txt
+
+success 5492772941 normalmatch_5492772941.txt
+
+success 5492772941 normalmatch_5492772941.txt
+
+success 5493255327 normalmatch_5493255327.txt
+
+success 5493255327 normalmatch_5493255327.txt
+
+success 5493265712 normalmatch_5493265712.txt
+
+success 5493265712 normalmatch_5493265712.txt
+
+success 5493266312 normalmatch_5493266312.txt
+
+success 5493266312 normalmatch_5493266312.txt
+
+success 5493269919 normalmatch_5493269919.txt
+
+success 5493269919 normalmatch_5493269919.txt
+
+success 5493273248 normalmatch_5493273248.txt
+
+success 5493273248 normalmatch_5493273248.txt
+
+success 5493277662 normalmatch_5493277662.txt
+
+success 5493277662 normalmatch_5493277662.txt
+
+success 5493278435 normalmatch_5493278435.txt
+
+success 5493278435 normalmatch_5493278435.txt
+
+success 5493279061 normalmatch_5493279061.txt
+
+success 5493279061 normalmatch_5493279061.txt
+
+success 5493282031 normalmatch_5493282031.txt
+
+success 5493282031 normalmatch_5493282031.txt
+
+success 5493788196 normalmatch_5493788196.txt
+
+success 5493788196 normalmatch_5493788196.txt
+
+success 5493789570 normalmatch_5493789570.txt
+
+success 5493789570 normalmatch_5493789570.txt
+
+success 5493789973 normalmatch_5493789973.txt
+
+success 5493789973 normalmatch_5493789973.txt
+
+success 5493793327 normalmatch_5493793327.txt
+
+success 5493793327 normalmatch_5493793327.txt
+
+success 5493796136 normalmatch_5493796136.txt
+
+success 5493796136 normalmatch_5493796136.txt
+
+success 5493797419 normalmatch_5493797419.txt
+
+success 5493797419 normalmatch_5493797419.txt
+
+success 5493810331 normalmatch_5493810331.txt
+
+success 5493810331 normalmatch_5493810331.txt
+
+success 5493810789 normalmatch_5493810789.txt
+
+success 5493810789 normalmatch_5493810789.txt
+
+success 5493812632 normalmatch_5493812632.txt
+
+success 5493812632 normalmatch_5493812632.txt
+
+success 5493816343 normalmatch_5493816343.txt
+
+success 5493816343 normalmatch_5493816343.txt
+
+success 5493823223 normalmatch_5493823223.txt
+
+success 5493823223 normalmatch_5493823223.txt
+
+success 5493827856 normalmatch_5493827856.txt
+
+success 5493827856 normalmatch_5493827856.txt
+
+success 5493901337 normalmatch_5493901337.txt
+
+success 5493901337 normalmatch_5493901337.txt
+
+success 5494043101 normalmatch_5494043101.txt
+
+success 5494043101 normalmatch_5494043101.txt
+
+success 5494264222 normalmatch_5494264222.txt
+
+success 5494264222 normalmatch_5494264222.txt
+
+success 5494501460 normalmatch_5494501460.txt
+
+success 5494501460 normalmatch_5494501460.txt
+
+success 5494615457 normalmatch_5494615457.txt
+
+success 5494615457 normalmatch_5494615457.txt
+
+success 5494690365 normalmatch_5494690365.txt
+
+success 5494690365 normalmatch_5494690365.txt
+
+success 5494718989 normalmatch_5494718989.txt
+
+success 5494718989 normalmatch_5494718989.txt
+
+success 5496236055 normalmatch_5496236055.txt
+
+success 5496236055 normalmatch_5496236055.txt
+
+success 5496300298 normalmatch_5496300298.txt
+
+success 5496300298 normalmatch_5496300298.txt
+
+success 5496455757 normalmatch_5496455757.txt
+
+success 5496455757 normalmatch_5496455757.txt
+
+success 5496533727 normalmatch_5496533727.txt
+
+success 5496533727 normalmatch_5496533727.txt
+
+success 5496593465 normalmatch_5496593465.txt
+
+success 5496593465 normalmatch_5496593465.txt
+
+success 5496609746 normalmatch_5496609746.txt
+
+success 5496609746 normalmatch_5496609746.txt
+
+success 5496615279 normalmatch_5496615279.txt
+
+success 5496615279 normalmatch_5496615279.txt
+
+success 5496617596 normalmatch_5496617596.txt
+
+success 5496617596 normalmatch_5496617596.txt
+
+success 5496623716 normalmatch_5496623716.txt
+
+success 5496623716 normalmatch_5496623716.txt
+
+success 5496624246 normalmatch_5496624246.txt
+
+success 5496624246 normalmatch_5496624246.txt
+
+success 5496624289 normalmatch_5496624289.txt
+
+success 5496624289 normalmatch_5496624289.txt
+
+success 5496630058 normalmatch_5496630058.txt
+
+success 5496630058 normalmatch_5496630058.txt
+
+success 5496638763 normalmatch_5496638763.txt
+
+success 5496638763 normalmatch_5496638763.txt
+
+success 5496642204 normalmatch_5496642204.txt
+
+success 5496642204 normalmatch_5496642204.txt
+
+success 5496645866 normalmatch_5496645866.txt
+
+success 5496645866 normalmatch_5496645866.txt
+
+success 5496653801 normalmatch_5496653801.txt
+
+success 5496653801 normalmatch_5496653801.txt
+
+success 5496655769 normalmatch_5496655769.txt
+
+success 5496655769 normalmatch_5496655769.txt
+
+success 5496657894 normalmatch_5496657894.txt
+
+success 5496657894 normalmatch_5496657894.txt
+
+success 5496658735 normalmatch_5496658735.txt
+
+success 5496658735 normalmatch_5496658735.txt
+
+success 5496664880 normalmatch_5496664880.txt
+
+success 5496664880 normalmatch_5496664880.txt
+
+success 5496665412 normalmatch_5496665412.txt
+
+success 5496665412 normalmatch_5496665412.txt
+
+success 5496671589 normalmatch_5496671589.txt
+
+success 5496671589 normalmatch_5496671589.txt
+
+success 5496680602 normalmatch_5496680602.txt
+
+success 5496680602 normalmatch_5496680602.txt
+
+success 5496684145 normalmatch_5496684145.txt
+
+success 5496684145 normalmatch_5496684145.txt
+
+success 5496687280 normalmatch_5496687280.txt
+
+success 5496687280 normalmatch_5496687280.txt
+
+success 5496687437 normalmatch_5496687437.txt
+
+success 5496687437 normalmatch_5496687437.txt
+
+success 5496687755 normalmatch_5496687755.txt
+
+success 5496687755 normalmatch_5496687755.txt
+
+success 5496690040 normalmatch_5496690040.txt
+
+success 5496690040 normalmatch_5496690040.txt
+
+success 5496692248 normalmatch_5496692248.txt
+
+success 5496692248 normalmatch_5496692248.txt
+
+success 5496773459 normalmatch_5496773459.txt
+
+success 5496773459 normalmatch_5496773459.txt
+
+success 5496840661 normalmatch_5496840661.txt
+
+success 5496840661 normalmatch_5496840661.txt
+
+success 5496873261 normalmatch_5496873261.txt
+
+success 5496873261 normalmatch_5496873261.txt
+
+success 5496874150 normalmatch_5496874150.txt
+
+success 5496874150 normalmatch_5496874150.txt
+
+success 5496877027 normalmatch_5496877027.txt
+
+success 5496877027 normalmatch_5496877027.txt
+
+success 5496883114 normalmatch_5496883114.txt
+
+success 5496883114 normalmatch_5496883114.txt
+
+success 5496885606 normalmatch_5496885606.txt
+
+success 5496885606 normalmatch_5496885606.txt
+
+success 5496885894 normalmatch_5496885894.txt
+
+success 5496885894 normalmatch_5496885894.txt
+
+success 5496896238 normalmatch_5496896238.txt
+
+success 5496896238 normalmatch_5496896238.txt
+
+success 5496898382 normalmatch_5496898382.txt
+
+success 5496898382 normalmatch_5496898382.txt
+
+success 5496900364 normalmatch_5496900364.txt
+
+success 5496900364 normalmatch_5496900364.txt
+
+success 5496901090 normalmatch_5496901090.txt
+
+success 5496901090 normalmatch_5496901090.txt
+
+success 5496901471 normalmatch_5496901471.txt
+
+success 5496901471 normalmatch_5496901471.txt
+
+success 5496902307 normalmatch_5496902307.txt
+
+success 5496902307 normalmatch_5496902307.txt
+
+success 5496905831 normalmatch_5496905831.txt
+
+success 5496905831 normalmatch_5496905831.txt
+
+success 5496909175 normalmatch_5496909175.txt
+
+success 5496909175 normalmatch_5496909175.txt
+
+success 5496910835 normalmatch_5496910835.txt
+
+success 5496910835 normalmatch_5496910835.txt
+
+success 5496910846 normalmatch_5496910846.txt
+
+success 5496910846 normalmatch_5496910846.txt
+
+success 5496912320 normalmatch_5496912320.txt
+
+success 5496912320 normalmatch_5496912320.txt
+
+success 5496912873 normalmatch_5496912873.txt
+
+success 5496912873 normalmatch_5496912873.txt
+
+success 5496917238 normalmatch_5496917238.txt
+
+success 5496917238 normalmatch_5496917238.txt
+
+success 5496926975 normalmatch_5496926975.txt
+
+success 5496926975 normalmatch_5496926975.txt
+
+success 5497010128 normalmatch_5497010128.txt
+
+success 5497010128 normalmatch_5497010128.txt
+
+success 5497015991 normalmatch_5497015991.txt
+
+success 5497015991 normalmatch_5497015991.txt
+
+success 5497029763 normalmatch_5497029763.txt
+
+success 5497029763 normalmatch_5497029763.txt
+
+success 5497047208 normalmatch_5497047208.txt
+
+success 5497047208 normalmatch_5497047208.txt
+
+success 5497082732 normalmatch_5497082732.txt
+
+success 5497082732 normalmatch_5497082732.txt
+
+success 5497177288 normalmatch_5497177288.txt
+
+success 5497177288 normalmatch_5497177288.txt
+
+success 5497296675 normalmatch_5497296675.txt
+
+success 5497296675 normalmatch_5497296675.txt
+
+success 5497367956 normalmatch_5497367956.txt
+
+success 5497367956 normalmatch_5497367956.txt
+
+success 5497433599 normalmatch_5497433599.txt
+
+success 5497433599 normalmatch_5497433599.txt
+
+success 5497515240 normalmatch_5497515240.txt
+
+success 5497515240 normalmatch_5497515240.txt
+
+success 5497521148 normalmatch_5497521148.txt
+
+success 5497521148 normalmatch_5497521148.txt
+
+success 5497533739 normalmatch_5497533739.txt
+
+success 5497533739 normalmatch_5497533739.txt
+
+success 5497570305 normalmatch_5497570305.txt
+
+success 5497570305 normalmatch_5497570305.txt
+
+success 5497583524 normalmatch_5497583524.txt
+
+success 5497583524 normalmatch_5497583524.txt
+
+success 5497663397 normalmatch_5497663397.txt
+
+success 5497663397 normalmatch_5497663397.txt
+
+success 5497665607 normalmatch_5497665607.txt
+
+success 5497665607 normalmatch_5497665607.txt
+
+success 5497670463 normalmatch_5497670463.txt
+
+success 5497670463 normalmatch_5497670463.txt
+
+success 5497702959 normalmatch_5497702959.txt
+
+success 5497702959 normalmatch_5497702959.txt
+
+success 5497727229 normalmatch_5497727229.txt
+
+success 5497727229 normalmatch_5497727229.txt
+
+success 5497865747 normalmatch_5497865747.txt
+
+success 5497865747 normalmatch_5497865747.txt
+
+success 5497868658 normalmatch_5497868658.txt
+
+success 5497868658 normalmatch_5497868658.txt
+
+success 5497872723 normalmatch_5497872723.txt
+
+success 5497872723 normalmatch_5497872723.txt
+
+success 5497874142 normalmatch_5497874142.txt
+
+success 5497874142 normalmatch_5497874142.txt
+
+success 5497875806 normalmatch_5497875806.txt
+
+success 5497875806 normalmatch_5497875806.txt
+
+success 5497885951 normalmatch_5497885951.txt
+
+success 5497885951 normalmatch_5497885951.txt
+
+success 5497890058 normalmatch_5497890058.txt
+
+success 5497890058 normalmatch_5497890058.txt
+
+success 5497890569 normalmatch_5497890569.txt
+
+success 5497890569 normalmatch_5497890569.txt
+
+success 5497891155 normalmatch_5497891155.txt
+
+success 5497891155 normalmatch_5497891155.txt
+
+success 5497893987 normalmatch_5497893987.txt
+
+success 5497893987 normalmatch_5497893987.txt
+
+success 5497895087 normalmatch_5497895087.txt
+
+success 5497895087 normalmatch_5497895087.txt
+
+success 5497895377 normalmatch_5497895377.txt
+
+success 5497895377 normalmatch_5497895377.txt
+
+success 5497895578 normalmatch_5497895578.txt
+
+success 5497895578 normalmatch_5497895578.txt
+
+success 5497899864 normalmatch_5497899864.txt
+
+success 5497899864 normalmatch_5497899864.txt
+
+success 5497903015 normalmatch_5497903015.txt
+
+success 5497903015 normalmatch_5497903015.txt
+
+success 5497903355 normalmatch_5497903355.txt
+
+success 5497903355 normalmatch_5497903355.txt
+
+success 5497906213 normalmatch_5497906213.txt
+
+success 5497906213 normalmatch_5497906213.txt
+
+success 5497906564 normalmatch_5497906564.txt
+
+success 5497906564 normalmatch_5497906564.txt
+
+success 5497908123 normalmatch_5497908123.txt
+
+success 5497908123 normalmatch_5497908123.txt
+
+success 5497918263 normalmatch_5497918263.txt
+
+success 5497918263 normalmatch_5497918263.txt
+
+success 5497934718 normalmatch_5497934718.txt
+
+success 5497934718 normalmatch_5497934718.txt
+
+success 5497953892 normalmatch_5497953892.txt
+
+success 5497953892 normalmatch_5497953892.txt
+
+success 5497986580 normalmatch_5497986580.txt
+
+success 5497986580 normalmatch_5497986580.txt
+
+success 5498044856 normalmatch_5498044856.txt
+
+success 5498044856 normalmatch_5498044856.txt
+
+success 5498055289 normalmatch_5498055289.txt
+
+success 5498055289 normalmatch_5498055289.txt
+
+success 5498073241 normalmatch_5498073241.txt
+
+success 5498073241 normalmatch_5498073241.txt
+
+success 5498074448 normalmatch_5498074448.txt
+
+success 5498074448 normalmatch_5498074448.txt
+
+success 5498080114 normalmatch_5498080114.txt
+
+success 5498080114 normalmatch_5498080114.txt
+
+success 5498080871 normalmatch_5498080871.txt
+
+success 5498080871 normalmatch_5498080871.txt
+
+success 5498088312 normalmatch_5498088312.txt
+
+success 5498088312 normalmatch_5498088312.txt
+
+success 5498096046 normalmatch_5498096046.txt
+
+success 5498096046 normalmatch_5498096046.txt
+
+success 5498097036 normalmatch_5498097036.txt
+
+success 5498097036 normalmatch_5498097036.txt
+
+success 5498099395 normalmatch_5498099395.txt
+
+success 5498099395 normalmatch_5498099395.txt
+
+success 5498100450 normalmatch_5498100450.txt
+
+success 5498100450 normalmatch_5498100450.txt
+
+success 5498105587 normalmatch_5498105587.txt
+
+success 5498105587 normalmatch_5498105587.txt
+
+success 5498109386 normalmatch_5498109386.txt
+
+success 5498109386 normalmatch_5498109386.txt
+
+success 5498112562 normalmatch_5498112562.txt
+
+success 5498112562 normalmatch_5498112562.txt
+
+success 5498112719 normalmatch_5498112719.txt
+
+success 5498112719 normalmatch_5498112719.txt
+
+success 5498119392 normalmatch_5498119392.txt
+
+success 5498119392 normalmatch_5498119392.txt
+
+success 5498119924 normalmatch_5498119924.txt
+
+success 5498119924 normalmatch_5498119924.txt
+
+success 5498122912 normalmatch_5498122912.txt
+
+success 5498122912 normalmatch_5498122912.txt
+
+success 5498132536 normalmatch_5498132536.txt
+
+success 5498132536 normalmatch_5498132536.txt
+
+success 5498138147 normalmatch_5498138147.txt
+
+success 5498138147 normalmatch_5498138147.txt
+
+success 5498139045 normalmatch_5498139045.txt
+
+success 5498139045 normalmatch_5498139045.txt
+
+success 5498143133 normalmatch_5498143133.txt
+
+success 5498143133 normalmatch_5498143133.txt
+
+success 5498223920 normalmatch_5498223920.txt
+
+success 5498223920 normalmatch_5498223920.txt
+
+success 5498323443 normalmatch_5498323443.txt
+
+success 5498323443 normalmatch_5498323443.txt
+
+success 5498499560 normalmatch_5498499560.txt
+
+success 5498499560 normalmatch_5498499560.txt
+
+success 5498529033 normalmatch_5498529033.txt
+
+success 5498529033 normalmatch_5498529033.txt
+
+success 5498629957 normalmatch_5498629957.txt
+
+success 5498629957 normalmatch_5498629957.txt
+
+success 5498693185 normalmatch_5498693185.txt
+
+success 5498693185 normalmatch_5498693185.txt
+
+success 5498704451 normalmatch_5498704451.txt
+
+success 5498704451 normalmatch_5498704451.txt
+
+success 5498730730 normalmatch_5498730730.txt
+
+success 5498730730 normalmatch_5498730730.txt
+
+success 5498764541 normalmatch_5498764541.txt
+
+success 5498764541 normalmatch_5498764541.txt
+
+success 5498809520 normalmatch_5498809520.txt
+
+success 5498809520 normalmatch_5498809520.txt
+
+success 5498872572 normalmatch_5498872572.txt
+
+success 5498872572 normalmatch_5498872572.txt
+
+success 5498970889 normalmatch_5498970889.txt
+
+success 5498970889 normalmatch_5498970889.txt
+
+success 5498990650 normalmatch_5498990650.txt
+
+success 5498990650 normalmatch_5498990650.txt
+
+success 5499019090 normalmatch_5499019090.txt
+
+success 5499019090 normalmatch_5499019090.txt
+
+success 5499019584 normalmatch_5499019584.txt
+
+success 5499019584 normalmatch_5499019584.txt
+
+success 5499024203 normalmatch_5499024203.txt
+
+success 5499024203 normalmatch_5499024203.txt
+
+success 5499025173 normalmatch_5499025173.txt
+
+success 5499025173 normalmatch_5499025173.txt
+
+success 5499026481 normalmatch_5499026481.txt
+
+success 5499026481 normalmatch_5499026481.txt
+
+success 5499026810 normalmatch_5499026810.txt
+
+success 5499026810 normalmatch_5499026810.txt
+
+success 5499034493 normalmatch_5499034493.txt
+
+success 5499034493 normalmatch_5499034493.txt
+
+success 5499042520 normalmatch_5499042520.txt
+
+success 5499042520 normalmatch_5499042520.txt
+
+success 5499075482 normalmatch_5499075482.txt
+
+success 5499075482 normalmatch_5499075482.txt
+
+success 5499119471 normalmatch_5499119471.txt
+
+success 5499119471 normalmatch_5499119471.txt
+
+success 5499131385 normalmatch_5499131385.txt
+
+success 5499131385 normalmatch_5499131385.txt
+
+success 5499212288 normalmatch_5499212288.txt
+
+success 5499212288 normalmatch_5499212288.txt
+
+success 5499286313 normalmatch_5499286313.txt
+
+success 5499286313 normalmatch_5499286313.txt
+
+success 5499296038 normalmatch_5499296038.txt
+
+success 5499296038 normalmatch_5499296038.txt
+
+success 5499312647 normalmatch_5499312647.txt
+
+success 5499312647 normalmatch_5499312647.txt
+
+success 5499370330 normalmatch_5499370330.txt
+
+success 5499370330 normalmatch_5499370330.txt
+
+success 5499565896 normalmatch_5499565896.txt
+
+success 5499565896 normalmatch_5499565896.txt
+
+success 5499585323 normalmatch_5499585323.txt
+
+success 5499585323 normalmatch_5499585323.txt
+
+success 5499660739 normalmatch_5499660739.txt
+
+success 5499660739 normalmatch_5499660739.txt
+
+success 5492710399 normalmatch_5492710399.txt
+
+success 5492710399 normalmatch_5492710399.txt
+
+success 5492716026 normalmatch_5492716026.txt
+
+success 5492716026 normalmatch_5492716026.txt
+
+success 5492719055 normalmatch_5492719055.txt
+
+success 5492719055 normalmatch_5492719055.txt
+
+success 5492719505 normalmatch_5492719505.txt
+
+success 5492719505 normalmatch_5492719505.txt
+
+success 5492723391 normalmatch_5492723391.txt
+
+success 5492723391 normalmatch_5492723391.txt
+
+success 5492739896 normalmatch_5492739896.txt
+
+success 5492739896 normalmatch_5492739896.txt
+
+success 5492746323 normalmatch_5492746323.txt
+
+success 5492746323 normalmatch_5492746323.txt
+
+success 5492751740 normalmatch_5492751740.txt
+
+success 5492751740 normalmatch_5492751740.txt
+
+success 5492755997 normalmatch_5492755997.txt
+
+success 5492755997 normalmatch_5492755997.txt
+
+success 5492759109 normalmatch_5492759109.txt
+
+success 5492759109 normalmatch_5492759109.txt
+
+success 5492760570 normalmatch_5492760570.txt
+
+success 5492760570 normalmatch_5492760570.txt
+
+success 5492761356 normalmatch_5492761356.txt
+
+success 5492761356 normalmatch_5492761356.txt
+
+success 5492764464 normalmatch_5492764464.txt
+
+success 5492764464 normalmatch_5492764464.txt
+
+success 5492767552 normalmatch_5492767552.txt
+
+success 5492767552 normalmatch_5492767552.txt
+
+success 5492768990 normalmatch_5492768990.txt
+
+success 5492768990 normalmatch_5492768990.txt
+
+success 5492781414 normalmatch_5492781414.txt
+
+success 5492781414 normalmatch_5492781414.txt
+
+success 5492782596 normalmatch_5492782596.txt
+
+success 5492782596 normalmatch_5492782596.txt
+
+success 5492782620 normalmatch_5492782620.txt
+
+success 5492782620 normalmatch_5492782620.txt
+
+success 5492787802 normalmatch_5492787802.txt
+
+success 5492787802 normalmatch_5492787802.txt
+
+success 5492795770 normalmatch_5492795770.txt
+
+success 5492795770 normalmatch_5492795770.txt
+
+success 5492801233 normalmatch_5492801233.txt
+
+success 5492801233 normalmatch_5492801233.txt
+
+success 5492817064 normalmatch_5492817064.txt
+
+success 5492817064 normalmatch_5492817064.txt
+
+success 5492817786 normalmatch_5492817786.txt
+
+success 5492817786 normalmatch_5492817786.txt
+
+success 5492819230 normalmatch_5492819230.txt
+
+success 5492819230 normalmatch_5492819230.txt
+
+success 5492821677 normalmatch_5492821677.txt
+
+success 5492821677 normalmatch_5492821677.txt
+
+success 5492824385 normalmatch_5492824385.txt
+
+success 5492824385 normalmatch_5492824385.txt
+
+success 5492827485 normalmatch_5492827485.txt
+
+success 5492827485 normalmatch_5492827485.txt
+
+success 5492830339 normalmatch_5492830339.txt
+
+success 5492830339 normalmatch_5492830339.txt
+
+success 5492840495 normalmatch_5492840495.txt
+
+success 5492840495 normalmatch_5492840495.txt
+
+success 5492841514 normalmatch_5492841514.txt
+
+success 5492841514 normalmatch_5492841514.txt
+
+success 5492847815 normalmatch_5492847815.txt
+
+success 5492847815 normalmatch_5492847815.txt
+
+success 5492850376 normalmatch_5492850376.txt
+
+success 5492850376 normalmatch_5492850376.txt
+
+success 5492851024 normalmatch_5492851024.txt
+
+success 5492851024 normalmatch_5492851024.txt
+
+success 5492851641 normalmatch_5492851641.txt
+
+success 5492851641 normalmatch_5492851641.txt
+
+success 5492854600 normalmatch_5492854600.txt
+
+success 5492854600 normalmatch_5492854600.txt
+
+success 5492857004 normalmatch_5492857004.txt
+
+success 5492857004 normalmatch_5492857004.txt
+
+success 5492857804 normalmatch_5492857804.txt
+
+success 5492857804 normalmatch_5492857804.txt
+
+success 5492858664 normalmatch_5492858664.txt
+
+success 5492858664 normalmatch_5492858664.txt
+
+success 5492860844 normalmatch_5492860844.txt
+
+success 5492860844 normalmatch_5492860844.txt
+
+success 5492862113 normalmatch_5492862113.txt
+
+success 5492862113 normalmatch_5492862113.txt
+
+success 5492862293 normalmatch_5492862293.txt
+
+success 5492862293 normalmatch_5492862293.txt
+
+success 5492864503 normalmatch_5492864503.txt
+
+success 5492864503 normalmatch_5492864503.txt
+
+success 5492908243 normalmatch_5492908243.txt
+
+success 5492908243 normalmatch_5492908243.txt
+
+success 5492951377 normalmatch_5492951377.txt
+
+success 5492951377 normalmatch_5492951377.txt
+
+success 5493046309 normalmatch_5493046309.txt
+
+success 5493046309 normalmatch_5493046309.txt
+
+success 5493098048 normalmatch_5493098048.txt
+
+success 5493098048 normalmatch_5493098048.txt
+
+success 5493263358 normalmatch_5493263358.txt
+
+success 5493263358 normalmatch_5493263358.txt
+
+success 5493332040 normalmatch_5493332040.txt
+
+success 5493332040 normalmatch_5493332040.txt
+
+success 5495693620 normalmatch_5495693620.txt
+
+success 5495693620 normalmatch_5495693620.txt
+
+success 5496161553 normalmatch_5496161553.txt
+
+success 5496161553 normalmatch_5496161553.txt
+
+success 5496500659 normalmatch_5496500659.txt
+
+success 5496500659 normalmatch_5496500659.txt
+
+success 5498429151 normalmatch_5498429151.txt
+
+success 5498429151 normalmatch_5498429151.txt
+
+success 5498494967 normalmatch_5498494967.txt
+
+success 5498494967 normalmatch_5498494967.txt
+
+success 5498551479 normalmatch_5498551479.txt
+
+success 5498551479 normalmatch_5498551479.txt
+
+success 5498592002 normalmatch_5498592002.txt
+
+success 5498592002 normalmatch_5498592002.txt
+
+success 5498618504 normalmatch_5498618504.txt
+
+success 5498618504 normalmatch_5498618504.txt
+
+success 5498658282 normalmatch_5498658282.txt
+
+success 5498658282 normalmatch_5498658282.txt
+
+success 5498767131 normalmatch_5498767131.txt
+
+success 5498767131 normalmatch_5498767131.txt
+
+success 5499358492 normalmatch_5499358492.txt
+
+success 5499358492 normalmatch_5499358492.txt
+
+success 5499444050 normalmatch_5499444050.txt
+
+success 5499444050 normalmatch_5499444050.txt
+
+success 5499464667 normalmatch_5499464667.txt
+
+success 5499464667 normalmatch_5499464667.txt
+
+success 5500407216 normalmatch_5500407216.txt
+
+success 5500407216 normalmatch_5500407216.txt
+
+success 5500580145 normalmatch_5500580145.txt
+
+success 5500580145 normalmatch_5500580145.txt
+
+success 5500781326 normalmatch_5500781326.txt
+
+success 5500781326 normalmatch_5500781326.txt
+
+success 5500882298 normalmatch_5500882298.txt
+
+success 5500882298 normalmatch_5500882298.txt
+
+success 5500915855 normalmatch_5500915855.txt
+
+success 5500915855 normalmatch_5500915855.txt
+
+success 5500917226 normalmatch_5500917226.txt
+
+success 5500917226 normalmatch_5500917226.txt
+
+success 5500920281 normalmatch_5500920281.txt
+
+success 5500920281 normalmatch_5500920281.txt
+
+success 5500924705 normalmatch_5500924705.txt
+
+success 5500924705 normalmatch_5500924705.txt
+
+success 5500925560 normalmatch_5500925560.txt
+
+success 5500925560 normalmatch_5500925560.txt
+
+success 5500927782 normalmatch_5500927782.txt
+
+success 5500927782 normalmatch_5500927782.txt
+
+success 5500934030 normalmatch_5500934030.txt
+
+success 5500934030 normalmatch_5500934030.txt
+
+success 5500935894 normalmatch_5500935894.txt
+
+success 5500935894 normalmatch_5500935894.txt
+
+success 5500936960 normalmatch_5500936960.txt
+
+success 5500936960 normalmatch_5500936960.txt
+
+success 5500937789 normalmatch_5500937789.txt
+
+success 5500937789 normalmatch_5500937789.txt
+
+success 5500941622 normalmatch_5500941622.txt
+
+success 5500941622 normalmatch_5500941622.txt
+
+success 5500943697 normalmatch_5500943697.txt
+
+success 5500943697 normalmatch_5500943697.txt
+
+success 5500945711 normalmatch_5500945711.txt
+
+success 5500945711 normalmatch_5500945711.txt
+
+success 5500952178 normalmatch_5500952178.txt
+
+success 5500952178 normalmatch_5500952178.txt
+
+success 5500963256 normalmatch_5500963256.txt
+
+success 5500963256 normalmatch_5500963256.txt
+
+success 5500967460 normalmatch_5500967460.txt
+
+success 5500967460 normalmatch_5500967460.txt
+
+success 5500969824 normalmatch_5500969824.txt
+
+success 5500969824 normalmatch_5500969824.txt
+
+success 5500969939 normalmatch_5500969939.txt
+
+success 5500969939 normalmatch_5500969939.txt
+
+success 5500969987 normalmatch_5500969987.txt
+
+success 5500969987 normalmatch_5500969987.txt
+
+success 5500972020 normalmatch_5500972020.txt
+
+success 5500972020 normalmatch_5500972020.txt
+
+success 5501150785 normalmatch_5501150785.txt
+
+success 5501150785 normalmatch_5501150785.txt
+
+success 5501159443 normalmatch_5501159443.txt
+
+success 5501159443 normalmatch_5501159443.txt
+
+success 5501327133 normalmatch_5501327133.txt
+
+success 5501327133 normalmatch_5501327133.txt
+
+success 5501368961 normalmatch_5501368961.txt
+
+success 5501368961 normalmatch_5501368961.txt
+
+success 5501501357 normalmatch_5501501357.txt
+
+success 5501501357 normalmatch_5501501357.txt
+
+success 5501530765 normalmatch_5501530765.txt
+
+success 5501530765 normalmatch_5501530765.txt
+
+success 5501588823 normalmatch_5501588823.txt
+
+success 5501588823 normalmatch_5501588823.txt
+
+success 5501623489 normalmatch_5501623489.txt
+
+success 5501623489 normalmatch_5501623489.txt
+
+success 5501676104 normalmatch_5501676104.txt
+
+success 5501676104 normalmatch_5501676104.txt
+
+success 5501691613 normalmatch_5501691613.txt
+
+success 5501691613 normalmatch_5501691613.txt
+
+success 5501697391 normalmatch_5501697391.txt
+
+success 5501697391 normalmatch_5501697391.txt
+
+success 5501754415 normalmatch_5501754415.txt
+
+success 5501754415 normalmatch_5501754415.txt
+
+success 5501833301 normalmatch_5501833301.txt
+
+success 5501833301 normalmatch_5501833301.txt
+
+success 5501907392 normalmatch_5501907392.txt
+
+success 5501907392 normalmatch_5501907392.txt
+
+success 5501920954 normalmatch_5501920954.txt
+
+success 5501920954 normalmatch_5501920954.txt
+
+success 5501959175 normalmatch_5501959175.txt
+
+success 5501959175 normalmatch_5501959175.txt
+
+success 5502045122 normalmatch_5502045122.txt
+
+success 5502045122 normalmatch_5502045122.txt
+
+success 5502113993 normalmatch_5502113993.txt
+
+success 5502113993 normalmatch_5502113993.txt
+
+success 5502168681 normalmatch_5502168681.txt
+
+success 5502168681 normalmatch_5502168681.txt
+
+success 5502228846 normalmatch_5502228846.txt
+
+success 5502228846 normalmatch_5502228846.txt
+
+success 5502386164 normalmatch_5502386164.txt
+
+success 5502386164 normalmatch_5502386164.txt
+
+success 5502393078 normalmatch_5502393078.txt
+
+success 5502393078 normalmatch_5502393078.txt
+
+success 5502528791 normalmatch_5502528791.txt
+
+success 5502528791 normalmatch_5502528791.txt
+
+success 5502577682 normalmatch_5502577682.txt
+
+success 5502577682 normalmatch_5502577682.txt
+
+success 5502699355 normalmatch_5502699355.txt
+
+success 5502699355 normalmatch_5502699355.txt
+
+success 5502732158 normalmatch_5502732158.txt
+
+success 5502732158 normalmatch_5502732158.txt
+
+success 5502750681 normalmatch_5502750681.txt
+
+success 5502750681 normalmatch_5502750681.txt
+
+success 5502790166 normalmatch_5502790166.txt
+
+success 5502790166 normalmatch_5502790166.txt
+
+success 5502790545 normalmatch_5502790545.txt
+
+success 5502790545 normalmatch_5502790545.txt
+
+success 5502791163 normalmatch_5502791163.txt
+
+success 5502791163 normalmatch_5502791163.txt
+
+success 5502794567 normalmatch_5502794567.txt
+
+success 5502794567 normalmatch_5502794567.txt
+
+success 5502800894 normalmatch_5502800894.txt
+
+success 5502800894 normalmatch_5502800894.txt
+
+success 5502808475 normalmatch_5502808475.txt
+
+success 5502808475 normalmatch_5502808475.txt
+
+success 5502810501 normalmatch_5502810501.txt
+
+success 5502810501 normalmatch_5502810501.txt
+
+success 5502824457 normalmatch_5502824457.txt
+
+success 5502824457 normalmatch_5502824457.txt
+
+success 5502829456 normalmatch_5502829456.txt
+
+success 5502829456 normalmatch_5502829456.txt
+
+success 5502840918 normalmatch_5502840918.txt
+
+success 5502840918 normalmatch_5502840918.txt
+
+success 5502841690 normalmatch_5502841690.txt
+
+success 5502841690 normalmatch_5502841690.txt
+
+success 5502843562 normalmatch_5502843562.txt
+
+success 5502843562 normalmatch_5502843562.txt
+
+success 5502846419 normalmatch_5502846419.txt
+
+success 5502846419 normalmatch_5502846419.txt
+
+success 5502848948 normalmatch_5502848948.txt
+
+success 5502848948 normalmatch_5502848948.txt
+
+success 5502853724 normalmatch_5502853724.txt
+
+success 5502853724 normalmatch_5502853724.txt
+
+success 5502854476 normalmatch_5502854476.txt
+
+success 5502854476 normalmatch_5502854476.txt
+
+success 5502855498 normalmatch_5502855498.txt
+
+success 5502855498 normalmatch_5502855498.txt
+
+success 5502855751 normalmatch_5502855751.txt
+
+success 5502855751 normalmatch_5502855751.txt
+
+success 5502865226 normalmatch_5502865226.txt
+
+success 5502865226 normalmatch_5502865226.txt
+
+success 5502865980 normalmatch_5502865980.txt
+
+success 5502865980 normalmatch_5502865980.txt
+
+success 5502869186 normalmatch_5502869186.txt
+
+success 5502869186 normalmatch_5502869186.txt
+
+success 5502869201 normalmatch_5502869201.txt
+
+success 5502869201 normalmatch_5502869201.txt
+
+success 5502907890 normalmatch_5502907890.txt
+
+success 5502907890 normalmatch_5502907890.txt
+
+success 5502990785 normalmatch_5502990785.txt
+
+success 5502990785 normalmatch_5502990785.txt
+

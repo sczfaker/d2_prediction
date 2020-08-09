@@ -2,13 +2,12 @@
 # -*- coding: UTF-8 -*-
 import sys,io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
-str_filename = "47_Full.txt"
-str_filename = "team_Full.txt"#"match_Full.txt"
-str_filename = "login_max+.txt"#"match_Full.txt"
-str_filename = "team_page.txt"#"match_Full.txt"
-str_filename = "player_match.txt"
-str_filename = "dotabuff_match.txt"
-str_filename="20_Full.txt"
+str_filename="raybet_match_Request.txt"
+str_filename="fiddler_kuaikedianjing_Request.txt"
+str_filename="EG_Navi.txt"
+str_filename="baidu_stockmarket.txt"
+str_filename="vpbody.txt"
+str_filename="reply_request.txt"
 # save_name = "re_test.py"
 
 save_name = str_filename.replace("txt", "py")

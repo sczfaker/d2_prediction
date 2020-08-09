@@ -1,0 +1,11 @@
+        self.current_url=self.teamfight_url
+        self.tour_keywords={"heroes":"heroes","picks":"picks","teams":"teams","drafts":"drafts","players":"players"}
+        self.dotamax_url_weplay="http://dotamax.com/match/tour_league_overview/?league_id=11975"
+        self.dotamax_url_pit="http://dotamax.com/match/tour_league_overview/?league_id=11831"
+        self.esl_los="https://www.dotabuff.com/esports/leagues/11823-esl-one-los-angeles-2020-online-powered-by-intel/series?original_slug=11823-esl-one-los-angeles-2020-online-powered-by-intel"
+        self.gamers_without_borders="https://www.dotabuff.com/esports/leagues/12028-gamers-without-borders/series"
+        self.dpl_cda="https://www.dotabuff.com/esports/leagues/11898-2020-dpl-cda-dota2/series"
+        self.pit_eu="https://www.dotabuff.com/esports/leagues/11974-amd-sapphire-oga-dota-pit-eu-cis-region/series"
+        self.berg_eu="https://www.dotabuff.com/esports/leagues/12027-esl-one-birmingham-2020-online-powered-by-intel/series"
+        self.blast_eu="https://www.dotabuff.com/esports/leagues/11979-blast-bounty-hunt/series"
+        self.epic_eucn="https://www.dotabuff.com/esports/leagues/12113-beyond-epic-league/series"

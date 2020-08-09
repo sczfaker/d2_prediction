@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html class="client-nojs Send_pizza_to_FO-nTTaX All_glory_to_Liquipedia" lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8"/>
+<title>ʥ�ӻ��� - Liquipedia Dota 2 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"HuaLian","wgTitle":"HuaLian","wgCurRevisionId":1063337,"wgRevisionId":1063337,"wgArticleId":105577,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Player stubs","Players with no social media links","Pages with hard coded colors","Players","Carry players","Chinese Players"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"HuaLian","wgRelevantArticleId":105577,"wgRequestId":"b62e08ed5fee547edfbef9d2","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4},"depth":{"levels":3,"quality":1,"pristine":4},"style":{"levels":3,"quality":1,"pristine":4}}},"wgStableRevisionId":1063337,"wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/dota2/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false,"LengthOfUrl":"100","UpdateNotificationServerDomain":"https://liquipedia.net/","UpdateNotificationServerSubPath":"/notifications/","wgWikiEditorEnabledModules":[],"wgDota2WebApiImagePath":"/dota2/extensions/Dota2WebApi/resources/images/","liquiflowCacheVersion":"23","srfFilteredConfig":null});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.bugtracker":"ready","ext.liquipediaads":"ready","ext.networknotice.Notice":"ready","ext.liquigoals":"ready","ext.TeamLiquidIntegration.liquipedia-custom-icons":"ready","fontawesome-pro":"ready","ext.wikimenu.wikicolors":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.liquiflow.theme.dota2":"ready","skins.liquiflow.scripts":"loading"});mw.loader.implement("user.tokens@106y09h",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","mediawiki.page.gallery","smw.entityexaminer","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.ShortUrl.scripts","ext.trendingmenu","ext.Notification.scripts","ext.wikimenu.menu","ext.flaggedRevs.advanced"]);mw.loader.load("/dota2/load.php?debug=false\u0026lang=en\u0026modules=skins.liquiflow.scripts\u0026only=scripts\u0026skin=liquiflow");});</script>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=ext.TeamLiquidIntegration.liquipedia-custom-icons%7Cext.bugtracker%2Cliquigoals%2Cliquipediaads%7Cext.flaggedRevs.basic%7Cext.networknotice.Notice%7Cext.wikimenu.wikicolors%7Cfontawesome-pro%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.liquiflow.theme.dota2&amp;only=styles&amp;skin=liquiflow"/>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=liquiflow"/>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=ext.srf.styles&amp;only=styles&amp;skin=liquiflow"/>
+<script async="" src="/dota2/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=liquiflow"></script>
+<link rel="stylesheet" href="/commons/load.php?debug=false&amp;articles=Variables.css%7CAmbox.css%7CBracket.css%7CColours.css%7CCrosstable.css%7CDivTable.css%7CFilterButtons.css%7CGrid.css%7CIcons.css%7CInfobox.css%7CMainpage.css%7CMatchseries.css%7CMiscellaneous.css%7CNavFrame.css%7CNavbox.css%7CPanels.css%7CPrizepooltable.css%7CQuote.css%7CSelectall.css%7CStatisticstable.css%7CSwisstable.css%7CTables.css%7CTabs.css%7CTeamTemplates.css%7CTeamcard.css%7CTechtree.css&amp;only=styles&amp;mode=articles&amp;cacheversion=31&amp;*"/><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700,700italic%7CDroid+Sans+Mono%7CRoboto:500%7CSource+Code+Pro:400,700&amp;display=swap"/><style>#mw-indicator-mw-helplink {display:none;}</style>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/dota2/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=liquiflow"/>
+<meta name="generator" content="MediaWiki 1.31.8"/>
+<meta name="description" content="Zhong &quot;ʥ�ӻ���&quot; Liushuai is a Chinese professional Dota 2 player who is currently playing for Royal Never Give Up."/>
+<link rel="alternate" type="application/rdf+xml" title="HuaLian" href="/dota2/index.php?title=Special:ExportRDF/HuaLian&amp;xmlmime=rdf"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/dota2/opensearch_desc.php" title="Liquipedia Dota 2 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://liquipedia.net/dota2/api.php?action=rsd"/>
+<link rel="license" href="/dota2/Liquipedia:Copyrights"/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:site" content="@LiquipediaNet"/><meta name="twitter:title" content="ʥ�ӻ���"/><meta name="twitter:description" content="Zhong &quot;ʥ�ӻ���&quot; Liushuai is a Chinese professional Dota 2 player who is currently playing for Royal Never Give Up."/><meta name="twitter:domain" content="liquipedia.net"/><meta name="twitter:image:src" content="https://liquipedia.net/commons/images/9/91/HuaLian-SAG_2020.jpg"/>
+<meta property="og:type" content="article"/><meta property="og:url" content="https://liquipedia.net/dota2/HuaLian"/><meta property="og:title" content="ʥ�ӻ���"/><meta property="og:description" content="Zhong &quot;ʥ�ӻ���&quot; Liushuai is a Chinese professional Dota 2 player who is currently playing for Royal Never Give Up."/><meta property="og:site_name" content="Liquipedia Dota 2 Wiki"/><meta property="og:image" content="https://liquipedia.net/commons/images/9/91/HuaLian-SAG_2020.jpg"/>
+<!-- 
+	************************************************
+	*  _ _             _                _ _        *
+	* | (_) __ _ _   _(_)_ __   ___  __| (_) __ _  *
+	* | | |/ _` | | | | | '_ \ / _ \/ _` | |/ _` | *
+	* | | | (_| | |_| | | |_) |  __/ (_| | | (_| | *
+	* |_|_|\__, |\__,_|_| .__/ \___|\__,_|_|\__,_| *
+	*         |_|       |_|                        *
+	************************************************
+-->
+<link rel="apple-touch-icon" sizes="57x57" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-57x57.png"/><link rel="apple-touch-icon" sizes="60x60" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-60x60.png"/><link rel="apple-touch-icon" sizes="72x72" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-72x72.png"/><link rel="apple-touch-icon" sizes="76x76" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-76x76.png"/><link rel="apple-touch-icon" sizes="114x114" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-114x114.png"/><link rel="apple-touch-icon" sizes="120x120" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-120x120.png"/><link rel="apple-touch-icon" sizes="144x144" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-144x144.png"/><link rel="apple-touch-icon" sizes="152x152" href="/dota2/extensions/SearchEngineOptimization/resources/images/apple-touch-icon-152x152.png"/><link rel="icon" sizes="16x16" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-16x16.png"/><link rel="icon" sizes="32x32" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-32x32.png"/><link rel="icon" sizes="96x96" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-96x96.png"/><link rel="icon" sizes="128x128" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-128x128.png"/><link rel="icon" sizes="196x196" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-196x196.png"/><link name="application-name" content="Liquipedia Dota 2 Wiki" type="image/png" href="/dota2/extensions/SearchEngineOptimization/resources/images/favicon-196x196.png"/><link name="msapplication-TileColor" content="#ffffff"/><link name="msapplication-TileImage" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-144x144.png"/><link name="msapplication-square70x70logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-70x70.png"/><link name="msapplication-square150x150logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-150x150.png"/><link name="msapplication-wide310x150logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-310x150.png"/><link name="msapplication-square310x310logo" content="/dota2/extensions/SearchEngineOptimization/resources/images/mstile-310x310.png"/>
+<link rel="canonical" href="https://liquipedia.net/dota2/HuaLian"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#b12a2a">
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	googletag.cmd.push( function () {
+		googletag.pubads().setTargeting( 'url', location.pathname );
+	} );
+</script>
+<script type="text/javascript">
+  window["nitroAds"] = window["nitroAds"] || {
+    createAd: function() {
+      window.nitroAds.queue.push(["createAd", arguments]);
+    },
+    queue: []
+  };
+</script>
+<script async src="https://s.nitropay.com/ads-90.js"></script>
+            
+<!--[if lt IE 9]><script src="/dota2/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=LiquiFlow&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-HuaLian rootpage-HuaLian skin-liquiflow action-view wiki-dota2 logged-out" id="top">
+		<nav class="navbar navbar-default navbar-fixed-top noprint" id="slide-nav">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 navbar-main-column">
+						<div class="navbar-header">
+							<button class="navbar-toggle" id="main-nav-toggler">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="fas fa-fw fa-bars fa-2x"></span></span>
+							</button>
+
+							<a class="navbar-brand" href="/dota2/Main_Page"
+							    title="Visit the main page">
+								<div style="display: inline-block;">
+									<div style="float: left;"><img id="brand-logo" src="/commons/extensions/TeamLiquidIntegration/resources/pagelogo/liquipedia_icon_menu.png" alt="Logo"></div>
+									<div class="brand-name visible-xs logotype" style="white-space: nowrap; margin-left: 5px; float: left;">liquipedia</div>
+								</div>
+							</a>
+
+															<button class="navbar-toggle pull-right" id="toc-toggler">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="fas fa-fw fa-list fa-2x"></span>								</button>
+														<button id="mobile-search-button" class="navbar-toggle navbar-search-toggle pull-right visible-xs">
+								<span class="fas fa-fw fa-search fa-2x"></span>							</button>
+
+						</div><!-- /.navbar-header -->
+													<div id="slide-toc" class="visible-xs">
+								<div id="scroll-wrapper-toc" class="">
+									<div class="nav navbar-nav">
+										<div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul class="nav">
+<li class="toclevel-1 tocsection-1"><a data-target="#Trivia" href="#Trivia"><span class="tocnumber">1</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a data-target="#Achievements" href="#Achievements"><span class="tocnumber">2</span> <span class="toctext">Achievements</span></a></li>
+<li class="toclevel-1 tocsection-3"><a data-target="#Gallery" href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a data-target="#References" href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+									</div>
+								</div>
+							</div>
+						
+						<div id="slidemenu">
+							<div id="scroll-wrapper-menu">
+								<ul class="nav navbar-nav">
+																		<li class="dropdown dropdown-brand hidden-xs">
+										<a id="brand-menu-toggle" class="dropdown-toggle brand-title" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span id="brand-desktop" class="brand-name logotype" style="font-size:18px;">liquipedia</span> <span class="caret"></span> <br>
+											<span class="hidden-xs brand-subtitle">
+												Dota 2											</span>
+										</a>
+										<ul id="brand-menu" class="dropdown-menu">
+											<div id="ext-wikimenu" class="ext-wikimenu" data-active="0" data-count-other-wikis="0"><div class="ext-wikimenu-tabs"><a href="#" class="ext-wikimenu-tab" data-tab="0"><div class="ext-wikimenu-tab-bold">Main Wikis</div></a><a href="#" class="ext-wikimenu-tab" data-tab="1"><div class="ext-wikimenu-tab-bold">Alpha Wikis</div></a><a href="#" class="ext-wikimenu-tab" data-tab="2"><div class="ext-wikimenu-tab-bold">Pre Alpha Wikis</div></a></div><div class="ext-wikimenu-contents"><div class="ext-wikimenu-content" data-content="0"><a href="/counterstrike/Main_Page" class="ext-wikimenu-color-counterstrike">Counter-Strike</a><a href="/starcraft2/Main_Page" class="ext-wikimenu-color-starcraft2">StarCraft II</a><a href="/pubg/Main_Page" class="ext-wikimenu-color-pubg">PUBG</a><a href="/overwatch/Main_Page" class="ext-wikimenu-color-overwatch">Overwatch</a><a href="/rainbowsix/Main_Page" class="ext-wikimenu-color-rainbowsix">Rainbow Six</a><a href="/valorant/Main_Page" class="ext-wikimenu-color-valorant">VALORANT</a><a href="/rocketleague/Main_Page" class="ext-wikimenu-color-rocketleague">Rocket League</a><a href="/leagueoflegends/Main_Page" class="ext-wikimenu-color-leagueoflegends">League of Legends</a><a href="/smash/Main_Page" class="ext-wikimenu-color-smash">Smash</a><a href="/warcraft/Main_Page" class="ext-wikimenu-color-warcraft">Warcraft</a><a href="/apexlegends/Main_Page" class="ext-wikimenu-color-apexlegends">Apex Legends</a><a href="/starcraft/Main_Page" class="ext-wikimenu-color-starcraft">Brood War</a><a href="/hearthstone/Main_Page" class="ext-wikimenu-color-hearthstone">Hearthstone</a><a href="/heroes/Main_Page" class="ext-wikimenu-color-heroes">Heroes</a><a href="/artifact/Main_Page" class="ext-wikimenu-color-artifact">Artifact</a><a href="/commons/Main_Page" class="ext-wikimenu-color-commons">Commons</a></div><div class="ext-wikimenu-content" data-content="1"><a href="/fighters/Main_Page" class="ext-wikimenu-color-fighters">Fighting Games</a><a href="/arenaofvalor/Main_Page" class="ext-wikimenu-color-arenaofvalor">Arena of Valor</a><a href="/arenafps/Main_Page" class="ext-wikimenu-color-arenafps">Arena FPS</a><a href="/clashroyale/Main_Page" class="ext-wikimenu-color-clashroyale">Clash Royale</a><a href="/fortnite/Main_Page" class="ext-wikimenu-color-fortnite">Fortnite</a><a href="/worldofwarcraft/Main_Page" class="ext-wikimenu-color-worldofwarcraft">World of Warcraft</a><a href="/teamfortress/Main_Page" class="ext-wikimenu-color-teamfortress">Team Fortress</a><a href="/fifa/Main_Page" class="ext-wikimenu-color-fifa">FIFA</a><a href="/paladins/Main_Page" class="ext-wikimenu-color-paladins">Paladins</a><a href="/freefire/Main_Page" class="ext-wikimenu-color-freefire">Free Fire</a><a href="/ageofempires/Main_Page" class="ext-wikimenu-color-ageofempires">Age of Empires</a></div><div class="ext-wikimenu-content" data-content="2"><a href="/pokemon/Main_Page" class="ext-wikimenu-color-pokemon">Pok��mon</a><a href="/callofduty/Main_Page" class="ext-wikimenu-color-callofduty">Call of Duty</a><a href="/battalion/Main_Page" class="ext-wikimenu-color-battalion">Battalion 1944</a><a href="/underlords/Main_Page" class="ext-wikimenu-color-underlords">Dota Underlords</a><a href="/trackmania/Main_Page" class="ext-wikimenu-color-trackmania">TrackMania</a><a href="/runeterra/Main_Page" class="ext-wikimenu-color-runeterra">Runeterra</a><a href="/brawlstars/Main_Page" class="ext-wikimenu-color-brawlstars">Brawlstars</a><a href="/autochess/Main_Page" class="ext-wikimenu-color-autochess">Autochess</a><a href="/simracing/Main_Page" class="ext-wikimenu-color-simracing">Sim Racing</a><a href="/crossfire/Main_Page" class="ext-wikimenu-color-crossfire">Crossfire</a><a href="/magic/Main_Page" class="ext-wikimenu-color-magic">Magic</a><a href="/teamfighttactics/Main_Page" class="ext-wikimenu-color-teamfighttactics">Teamfight Tactics</a><a href="/battlerite/Main_Page" class="ext-wikimenu-color-battlerite">Battlerite</a><a href="/criticalops/Main_Page" class="ext-wikimenu-color-criticalops">Critical Ops</a></div></div></div>										</ul>
+									</li>
+
+																				<li class="dropdown icon-tablet">
+												<a id="trending-pages-menu-toggle" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+													<div class="visible-xl visible-lg visible-md visible-xs"><span class="far fa-fw fa-chart-line"></span> Trending <span class="caret"></span></div>
+													<div class="visible-sm">
+														<span class="far fa-fw fa-chart-line"></span> <span class="caret"></span>
+													</div>
+												</a>
+												<ul id="trending-pages-menu" class="dropdown-menu"></ul>
+											</li>
+																						<li class="dropdown hidden-xs icon-tablet">
+												<a id="tournaments-menu-toggle" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+													<div class="visible-xl visible-lg visible-md visible-xs"><span class="fas fa-fw fa-trophy"></span> Tournaments <span class="caret"></span></div>
+													<div class="visible-sm">
+														<span class="fas fa-fw fa-trophy"></span> <span class="caret"></span>
+													</div>
+												</a>
+												<div id="tournaments-menu" class="dropdown-menu multi-column columns-3">
+													<div class="row">
+																														<div class="col-sm-4">
+																	<ul id="tournaments-menu-upcoming" class="multi-column-dropdown">
+																		<li class="dropdown-header">Upcoming</li>
+																		<li><a href="/dota2/ESL_One/Germany/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: EU/CIS</a></li><li><a href="/dota2/ESL_One/Germany/2020/Open_Qualifier/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020 OQ#2</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS/Closed_Qualifier"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: EU/CIS CQ</a></li><li><a href="/dota2/ESL_One/Germany/2020/Open_Qualifier/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020 OQ#1</a></li>																	</ul>
+																</div>
+																																<div class="col-sm-4">
+																	<ul id="tournaments-menu-ongoing" class="multi-column-dropdown">
+																		<li class="dropdown-header">Ongoing</li>
+																		<li><a href="/dota2/ESL/UK_Premiership/2020/Autumn"><span class="league-icon-small-image"><img alt="" src="/commons/images/3/36/ESL_Premiership_2019_icon.png" width="50" height="50" loading="lazy" /></span> ESL Premiership '20 Autumn</a></li><li><a href="/dota2/Oceanic_Esports_League/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/b/b0/Oceanic_Esports_icon.png" width="50" height="50" loading="lazy" /></span> Oceanic Esports League S2</a></li><li><a href="/dota2/China_Dota2_Pro_Cup/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></span> China Pro Cup S1</a></li><li><a href="/dota2/Sazka_eLEAGUE/2020/Summer/Regular_Season"><span class="league-icon-small-image"><img alt="" src="/commons/images/6/67/SAZKA_eLEAGUE_Icon.png" width="50" height="50" loading="lazy" /></span> Sazka eLEAGUE Summer '20</a></li><li><a href="/dota2/BTS/Pro_Series/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: EU/CIS</a></li><li><a href="/dota2/BTS/Pro_Series/3/Southeast_Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: SEA</a></li><li><a href="/dota2/BTS/Pro_Series/3/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: AM</a></li>																	</ul>
+																</div>
+																																<div class="col-sm-4">
+																	<ul id="tournaments-menu-completed" class="multi-column-dropdown">
+																		<li class="dropdown-header">Completed</li>
+																		<li><a href="/dota2/Hari_Merdeka_Hari_Malaysia/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/d/d2/ENTs_icon.png" width="50" height="50" loading="lazy" /></span> Hari Merdeka Hari Malaysia 2020</a></li><li><a href="/dota2/IeSF_World_Championship/2020/Kazakhstan"><span class="league-icon-small-image"><img alt="" src="/commons/images/3/3b/IeSF_Icon.png" width="50" height="50" loading="lazy" /></span> IeSF WC Kazakhstan Qualifier</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: Asia</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Immortal_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Immortal</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Divine</a></li><li><a href="/dota2/OMEGA_League/1/Americas/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: AM Divine</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: AM</a></li><li><a href="/dota2/OMEGA_League/1/Asia/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: Asia Divine</a></li><li><a href="/dota2/Moon_Studio/Asian_League/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/4/4f/Moon_Studio_Asian_League_icon.png" width="50" height="50" loading="lazy" /></span> Moon Studio Asian League</a></li><li><a href="/dota2/The_Great_American_Rivalry/Season_1/Division_1"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/ff/The_Great_American_Rivalry_icon.png" width="50" height="50" loading="lazy" /></span> The Great American Rivalry D1</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: EU CIS</a></li><li><a href="/dota2/DPL-CDA_Professional_League/Season_2"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f7/DPL-CDA_icon.png" width="50" height="50" loading="lazy" /></span> DPL-CDA League S2</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: AM</a></li><li><a href="/dota2/ONE_Esports/SEA_League/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/a/a2/ONE_Esports_SEA_League_icon.png" width="50" height="50" loading="lazy" /></span> ONE Esports SEA League</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/China"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: CN</a></li>																	</ul>
+																</div>
+																													</div>
+													<div class="row">
+														<div style="float:right;margin-right:23px"><a href="/dota2/index.php?title=Liquipedia:Tournaments&action=edit">[edit]</a></div>
+													</div>
+												</div>
+											</li>
+											<li class="visible-xs mobile-divider"></li>
+																								<li class="dropdown visible-xs">
+														<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+															<span class="fas fa-fw fa-trophy"></span> Upcoming <span class="caret"></span>
+														</a>
+														<ul class="dropdown-menu">
+															<li><a href="/dota2/ESL_One/Germany/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: EU/CIS</a></li><li><a href="/dota2/ESL_One/Germany/2020/Open_Qualifier/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020 OQ#2</a></li><li><a href="/dota2/Dota_Pit_League/Online/3/Europe_CIS/Closed_Qualifier"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S3: EU/CIS CQ</a></li><li><a href="/dota2/ESL_One/Germany/2020/Open_Qualifier/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Germany 2020 OQ#1</a></li>
+														</ul>
+													</li>
+																										<li class="dropdown visible-xs">
+														<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+															<span class="fas fa-fw fa-trophy"></span> Ongoing <span class="caret"></span>
+														</a>
+														<ul class="dropdown-menu">
+															<li><a href="/dota2/ESL/UK_Premiership/2020/Autumn"><span class="league-icon-small-image"><img alt="" src="/commons/images/3/36/ESL_Premiership_2019_icon.png" width="50" height="50" loading="lazy" /></span> ESL Premiership '20 Autumn</a></li><li><a href="/dota2/Oceanic_Esports_League/2"><span class="league-icon-small-image"><img alt="" src="/commons/images/b/b0/Oceanic_Esports_icon.png" width="50" height="50" loading="lazy" /></span> Oceanic Esports League S2</a></li><li><a href="/dota2/China_Dota2_Pro_Cup/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></span> China Pro Cup S1</a></li><li><a href="/dota2/Sazka_eLEAGUE/2020/Summer/Regular_Season"><span class="league-icon-small-image"><img alt="" src="/commons/images/6/67/SAZKA_eLEAGUE_Icon.png" width="50" height="50" loading="lazy" /></span> Sazka eLEAGUE Summer '20</a></li><li><a href="/dota2/BTS/Pro_Series/3/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: EU/CIS</a></li><li><a href="/dota2/BTS/Pro_Series/3/Southeast_Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: SEA</a></li><li><a href="/dota2/BTS/Pro_Series/3/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/BTS_Pro_Series_icon.png" width="50" height="50" loading="lazy" /></span> BTS Pro Series S3: AM</a></li>
+														</ul>
+													</li>
+																										<li class="dropdown visible-xs">
+														<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+															<span class="fas fa-fw fa-trophy"></span> Completed <span class="caret"></span>
+														</a>
+														<ul class="dropdown-menu">
+															<li><a href="/dota2/Hari_Merdeka_Hari_Malaysia/2020"><span class="league-icon-small-image"><img alt="" src="/commons/images/d/d2/ENTs_icon.png" width="50" height="50" loading="lazy" /></span> Hari Merdeka Hari Malaysia 2020</a></li><li><a href="/dota2/IeSF_World_Championship/2020/Kazakhstan"><span class="league-icon-small-image"><img alt="" src="/commons/images/3/3b/IeSF_Icon.png" width="50" height="50" loading="lazy" /></span> IeSF WC Kazakhstan Qualifier</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Asia"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: Asia</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Immortal_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Immortal</a></li><li><a href="/dota2/OMEGA_League/1/Europe/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: EU Divine</a></li><li><a href="/dota2/OMEGA_League/1/Americas/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: AM Divine</a></li><li><a href="/dota2/ESL_One/Thailand/2020/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></span> ESL One Thailand 2020: AM</a></li><li><a href="/dota2/OMEGA_League/1/Asia/Divine_Division"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f0/OMEGA_League_icon.png" width="50" height="50" loading="lazy" /></span> OMEGA League: Asia Divine</a></li><li><a href="/dota2/Moon_Studio/Asian_League/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/4/4f/Moon_Studio_Asian_League_icon.png" width="50" height="50" loading="lazy" /></span> Moon Studio Asian League</a></li><li><a href="/dota2/The_Great_American_Rivalry/Season_1/Division_1"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/ff/The_Great_American_Rivalry_icon.png" width="50" height="50" loading="lazy" /></span> The Great American Rivalry D1</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Europe_CIS"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: EU CIS</a></li><li><a href="/dota2/DPL-CDA_Professional_League/Season_2"><span class="league-icon-small-image"><img alt="" src="/commons/images/f/f7/DPL-CDA_icon.png" width="50" height="50" loading="lazy" /></span> DPL-CDA League S2</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/Americas"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: AM</a></li><li><a href="/dota2/ONE_Esports/SEA_League/1"><span class="league-icon-small-image"><img alt="" src="/commons/images/a/a2/ONE_Esports_SEA_League_icon.png" width="50" height="50" loading="lazy" /></span> ONE Esports SEA League</a></li><li><a href="/dota2/Dota_Pit_League/Online/2/China"><span class="league-icon-small-image"><img alt="" src="/commons/images/e/ef/OGA_DOTA_Pit_icon.png" width="50" height="50" loading="lazy" /></span> OGA Dota PIT S2: CN</a></li>
+														</ul>
+													</li>
+																								<li class="visible-xs mobile-divider"></li>
+											<li class="dropdown icon-tablet">
+												<a id="contribute-menu-toggle" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+													<div class="visible-xl visible-lg visible-md visible-xs"><span class="fas fa-fw fa-puzzle-piece"></span> Contribute <span class="caret"></span></div>
+													<div class="visible-sm">
+														<span class="fas fa-fw fa-puzzle-piece"></span> <span class="caret"></span>
+													</div>
+												</a>
+												<ul id="contribute-menu" class="dropdown-menu">
+													<li><a id="contribute-menu-edit-an-article" href="/dota2/Help:Edit_an_Article">Edit an Article</a></li><li><a id="contribute-menu-create-an-article" href="/dota2/Help:Create_an_Article">Create an Article</a></li><li><a id="contribute-menu-help-portal" href="/dota2/Help:Contents">Help Portal</a></li><li><a id="contribute-menu-notability-guidelines" href="/dota2/Liquipedia:Notability_Guidelines">Notability Guidelines</a></li><li><a id="contribute-menu-chat-with-us" href="https://liquipedia.net/discord">Chat With Us</a></li><li><a id="contribute-menu-feedback-thread" href="https://tl.net/forum/website-feedback/94785-liquipedia-feedback-thread">Feedback Thread</a></li>												</ul>
+											</li>
+																				<li class="visible-xs mobile-divider"></li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-gavel"></span> Actions <span class="caret"></span>
+										</a>
+										<ul class="dropdown-menu">
+																												<li id="ca-nstab-main-mobile" class="selected" data-stuff="context-0">
+							<a href="/dota2/HuaLian"
+							    title="View the content page [c]">
+								   <span class="far fa-fw fa-file-alt"></span> <span class="hidden-sm">Page</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-talk-mobile" class="new" data-stuff="context-0">
+							<a href="/dota2/index.php?title=Talk:HuaLian&amp;action=edit&amp;redlink=1"
+							    title="Discussion about the content page [t]">
+								   <span class="far fa-fw fa-comments-alt"></span> <span class="hidden-sm">Talk</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+																						<li id="ca-viewsource-mobile">
+							<a href="/dota2/index.php?title=HuaLian&amp;action=edit"
+							    title="This page is protected.&#10;You can view its source [e]">
+								   <span class="far fa-fw fa-pencil-alt"></span> <span class="hidden-sm">Edit</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-history-mobile" class="collapsible">
+							<a href="/dota2/index.php?title=HuaLian&amp;action=history"
+							    title="Past revisions of this page [h]">
+								   <span class="far fa-fw fa-history"></span> <span class="hidden-sm">History</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+					
+															</ul>
+									</li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-share-alt"></span> <span class="hidden-sm">Share</span> <span class="caret"></span>
+										</a>
+										
+					<ul class="dropdown-menu liquiflow-menu-share">
+												<li>
+							<a data-type="twitter" onclick="Share.twitter( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-twitter"></span> Twitter
+							</a>
+						</li>
+						<li>
+							<a data-type="facebook" onclick="Share.facebook( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-facebook-f"></span> Facebook
+							</a>
+						</li>
+						<li>
+							<a data-type="reddit" onclick="Share.reddit( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-reddit-alien"></span></span> Reddit
+							</a>
+						</li>
+						<li>
+							<a data-type="qq" onclick="Share.qq( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-qq"></span> Tencent QQ
+							</a>
+						</li>
+						<li>
+							<a data-type="vk" onclick="Share.vk( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-vk"></span> VK
+							</a>
+						</li>
+						<li>
+							<a data-type="weibo" onclick="Share.weibo( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-weibo"></span> Weibo
+							</a>
+						</li>
+						<li class="hidden-lg">
+							<a data-type="whatsapp" onclick="Share.whatsapp( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-whatsapp"></span> WhatsApp
+							</a>
+						</li>
+					</ul>
+
+														</li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-wrench"></span> <span class="hidden-sm">Tools</span> <span class="caret"></span>
+										</a>
+															<ul class="dropdown-menu">
+						<li class="dropdown-header">General</li>
+						<li><a href="/dota2/Special:RecentChanges"><span class="far fa-fw fa-clock"></span> Recent changes</a></li>
+													<li><a href="/dota2/Special:PendingChanges"><span class="far fa-fw fa-circle-notch"></span> Pending changes</a></li>
+													
+						<li><a href="/dota2/Special:Random"><span class="fas fa-fw fa-random"></span> Random page</a></li>
+
+						<li class="divider"></li><li><a href="/dota2/Special:Stream"><span class="fas fa-fw fa-tv-retro"></span> Stream Page</a></li>
+						<li class="divider"></li>
+						<li class="dropdown-header">Specific</li>
+						<li id="t-whatlinkshere-mobile"><a href="/dota2/Special:WhatLinksHere/HuaLian" title="A list of all wiki pages that link here"><span class="fas fa-fw fa-link"></span> What links here</a></li><li id="t-recentchangeslinked-mobile"><a href="/dota2/Special:RecentChangesLinked/HuaLian" rel="nofollow" title="Recent changes in pages linked from this page"><span class="liquipedia-custom-icon liquipedia-custom-icon-related-changes"></span> Related changes</a></li><li id="t-upload-mobile"><a href="https://liquipedia.net/commons/Special:Upload" title="Upload files"><span class="fas fa-fw fa-upload"></span> Upload file</a></li><li id="t-specialpages-mobile"><a href="/dota2/Special:SpecialPages" title="A list of all special pages"><span class="fas fa-fw fa-magic"></span> Special pages</a></li><li id="t-print-mobile"><a href="/dota2/index.php?title=HuaLian&amp;printable=yes" rel="alternate" title="Printable version of this page"><span class="fas fa-fw fa-print"></span> Printable version</a></li><li id="t-permalink-mobile"><a href="/dota2/index.php?title=HuaLian&amp;oldid=1063337" title="Permanent link to this revision of the page"><span class="far fa-fw fa-dot-circle"></span> Permanent link</a></li><li id="t-info-mobile"><a href="/dota2/index.php?title=HuaLian&amp;action=info" title="More information about this page"><span class="fas fa-fw fa-info"></span> Page information</a></li><li id="t-smwbrowselink-mobile"><a href="/dota2/Special:Browse/:HuaLian" rel="search"><span class="fas fa-fw fa-thumbtack"></span> Browse SMW properties</a></li>					</ul>
+														</li>
+																		<li id="pt-createaccount-mobile" class="visible-xs"><a href="https://tl.net/mytlnet/register" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="fas fa-fw fa-user-plus"></span> Create Account</a></li><li id="pt-login-mobile" class="visible-xs"><a href="/dota2/index.php?title=Special:UserLogin&amp;returnto=HuaLian" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="fas fa-fw fa-sign-in-alt"></span> Log in</a></li>
+									<li class="visible-xs mobile-divider"></li>
+									<li class="dropdown visible-xs">
+										<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+											<span class="fas fa-fw fa-map-signs"></span> Other Wikis <span class="caret"></span>
+										</a>
+										<ul class="dropdown-menu">
+											<li><a href="https://liquipedia.net/starcraft/Main_Page">Brood War</a></li><li><a href="https://liquipedia.net/starcraft2/Main_Page">StarCraft II</a></li><li><a href="https://liquipedia.net/hearthstone/Main_Page">Hearthstone</a></li><li><a href="https://liquipedia.net/heroes/Main_Page">Heroes of the Storm</a></li><li><a href="https://liquipedia.net/smash/Main_Page">Smash</a></li><li><a href="https://liquipedia.net/counterstrike/Main_Page">Counter-Strike</a></li><li><a href="https://liquipedia.net/overwatch/Main_Page">Overwatch</a></li><li><a href="https://liquipedia.net/rocketleague/Main_Page">Rocket League</a></li><li><a href="https://liquipedia.net/rainbowsix/Main_Page">Rainbow Six</a></li><li><a href="https://liquipedia.net/warcraft/Main_Page">Warcraft</a></li><li><a href="https://liquipedia.net/artifact/Main_Page">Artifact</a></li><li><a href="https://liquipedia.net/leagueoflegends/Main_Page">League of Legends</a></li><li><a href="https://liquipedia.net/pubg/Main_Page">PUBG</a></li><li><a href="https://liquipedia.net/apexlegends/Main_Page">Apex Legends</a></li><li><a href="https://liquipedia.net/commons/Main_Page">Liquipedia Commons</a></li>										</ul>
+									</li>
+									<li class="dropdown visible-xs">
+										<a href="#top">
+											<span class="fas fa-fw fa-arrow-up"></span> Back to top										</a>
+									</li>
+
+								</ul><!-- /.navbar-nav -->
+
+								<ul class="nav navbar-nav navbar-right tablet-personal">
+									<li id="pt-createaccount" class="hidden-sm hidden-xs"><a href="https://tl.net/mytlnet/register" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="fas fa-fw fa-user-plus"></span> </a></li><li id="pt-login" class="icon-tablet hidden-xs"><a href="/dota2/index.php?title=Special:UserLogin&amp;returnto=HuaLian" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="fas fa-fw fa-sign-in-alt"></span> </a></li>								</ul><!-- /.navbar-nav .navbar-right -->
+								<ul class="nav navbar-nav navbar-right">
+														<li class="hidden-xs">
+						<form action="/dota2/index.php" id="searchform" class="navbar-form" role="search">
+							<div class="input-group">
+								<input id="searchInput" type="search" accesskey="f"
+								       title="Search liquipedia Dota 2 Wiki [alt-shift-f]" placeholder="Search"
+								       name="search" autocomplete="off">
+								<div class="input-group-btn">
+									<button class="btn btn-default searchButton" type="submit" id="searchButton">
+										<span class="fas fa-fw fa-search"></span>									</button>
+								</div>
+							</div>
+						</form>
+					</li>
+													</ul><!-- /.navbar-nav .navbar-right -->
+
+							</div>	<!-- /#scroll-wrapper-menu -->
+						</div><!-- /#slide-menu -->
+					</div><!-- /.col-lg-8 -->
+				</div><!-- /.row -->
+			</div><!-- /.container-fluid -->
+		</nav><!-- /.navbar -->
+
+		<nav id="mobile-search-bar" class="navbar visible-xs noprint hidden">
+			<form action="/dota2/index.php" id="mobile-search-form" class="navbar-form navbar-left" role="search">
+				<div class="input-group">
+					<input id="searchInput-mobile" type="search" accesskey="f" title="Search liquipedia Dota 2 Wiki [alt-shift-f]" placeholder="Search liquipedia" name="search" autocomplete="off" class="form-control">
+					<div class="input-group-btn">
+						<button class="btn navbar-search-btn searchButton" type="submit" id="searchButton-mobile">
+							<span class="fas fa-fw fa-search"></span><span class="fas fa-fw fa-arrow-right"></span>						</button>
+					</div>
+				</div>
+			</form>
+		</nav><!-- /#mobile-search-bar -->
+
+		<div id="wiki-nav" class="navbar navbar-inverse hidden-xs noprint">
+			<div class="container-fluid">
+				<div class="row">
+					<div id="wiki-nav-main-column" class="col-md-12">
+						<div class="wiki-tool-nav">
+							<ul class="nav navbar-nav navbar-nav-2">
+																									<li id="ca-nstab-main" class="selected" data-stuff="context-0">
+							<a href="/dota2/HuaLian"
+							    title="View the content page [c]" accesskey="c">
+								   <span class="far fa-fw fa-file-alt"></span> <span class="hidden-sm">Page</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-talk" class="new" data-stuff="context-0">
+							<a href="/dota2/index.php?title=Talk:HuaLian&amp;action=edit&amp;redlink=1"
+							    title="Discussion about the content page [t]" accesskey="t">
+								   <span class="far fa-fw fa-comments-alt"></span> <span class="hidden-sm">Talk</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+																						<li id="ca-viewsource">
+							<a href="/dota2/index.php?title=HuaLian&amp;action=edit"
+							    title="This page is protected.&#10;You can view its source [e]" accesskey="e">
+								   <span class="far fa-fw fa-pencil-alt"></span> <span class="hidden-sm">Edit</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+																	<li id="ca-history" class="collapsible">
+							<a href="/dota2/index.php?title=HuaLian&amp;action=history"
+							    title="Past revisions of this page [h]" accesskey="h">
+								   <span class="far fa-fw fa-history"></span> <span class="hidden-sm">History</span>
+							</a>
+						</li>
+						<li class="divider-vertical"></li>
+					
+					
+												</ul>
+
+							<ul class="nav navbar-nav navbar-right navbar-nav-2">
+								<li class="dropdown" id="dropdown-share">
+									<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+										<span class="fas fa-fw fa-share-alt"></span> <span class="hidden-sm">Share</span> <span class="caret"></span>
+									</a>
+									
+					<ul class="dropdown-menu liquiflow-menu-share">
+												<li>
+							<a data-type="twitter" onclick="Share.twitter( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-twitter"></span> Twitter
+							</a>
+						</li>
+						<li>
+							<a data-type="facebook" onclick="Share.facebook( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-facebook-f"></span> Facebook
+							</a>
+						</li>
+						<li>
+							<a data-type="reddit" onclick="Share.reddit( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-reddit-alien"></span></span> Reddit
+							</a>
+						</li>
+						<li>
+							<a data-type="qq" onclick="Share.qq( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-qq"></span> Tencent QQ
+							</a>
+						</li>
+						<li>
+							<a data-type="vk" onclick="Share.vk( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-vk"></span> VK
+							</a>
+						</li>
+						<li>
+							<a data-type="weibo" onclick="Share.weibo( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-weibo"></span> Weibo
+							</a>
+						</li>
+						<li class="hidden-lg">
+							<a data-type="whatsapp" onclick="Share.whatsapp( 'https://liquipedia.net/dota2/HuaLian', 'ʥ�ӻ���' )">
+								<span class="fab fa-fw fa-whatsapp"></span> WhatsApp
+							</a>
+						</li>
+					</ul>
+
+													</li>
+								<li class="dropdown">
+									<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">
+										<span class="fas fa-fw fa-wrench"></span> <span class="hidden-sm">Tools</span> <span class="caret"></span>
+									</a>
+														<ul class="dropdown-menu">
+						<li class="dropdown-header">General</li>
+						<li><a href="/dota2/Special:RecentChanges"  title="A list of recent changes in the wiki [r]" accesskey="r"><span class="far fa-fw fa-clock"></span> Recent changes</a></li>
+													<li><a href="/dota2/Special:PendingChanges"><span class="far fa-fw fa-circle-notch"></span> Pending changes</a></li>
+													
+						<li><a href="/dota2/Special:Random"  title="Load a random page [x]" accesskey="x"><span class="fas fa-fw fa-random"></span> Random page</a></li>
+
+						<li class="divider"></li><li><a href="/dota2/Special:Stream"><span class="fas fa-fw fa-tv-retro"></span> Stream Page</a></li>
+						<li class="divider"></li>
+						<li class="dropdown-header">Specific</li>
+						<li id="t-whatlinkshere"><a href="/dota2/Special:WhatLinksHere/HuaLian" title="A list of all wiki pages that link here [j]" accesskey="j"><span class="fas fa-fw fa-link"></span> What links here</a></li><li id="t-recentchangeslinked"><a href="/dota2/Special:RecentChangesLinked/HuaLian" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span class="liquipedia-custom-icon liquipedia-custom-icon-related-changes"></span> Related changes</a></li><li id="t-upload"><a href="https://liquipedia.net/commons/Special:Upload" title="Upload files [u]" accesskey="u"><span class="fas fa-fw fa-upload"></span> Upload file</a></li><li id="t-specialpages"><a href="/dota2/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span class="fas fa-fw fa-magic"></span> Special pages</a></li><li id="t-print"><a href="/dota2/index.php?title=HuaLian&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span class="fas fa-fw fa-print"></span> Printable version</a></li><li id="t-permalink"><a href="/dota2/index.php?title=HuaLian&amp;oldid=1063337" title="Permanent link to this revision of the page"><span class="far fa-fw fa-dot-circle"></span> Permanent link</a></li><li id="t-info"><a href="/dota2/index.php?title=HuaLian&amp;action=info" title="More information about this page"><span class="fas fa-fw fa-info"></span> Page information</a></li><li id="t-smwbrowselink"><a href="/dota2/Special:Browse/:HuaLian" rel="search"><span class="fas fa-fw fa-thumbtack"></span> Browse SMW properties</a></li>					</ul>
+													</li>
+																
+												</ul><!-- /.navbar-right -->
+						</div><!--  /.wiki-tool-nav -->
+					</div><!-- /.col-lg-8 -->
+				</div><!-- /.row -->
+			</div><!-- /.container-fluid -->
+		</div><!-- /.navbar-inverse -->
+
+		<div id="wrap">
+
+			<div id="sidebar-toc-column" class="hidden-xs hidden-sm hidden-md">
+				<div id="sidebar-toc" class="sidebar-toc bs-docs-sidebar hidden-print hidden-xs hidden-sm affix-top " style="" role="complementary">
+					<div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul class="nav">
+<li class="toclevel-1 tocsection-1"><a data-target="#Trivia" href="#Trivia"><span class="tocnumber">1</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a data-target="#Achievements" href="#Achievements"><span class="tocnumber">2</span> <span class="toctext">Achievements</span></a></li>
+<li class="toclevel-1 tocsection-3"><a data-target="#Gallery" href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a data-target="#References" href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+<div id="sidebar-ad" class="navigation-not-searchable"><div id="dota2_300x250_SATF"></div></div>				</div>
+			</div><!-- /#sidebar-toc-colum -->
+
+			<div class="container-fluid main-content">
+				<div class="row">
+
+					<div id="main-content-column" class="col-md-12">
+						<div id="main-content" class="mw-body">
+
+							<div class="networknotice networknotice-red ie-only-do-not-reuse-this-class">Liquipedia will soon drop support for Internet Explorer.</div><style>@supports(position:sticky){.ie-only-do-not-reuse-this-class{display:none;}}</style><div id="top-ad" class="navigation-not-searchable"><div id="dota2_970x90_ATF"></div></div>
+							<h1 id="firstHeading" class="firstHeading">
+								<span dir="auto">ʥ�ӻ���</span>
+							</h1>
+
+														<div id="bodyContent" class="mw-body-content">
+																	<div id="siteSub">
+																			</div>
+								
+								<div id="contentSub">
+																	</div>
+
+								
+								
+								<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="ambox-wrapper"><div class="ambox wiki-bordercolor-dark wiki-backgroundcolor-light ambox-blue"><table><tbody><tr><td class="ambox-image"><img alt="" src="/commons/images/f/fe/Stub.png" width="40" height="40" loading="lazy" /></td><td class="ambox-text">This article is a <a href="/dota2/Player" class="mw-redirect" title="Player">player</a> <a href="/dota2/Category:Stubs" title="Category:Stubs">stub</a>. You can help Liquipedia by <a class="internal text" href="https://liquipedia.net/dota2/index.php?title=HuaLian&amp;action=edit">expanding it</a>.</td></tr></tbody></table></div></div> 
+<div class="tabs-static"><ul class="nav nav-tabs navigation-not-searchable tabs tabs2"><li class="active"><a class="mw-selflink selflink">Overview</a></li><li><a href="/dota2/HuaLian/Results" title="HuaLian/Results">Results</a></li></ul></div>
+<div class="fo-nttax-infobox-wrapper infobox-dota2">
+<div class="fo-nttax-infobox wiki-bordercolor-light">
+<div>
+<div class="infobox-header wiki-backgroundcolor-light"><span class="infobox-buttons">[<a class="internal text" href="https://liquipedia.net/dota2/index.php?title=HuaLian&amp;action=edit&amp;section=0">e</a>][<a href="/dota2/Template:Infobox_player" title="Template:Infobox player">h</a>]</span><span data-highlightingclass="Royal Never Give Up" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up"><img alt="" src="/commons/images/c/c9/RNG_Logo_std.png" width="120" height="50" loading="lazy" /></a></span></span> ʥ�ӻ��� </div>
+</div>
+<div>
+<div class="infobox-image"><div class="center"><div class="floatnone"><a href="/dota2/File:HuaLian-SAG_2020.jpg" class="image"><img alt="" src="/commons/images/thumb/9/91/HuaLian-SAG_2020.jpg/600px-HuaLian-SAG_2020.jpg" width="600" height="600" srcset="/commons/images/9/91/HuaLian-SAG_2020.jpg 1.5x" loading="lazy" /></a></div></div></div>
+</div>
+<div>
+<div class="infobox-header wiki-backgroundcolor-light infobox-header-2">Player Information</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Name:</div>
+<div class="infobox-cell-2">����˧</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Romanized Name:</div>
+<div class="infobox-cell-2">Zhong Liushuai</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Birth:</div>
+<div class="infobox-cell-2">March 5, 1998<span style="display:none"> (<span class="bday">1998-03-05</span>)</span><span class="noprint"> (age&#160;<span class="currentage"></span>22)</span></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Country:</div>
+<div class="infobox-cell-2"><span class="flag"><a href="/dota2/Category:China" title="China"><img alt="China" src="/commons/images/0/01/Cn_hd.png" width="36" height="24" loading="lazy" /></a></span> <a href="/dota2/Category:China" title="Category:China">China</a></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Status:</div>
+<div class="infobox-cell-2">Active
+</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Team:</div>
+<div class="infobox-cell-2"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">Royal Never Give Up</a> </div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Alternate IDs:</div>
+<div class="infobox-cell-2">ʥ�ӻ���God-King-SzhL</div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Role(s):</div>
+<div class="infobox-cell-2"><a href="/dota2/Category:Carry_players" title="Category:Carry players">Carry</a></div>
+</div><div>
+<div class="infobox-cell-2 infobox-description">Signature Hero:</div>
+<div class="infobox-cell-2"><a href="/dota2/Morphling" title="Morphling"><img alt="Morphling" src="/commons/images/thumb/7/7f/Morphling.png/44px-Morphling.png" width="44" height="25" srcset="/commons/images/thumb/7/7f/Morphling.png/66px-Morphling.png 1.5x, /commons/images/7/7f/Morphling.png 2x" loading="lazy" /></a>&#160;<a href="/dota2/Leshrac" title="Leshrac"><img alt="Leshrac" src="/commons/images/thumb/e/e9/Leshrac.png/44px-Leshrac.png" width="44" height="25" srcset="/commons/images/thumb/e/e9/Leshrac.png/66px-Leshrac.png 1.5x, /commons/images/e/e9/Leshrac.png 2x" loading="lazy" /></a>&#160;<a href="/dota2/Phantom_Lancer" title="Phantom Lancer"><img alt="Phantom Lancer" src="/commons/images/thumb/5/51/Phantom_Lancer.png/44px-Phantom_Lancer.png" width="44" height="25" srcset="/commons/images/thumb/5/51/Phantom_Lancer.png/66px-Phantom_Lancer.png 1.5x, /commons/images/5/51/Phantom_Lancer.png 2x" loading="lazy" /></a></div>
+</div> <div>
+<div class="infobox-cell-2 infobox-description">Approx. Total Earnings:</div>
+<div class="infobox-cell-2">$32,184</div>
+</div><div>
+<div class="infobox-header wiki-backgroundcolor-light infobox-header-2">Links</div>
+</div>
+<div>
+<div class="infobox-center infobox-icons">  <a target="_blank" rel="noopener" class="external text" href="https://www.dotabuff.com/esports/players/136177710"><i class="lp-icon lp-dotabuff"></i></a> <a target="_blank" rel="noopener" class="external text" href="https://www.datdota.com/players/136177710"><i class="lp-icon lp-datdota"></i></a> <a target="_blank" rel="nofollow noopener" class="external text" href="https://stratz.com/player/136177710"><i class="lp-icon lp-stratz"></i></a>                    <a target="_blank" rel="nofollow noopener" class="external text" href="https://steamcommunity.com/profiles/76561198096443438"><i class="lp-icon lp-steam"></i></a>   </div>
+</div><div>
+<div class="infobox-header wiki-backgroundcolor-light infobox-header-2">History</div>
+</div>
+<div>
+<div class="infobox-center"><div style="font-size:100%; line-height:-10px;"><div class="th-mono" style="float:left;width:50%;text-align:left;"><i>2018-12-?? �� 2018-12-??</i></div><div style="float:right;width:50%;text-align:left;"><a href="/dota2/Newbee" title="Newbee">Newbee</a>&#160;<i>(Trial)</i></div></div><div style="clear:both;"></div>
+<div style="font-size:100%; line-height:-10px;"><div class="th-mono" style="float:left;width:50%;text-align:left;"><i>2019-01-?? �� 2019-03-22</i></div><div style="float:right;width:50%;text-align:left;"><a href="/dota2/Royal" title="Royal">Royal</a>&#160;<i>(Trial)</i></div></div><div style="clear:both;"></div>
+<div style="font-size:100%; line-height:-10px;"><div class="th-mono" style="float:left;width:50%;text-align:left;"><i>2019-03-22 �� 2019-09-18</i></div><div style="float:right;width:50%;text-align:left;"><a href="/dota2/Royal" title="Royal">Royal</a></div></div><div style="clear:both;"></div>
+<div style="font-size:100%; line-height:-10px;"><div class="th-mono" style="float:left;width:50%;text-align:left;"><i>2019-09-18 �� 2020-09-08</i></div><div style="float:right;width:50%;text-align:left;"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming">Sparking Arrow Gaming</a></div></div><div style="clear:both;"></div>
+<div style="font-size:100%; line-height:-10px;"><div class="th-mono" style="float:left;width:50%;text-align:left;"><i>2020-09-08 �� <b>Present</b></i></div><div style="float:right;width:50%;text-align:left;"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">Royal Never Give Up</a></div></div><div style="clear:both;"></div></div>
+</div></div>
+<div class="fo-nttax-infobox-adbox wiki-bordercolor-light"><div class="navigation-not-searchable"><div id="dota2_336x280_BTF"></div></div></div>
+</div><div class="fo-nttax-infobox-wrapper"><div class="fo-nttax-infobox wiki-bordercolor-light"><div><div class="infobox-header wiki-backgroundcolor-light">Upcoming Matches</div></div>
+<table class="wikitable wikitable-striped infobox_matches_content">
+<tbody><tr>
+<td class="team-left"><span data-highlightingclass="Royal Never Give Up" class="team-template-team2-short"><span class="team-template-text"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">RNG</a></span> <span class="team-template-image"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up"><img alt="" src="/commons/images/c/c9/RNG_Logo_std.png" width="120" height="50" loading="lazy" /></a></span></span>
+</td>
+<td class="versus" style="text-align:center;width:4%;padding:0px 5px;"><div style="line-height:1.1">vs</div><div style="font-size:75%; padding-bottom:2px">(<abbr title="Best-of-three">Bo3</abbr>)</div>
+</td>
+<td class="team-right"><span data-highlightingclass="Vici Gaming" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Vici_Gaming" title="Vici Gaming"><img alt="" src="/commons/images/a/ad/Vglogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Vici_Gaming" title="Vici Gaming">VG</a></span></span>
+</td></tr>
+<tr>
+<td class="match-filler" colspan="3"><span class="match-countdown"><span class="timer-object timer-object-countdown-only" data-timestamp="1600426800" data-separator="&amp;#8203;">September 18, 2020 - 11:00 <abbr data-tz="+0:00" title="Coordinated Universal Time (UTC+0)">UTC</abbr></span></span><div style="min-width:175px; max-width:185px; float:right; white-space:nowrap;"><span style="float:right"><span class="league-icon-small-image"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup Season 1"><img alt="China Dota2 Pro Cup Season 1" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span></span><div style="overflow:hidden; text-overflow:ellipsis; max-width: 170px; vertical-align:middle; white-space:nowrap; font-size:11px; height:16px; margin-top:3px;"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup/1">China Pro Cup S1</a>&#160;</div></div>
+</td></tr></tbody></table>
+<table class="wikitable wikitable-striped infobox_matches_content">
+<tbody><tr>
+<td class="team-left"><span data-highlightingclass="Royal Never Give Up" class="team-template-team2-short"><span class="team-template-text"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">RNG</a></span> <span class="team-template-image"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up"><img alt="" src="/commons/images/c/c9/RNG_Logo_std.png" width="120" height="50" loading="lazy" /></a></span></span>
+</td>
+<td class="versus" style="text-align:center;width:4%;padding:0px 5px;"><div style="line-height:1.1">vs</div><div style="font-size:75%; padding-bottom:2px">(<abbr title="Best-of-three">Bo3</abbr>)</div>
+</td>
+<td class="team-right"><span data-highlightingclass="Team MagMa" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Team_MagMa" title="Team MagMa"><img alt="" src="/commons/images/d/d0/Oldboyslogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Team_MagMa&amp;action=edit&amp;redlink=1" class="new" title="Team MagMa (page does not exist)">MagMa</a></span></span>
+</td></tr>
+<tr>
+<td class="match-filler" colspan="3"><span class="match-countdown"><span class="timer-object timer-object-countdown-only" data-timestamp="1600513200" data-separator="&amp;#8203;">September 19, 2020 - 11:00 <abbr data-tz="+0:00" title="Coordinated Universal Time (UTC+0)">UTC</abbr></span></span><div style="min-width:175px; max-width:185px; float:right; white-space:nowrap;"><span style="float:right"><span class="league-icon-small-image"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup Season 1"><img alt="China Dota2 Pro Cup Season 1" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span></span><div style="overflow:hidden; text-overflow:ellipsis; max-width: 170px; vertical-align:middle; white-space:nowrap; font-size:11px; height:16px; margin-top:3px;"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup/1">China Pro Cup S1</a>&#160;</div></div>
+</td></tr></tbody></table>
+<table class="wikitable wikitable-striped infobox_matches_content">
+<tbody><tr>
+<td class="team-left"><span data-highlightingclass="Royal Never Give Up" class="team-template-team2-short"><span class="team-template-text"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">RNG</a></span> <span class="team-template-image"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up"><img alt="" src="/commons/images/c/c9/RNG_Logo_std.png" width="120" height="50" loading="lazy" /></a></span></span>
+</td>
+<td class="versus" style="text-align:center;width:4%;padding:0px 5px;"><div style="line-height:1.1">vs</div><div style="font-size:75%; padding-bottom:2px">(<abbr title="Best-of-three">Bo3</abbr>)</div>
+</td>
+<td class="team-right"><span data-highlightingclass="Phoenix Gaming" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Phoenix_Gaming" title="Phoenix Gaming"><img alt="" src="/commons/images/2/2f/Dotalogo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/index.php?title=Phoenix_Gaming&amp;action=edit&amp;redlink=1" class="new" title="Phoenix Gaming (page does not exist)">Phoenix</a></span></span>
+</td></tr>
+<tr>
+<td class="match-filler" colspan="3"><span class="match-countdown"><span class="timer-object timer-object-countdown-only" data-timestamp="1600761600" data-separator="&amp;#8203;">September 22, 2020 - 8:00 <abbr data-tz="+0:00" title="Coordinated Universal Time (UTC+0)">UTC</abbr></span></span><div style="min-width:175px; max-width:185px; float:right; white-space:nowrap;"><span style="float:right"><span class="league-icon-small-image"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup Season 1"><img alt="China Dota2 Pro Cup Season 1" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span></span><div style="overflow:hidden; text-overflow:ellipsis; max-width: 170px; vertical-align:middle; white-space:nowrap; font-size:11px; height:16px; margin-top:3px;"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup/1">China Pro Cup S1</a>&#160;</div></div>
+</td></tr></tbody></table>
+<table class="wikitable wikitable-striped infobox_matches_content">
+<tbody><tr>
+<td class="team-left"><span data-highlightingclass="EHOME" class="team-template-team2-short"><span class="team-template-text"><a href="/dota2/EHOME" title="EHOME">EHOME</a></span> <span class="team-template-image"><a href="/dota2/EHOME" title="EHOME"><img alt="" src="/commons/images/3/3b/Ehomelogo_std.png" width="120" height="50" loading="lazy" /></a></span></span>
+</td>
+<td class="versus" style="text-align:center;width:4%;padding:0px 5px;"><div style="line-height:1.1">vs</div><div style="font-size:75%; padding-bottom:2px">(<abbr title="Best-of-three">Bo3</abbr>)</div>
+</td>
+<td class="team-right"><span data-highlightingclass="Royal Never Give Up" class="team-template-team-short"><span class="team-template-image"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up"><img alt="" src="/commons/images/c/c9/RNG_Logo_std.png" width="120" height="50" loading="lazy" /></a></span> <span class="team-template-text"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">RNG</a></span></span>
+</td></tr>
+<tr>
+<td class="match-filler" colspan="3"><span class="match-countdown"><span class="timer-object timer-object-countdown-only" data-timestamp="1600858800" data-separator="&amp;#8203;">September 23, 2020 - 11:00 <abbr data-tz="+0:00" title="Coordinated Universal Time (UTC+0)">UTC</abbr></span></span><div style="min-width:175px; max-width:185px; float:right; white-space:nowrap;"><span style="float:right"><span class="league-icon-small-image"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup Season 1"><img alt="China Dota2 Pro Cup Season 1" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span></span><div style="overflow:hidden; text-overflow:ellipsis; max-width: 170px; vertical-align:middle; white-space:nowrap; font-size:11px; height:16px; margin-top:3px;"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup/1">China Pro Cup S1</a>&#160;</div></div>
+</td></tr></tbody></table></div></div>
+<div class="fo-nttax-infobox-wrapper"><div class="fo-nttax-infobox wiki-bordercolor-light"><div><div class="infobox-header wiki-backgroundcolor-light">Upcoming Tournaments</div></div>
+<table class="wikitable wikitable-striped infobox_matches_content">
+<tbody><tr>
+<td class="versus" style="text-align:center;"><span class="league-icon-small-image"><a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup Season 1"><img alt="China Dota2 Pro Cup Season 1" src="/commons/images/1/1b/China_Dota2_Pro_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span> <a href="/dota2/China_Dota2_Pro_Cup/1" title="China Dota2 Pro Cup/1">China Dota2 Pro Cup Season 1</a>
+</td></tr>
+<tr>
+<td class="match-filler"><span class="match-countdown"><span class="timer-object-countdown-live"><span style="font-size: smaller;">ONGOING!</span></span></span><div style="float:right; overflow:hidden; text-overflow:ellipsis; max-width: 170px; vertical-align:middle; white-space:nowrap; font-size:11px; height:16px; margin-top:3px;">Sep 17 - Oct 3</div>
+</td></tr></tbody></table></div></div>
+<p>Zhong <b>"ʥ�ӻ���"</b> Liushuai is a Chinese professional Dota 2 player who is currently playing for <a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">Royal Never Give Up</a>.
+</p>
+<div id="toc" class="toc hidden-lg hidden-xl"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Trivia"><span class="tocnumber">1</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Achievements"><span class="tocnumber">2</span> <span class="toctext">Achievements</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=HuaLian&amp;action=edit&amp;section=1" title="Edit section: Trivia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>��ʥ�ӻ����� (The God Son HuaLian) is a character from the cartoon ����������̷�� ( <span class="flag"><a href="/dota2/Category:China" title="China"><img alt="China" src="/commons/images/0/01/Cn_hd.png" width="36" height="24" loading="lazy" /></a></span> <a target="_blank" rel="nofollow noopener" class="external text" href="https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%A5%91%E5%B9%BB%E5%A5%87%E8%B0%AD">wikipedia</a>) by <i>L.DART</i></li></ul>
+<h2><span class="mw-headline" id="Achievements">Achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=HuaLian&amp;action=edit&amp;section=2" title="Edit section: Achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="content-ad navigation-not-searchable"><div id="dota2_728x90_BTF"></div></div>
+<div class="table-responsive"><table class="wikitable wikitable-striped sortable" style="text-align:center"><tbody><tr><th style="width:100px">Date</th><th style="width:90px">Place</th><th style="width:75px">Tier</th><th colspan="2">Tournament</th><th style="width:70px">Team</th><th colspan="2" style="width:105px">Result</th><th data-sort-type="currency">Prize</th></tr><tr class=""><td>2020-09-03</td><td bgcolor="#007F99" align="center"><span style="display:none">EA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">5&#160;-&#160;6th</font></td><td><span style="display:none;">A1</span><a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a></td><td style="padding-right:0"><span style="display:none;">ESL One Thailand 2020: Asia</span><span class="league-icon-small-image"><a href="/dota2/ESL_One" title="ESL One"><img alt="" src="/commons/images/8/8a/ESL_One_2019_new_icon.png" width="50" height="50" loading="lazy" /></a></span></td><td style="text-align:left"><a href="/dota2/ESL_One/Thailand/2020/Asia" title="ESL One/Thailand/2020/Asia">ESL One Thailand 2020: Asia</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">0&#160;&#58;&#160;2</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="Fnatic" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Fnatic" title="Fnatic"><img alt="" src="/commons/images/9/93/Fnatic_2020_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$7,500</td></tr><tr class=""><td>2020-06-28</td><td bgcolor="#FFD739" align="center"><span style="display:none">AA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">1st</font></td><td><span style="display:none;">A1</span><a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a></td><td style="padding-right:0"><span style="display:none;">BEYOND EPIC: China</span><span class="league-icon-small-image"><a href="/dota2/BEYOND_EPIC" title="BEYOND EPIC"><img alt="" src="/commons/images/5/53/BEYOND_EPIC_icon.png" width="50" height="50" loading="lazy" /></a></span></td><td style="text-align:left"><a href="/dota2/BEYOND_EPIC/1/China" title="BEYOND EPIC/1/China">BEYOND EPIC: China</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">3&#160;&#58;&#160;0</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="Vici Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Vici_Gaming" title="Vici Gaming"><img alt="" src="/commons/images/a/ad/Vglogo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$20,000</td></tr><tr class=""><td>2020-04-19</td><td bgcolor="#FFD739" align="center"><span style="display:none">AA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">1st</font></td><td><span style="display:none;">A1</span><a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a></td><td style="padding-right:0"><span style="display:none;">CDA League Season 1</span><span class="league-icon-small-image"><a href="/dota2/CDA_League" title="CDA League"><img alt="" src="/commons/images/1/12/CDA_League_icon.png" width="50" height="50" loading="lazy" /></a></span></td><td style="text-align:left"><a href="/dota2/Chinese_Dota2_Professional_Association/1" title="Chinese Dota2 Professional Association/1">CDA League Season 1</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">7/-/2</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><abbr title="Group Stage">Grp S.</abbr></td><td style="text-align:left">$31,313</td></tr><tr class=""><td>2019-12-15</td><td bgcolor="#F8996B" align="center"><span style="display:none">DA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">4th</font></td><td><span style="display:none;">A1</span><a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a></td><td style="padding-right:0"><span style="display:none;">Yabo Supreme Cup</span><span class="league-icon-small-image"><img alt="" src="/commons/images/5/5e/Yabo_Supreme_Cup_icon.png" width="50" height="50" loading="lazy" /></span></td><td style="text-align:left"><a href="/dota2/Yabo_Supreme_Cup" title="Yabo Supreme Cup">Yabo Supreme Cup</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">0&#160;&#58;&#160;1</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="Team Adroit" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Team_Adroit" title="Team Adroit"><img alt="" src="/commons/images/4/46/Team_Adroit_logo_2019_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$7,172</td></tr><tr class=""><td>2019-11-16</td><td bgcolor="#BEBEBE" align="center"><span style="display:none">BA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">2nd</font></td><td><span style="display:none;">A2</span><a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a></td><td style="padding-right:0"><span style="display:none;">Asian Masters League S4</span></td><td style="text-align:left"><a href="/dota2/Asian_Masters_League/4" title="Asian Masters League/4">Asian Masters League S4</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">1&#160;&#58;&#160;3</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="Newbee" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Newbee" title="Newbee"><img alt="" src="/commons/images/b/b9/Newbeelogo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$11,413</td></tr><tr class=""><td>2019-11-03</td><td bgcolor="#BB8644" align="center"><span style="display:none">CA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">3rd</font></td><td><span style="display:none;">A1</span><a href="/dota2/Tier_2_Tournaments" class="mw-redirect" title="Tier 2 Tournaments">Tier 2</a></td><td style="padding-right:0"><span style="display:none;">Hainan Master Cup</span><span class="league-icon-small-image"><img alt="" src="/commons/images/d/d3/Hainan_Master_Invitational_icon.png" width="50" height="50" loading="lazy" /></span></td><td style="text-align:left"><a href="/dota2/Hainan_Master_Cup" title="Hainan Master Cup">Hainan Master Cup</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">1&#160;&#58;&#160;0</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="CDEC Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/CDEC_Gaming" title="CDEC Gaming"><img alt="" src="/commons/images/6/6e/Cdeclogo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$11,361</td></tr><tr class=""><td>2019-10-18</td><td bgcolor="#BEBEBE" align="center"><span style="display:none">BA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">2nd</font></td><td><span style="display:none;">A2</span><a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a></td><td style="padding-right:0"><span style="display:none;">Battle of Dawn</span><span class="league-icon-small-image"><a href="/dota2/VKGAME" title="VKGAME"><img alt="" src="/commons/images/e/e6/Battle_of_Dawn_icon.png" width="50" height="50" loading="lazy" /></a></span></td><td style="text-align:left"><a href="/dota2/Qi_Entertainment/Battle_of_Dawn" title="Qi Entertainment/Battle of Dawn">Battle of Dawn</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">0&#160;&#58;&#160;3</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="Team Adroit" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Team_Adroit" title="Team Adroit"><img alt="" src="/commons/images/4/46/Team_Adroit_logo_2019_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$19,073</td></tr><tr class=""><td>2019-09-30</td><td bgcolor="#BEBEBE" align="center"><span style="display:none">BA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">2nd</font></td><td><span style="display:none;">A2</span><a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a></td><td style="padding-right:0"><span style="display:none;">Asia Communication League Season 2</span><span class="league-icon-small-image"><a href="/dota2/Asia_Communication_League" title="Asia Communication League"><img alt="" src="/commons/images/d/d1/Asia_Communication_League_icon.png" width="50" height="50" loading="lazy" /></a></span></td><td style="text-align:left"><a href="/dota2/Asia_Communication_League/2" title="Asia Communication League/2">Asia Communication League Season 2</a></td><td><span style="display:none;">Sparking Arrow Gaming</span><span data-highlightingclass="Sparking Arrow Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Sparking_Arrow_Gaming" title="Sparking Arrow Gaming"><img alt="" src="/commons/images/f/fe/Sparking_Arrow_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">0&#160;&#58;&#160;3</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="CDEC Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/CDEC_Gaming" title="CDEC Gaming"><img alt="" src="/commons/images/6/6e/Cdeclogo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$11,199</td></tr><tr class=""><td>2019-07-02</td><td bgcolor="#BEBEBE" align="center"><span style="display:none">BA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">2nd</font></td><td><span style="display:none;">A2</span><a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a></td><td style="padding-right:0"><span style="display:none;">Asian Masters League S3</span></td><td style="text-align:left"><a href="/dota2/Asian_Masters_League/3" title="Asian Masters League/3">Asian Masters League S3</a></td><td><span style="display:none;">Royal</span><span data-highlightingclass="Royal" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Royal" title="Royal"><img alt="" src="/commons/images/3/3c/Royal_Club_new_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">0&#160;&#58;&#160;3</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="Keen Gaming" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Keen_Gaming" title="Keen Gaming"><img alt="" src="/commons/images/0/0d/Keen_Gaming_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$7,272</td></tr><tr class=""><td>2019-06-09</td><td bgcolor="#FFD739" align="center"><span style="display:none">AA</span><font class="placement-text" color="white" style="text-shadow:1px 1px rgba(64, 64, 64, 0.4), 1px -1px rgba(64, 64, 64, 0.4), -1px -1px rgba(64, 64, 64, 0.4), -1px 1px rgba(64, 64, 64, 0.4);font-weight:bold">1st</font></td><td><span style="display:none;">A2</span><a href="/dota2/Tier_3_Tournaments" class="mw-redirect" title="Tier 3 Tournaments">Tier 3</a></td><td style="padding-right:0"><span style="display:none;">RedRain Cup Season 2</span><span class="league-icon-small-image"><a href="/dota2/Asian_Dota2_Mystery_Series" title="Asian Dota2 Mystery Series"><img alt="" src="/commons/images/c/cb/Dota2_RedRain_Cup_icon.png" width="50" height="50" loading="lazy" /></a></span></td><td style="text-align:left"><a href="/dota2/RedRain_Cup/2" title="RedRain Cup/2">RedRain Cup Season 2</a></td><td><span style="display:none;">Royal</span><span data-highlightingclass="Royal" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Royal" title="Royal"><img alt="" src="/commons/images/3/3c/Royal_Club_new_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td class="results-score" style="width:35px;padding-left:0;padding-right:0">2&#160;&#58;&#160;1</td><td class="results-team-icon" style="width:70px;text-align:center;white-space:nowrap"><span data-highlightingclass="Typhoon E-Sports Club" class="team-template-team-icon"><span class="team-template-image"><a href="/dota2/Typhoon_E-Sports_Club" title="Typhoon E-Sports Club"><img alt="" src="/commons/images/1/1c/Typhoon_E-Sports_Club_logo_std.png" width="120" height="50" loading="lazy" /></a></span></span></td><td style="text-align:left">$4,342</td></tr><tr><th colspan="9" style="font-style:italic;font-size:small"><a href="/dota2/HuaLian/Results#Detailed_Results" title="HuaLian/Results">Complete list of results in any tournament</a></th></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=HuaLian&amp;action=edit&amp;section=3" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-packed-hover">
+		<li class="gallerybox" style="width: 376.66666666667px"><div style="width: 376.66666666667px">
+			<div class="thumb" style="width: 374.66666666667px;"><div style="margin:0px auto;"><a href="/dota2/File:Newbee%E5%9C%A3%E5%AD%90%E5%8D%8E%E7%82%BC.jpg" class="image"><img alt="" src="/commons/images/thumb/3/39/Newbee%E5%9C%A3%E5%AD%90%E5%8D%8E%E7%82%BC.jpg/562px-Newbee%E5%9C%A3%E5%AD%90%E5%8D%8E%E7%82%BC.jpg" width="375" height="250" srcset="/commons/images/thumb/3/39/Newbee%E5%9C%A3%E5%AD%90%E5%8D%8E%E7%82%BC.jpg/844px-Newbee%E5%9C%A3%E5%AD%90%E5%8D%8E%E7%82%BC.jpg 1.5x, /commons/images/thumb/3/39/Newbee%E5%9C%A3%E5%AD%90%E5%8D%8E%E7%82%BC.jpg/1124px-Newbee%E5%9C%A3%E5%AD%90%E5%8D%8E%E7%82%BC.jpg 2x" loading="lazy" /></a></div></div>
+			<div class="gallerytextwrapper" style="width: 355px"><div class="gallerytext">
+<p>ʥ�ӻ��� (Newbee)
+</p>
+			</div></div>
+		</div></li>
+</ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/dota2/index.php?title=HuaLian&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<table class="navbox" cellspacing="0" style=";"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible expanded" style="width:100%;background:transparent;color:inherit;;"><tbody><tr><th class="navbox-title wiki-backgroundcolor-light" style=";" colspan="3"><span class="" style="font-size:110%;"><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">Royal Never Give Up</a> Roster</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group wiki-backgroundcolor-light" style=";;">Team</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div class="hlist" style="margin-left:0em;">
+<ul><li><a href="/dota2/Royal_Never_Give_Up" title="Royal Never Give Up">Overview</a></li>
+<li><a href="/dota2/Royal_Never_Give_Up/Results" title="Royal Never Give Up/Results">Results</a></li>
+<li><a href="/dota2/Royal_Never_Give_Up/Played_Matches" title="Royal Never Give Up/Played Matches">Matches</a></li></ul>
+</div></div></td><td style="width:0%;padding:0px 0px 0px 2px;" rowspan="5"><a href="/dota2/File:RNG_Logo.png" class="image"><img alt="" src="/commons/images/thumb/d/d3/RNG_Logo.png/50px-RNG_Logo.png" width="50" height="34" srcset="/commons/images/thumb/d/d3/RNG_Logo.png/75px-RNG_Logo.png 1.5x, /commons/images/thumb/d/d3/RNG_Logo.png/100px-RNG_Logo.png 2x" loading="lazy" /></a></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group wiki-backgroundcolor-light" style=";;"><a href="/dota2/Royal_Never_Give_Up#Player_Roster" title="Royal Never Give Up">Roster</a></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em"><div class="hlist" style="margin-left:0em;">
+<ul><li><a class="mw-selflink selflink">ʥ�ӻ���</a></li>
+<li><a href="/dota2/Shade" title="Shade">Setsu</a></li>
+<li><a href="/dota2/Srf" title="Srf">Srf</a></li>
+<li><a href="/dota2/FelixCiaoBa" title="FelixCiaoBa">FelixCiaoBa</a></li>
+<li><a href="/dota2/Super" title="Super">Super</a></li></ul>
+</div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group wiki-backgroundcolor-light" style=";;"><a href="/dota2/Royal_Never_Give_Up#Organization" title="Royal Never Give Up">Staff</a></td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em"><div class="hlist" style="margin-left:0em;">
+<ul><li><a href="/dota2/Banana" title="Banana">Banana</a>&#160;(Coach)</li>
+<li><a href="/dota2/index.php?title=Stms&amp;action=edit&amp;redlink=1" class="new" title="Stms (page does not exist)">stms</a>&#160;(Manager)</li></ul>
+</div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+<div class="content-ad navigation-not-searchable"><div id="dota2_970x250_BTF"></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20200917005452
+Cache expiry: 3600
+Dynamic content: true
+[SMW] In�\text annotation parser time: 0 seconds
+CPU time usage: 0.980 seconds
+Real time usage: 2.025 seconds
+Preprocessor visited node count: 4947/1500000
+Preprocessor generated node count: 21811/1250000
+Post�\expand include size: 128768/3170304 bytes
+Template argument size: 22220/3170304 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post�\expand size: 1010/5000000 bytes
+Lua time usage: 0.039/2.000 seconds
+Lua memory usage: 1.45 MB/50 MB
+Memory usage: 16 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1837.719      1 -total
+ 48.07%  883.425      1 Template:Infobox_player
+ 47.08%  865.203      1 Template:Player_achievements_table
+  6.18%  113.492     11 Template:Total_earnings_of
+  4.11%   75.531      1 Template:Upcoming_and_ongoing_tournaments_of_player
+  3.94%   72.469      1 Template:Upcoming_and_ongoing_matches_of_player
+  3.42%   62.839      1 Template:Player_team_roster
+  3.22%   59.105      1 Template:Team_roster
+  2.85%   52.436      1 Template:Navbox
+  2.84%   52.168      4 Template:Upcoming_and_ongoing_matches_of/row
+-->
+</div>
+<!-- Saved in parser cache with key liquipedia-wikidota_:stable-pcache:idhash:105577-0!canonical and timestamp 20200917005452 and revision id 1063337
+ -->
+</div>
+																	<div class="printfooter">
+										Retrieved from "<a dir="ltr" href="https://liquipedia.net/dota2/index.php?title=HuaLian&amp;oldid=1063337">https://liquipedia.net/dota2/index.php?title=HuaLian&amp;oldid=1063337</a>"									</div>
+																<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/dota2/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/dota2/Category:Players" title="Category:Players">Players</a></li><li><a href="/dota2/Category:Carry_players" title="Category:Carry players">Carry players</a></li><li><a href="/dota2/Category:Chinese_Players" title="Category:Chinese Players">Chinese Players</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/dota2/Category:Player_stubs" title="Category:Player stubs">Player stubs</a></li><li><a href="/dota2/Category:Players_with_no_social_media_links" title="Category:Players with no social media links">Players with no social media links</a></li><li><a href="/dota2/Category:Pages_with_hard_coded_colors" title="Category:Pages with hard coded colors">Pages with hard coded colors</a></li></ul></div></div>								<div class="visualClear"></div>
+															</div>
+						</div>
+					</div><!-- /#main-content-column -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+		</div><!-- /#wrap -->
+
+				<div id="footer" class="footer">
+			<div class="container-fluid">
+				<div class="col-md-12">
+					<div class="row">
+						<div class="footer-links">
+							<div class="col-md-2 hidden-sm hidden-xs">
+								<div class="col">
+									<a id="footer-logo-big" href="https://liquipedia.net"></a>
+								</div>
+							</div>
+
+							<div class="col-md-2 col-sm-3 col-xs-6">
+								<div class="col">
+									<h4>Our Wikis</h4>
+									<ul>
+										<li><a href="/apexlegends/" target="_blank">Apex Legends</a></li>
+										<li><a href="/artifact/" target="_blank">Artifact</a></li>
+										<li><a href="/starcraft/" target="_blank">Brood War</a></li>
+										<li><a href="/counterstrike/" target="_blank">Counter-Strike</a></li>
+										<li><a href="/dota2/" target="_blank">Dota 2</a></li>
+										<li><a href="/hearthstone/" target="_blank">Hearthstone</a></li>
+										<li><a href="/heroes/" target="_blank">Heroes of the Storm</a></li>
+										<li><a href="/leagueoflegends/" target="_blank">League of Legends</a></li>
+										<li><a href="/overwatch/" target="_blank">Overwatch</a></li>
+										<li><a href="/pubg/" target="_blank">PUBG</a></li>
+										<li><a href="/rainbowsix/" target="_blank">Rainbow Six</a></li>
+										<li><a href="/rocketleague/" target="_blank">Rocket League</a></li>
+										<li><a href="/smash/" target="_blank">Smash</a></li>
+										<li><a href="/starcraft2/" target="_blank">StarCraft II</a></li>
+										<li><a href="/warcraft/" target="_blank">Warcraft III</a></li>
+										<li><a href="/commons/" target="_blank">Commons</a></li>
+									</ul>
+								</div>
+							</div>
+
+							<div class="col-md-2 col-sm-3 col-xs-6">
+								<h4>Alpha</h4>
+								<ul>
+									<li><a href="/fortnite/" target="_blank">Fortnite</a></li>
+									<li><a href="/arenafps/" target="_blank">Arena FPS</a></li>
+									<li><a href="/teamfortress/" target="_blank">Team Fortress</a></li>
+									<li><a href="/worldofwarcraft/" target="_blank">World of Warcraft</a></li>
+									<li><a href="/fighters/" target="_blank">Fighting Games</a></li>
+									<li><a href="/fifa/" target="_blank">FIFA</a></li>
+									<li><a href="/clashroyale/" target="_blank">Clash Royale</a></li>
+									<li><a href="/arenaofvalor/" target="_blank">Arena of Valor</a></li>
+									<li><a href="/paladins/" target="_blank">Paladins</a></li>
+								</ul>
+							</div>
+							<div class="col-md-2 col-sm-3 col-xs-6">
+								<h4>About</h4>
+								<ul>
+																			<li id="footer-places-privacy">
+											<a href="/dota2/Liquipedia:Privacy_policy" class="mw-redirect" title="Liquipedia:Privacy policy">Privacy policy</a>										</li>
+																			<li id="footer-places-about">
+											<a href="/dota2/Liquipedia:About" class="mw-redirect" title="Liquipedia:About">About Liquipedia Dota 2 Wiki</a>										</li>
+																			<li id="footer-places-disclaimer">
+											<a href="/dota2/Liquipedia:General_disclaimer" title="Liquipedia:General disclaimer">Disclaimers</a>										</li>
+																		<li><a href="#" id="ncmp-consent-link"></a></li>
+								</ul>
+								<h4>Contact Us</h4>
+								<ul>
+									<li><a href="mailto:contact@liquipedia.net">Send an email</a></li>
+									<li><a href="https://tl.net/forum/website-feedback/94785-liquipedia-feedback-thread" target="_blank">Post feedback</a></li>
+									<li><a href="https://liquipedia.net/discord" target="_blank">Chat with us</a></li>
+								</ul>
+							</div>
+
+							<div class="col-md-2 hidden-sm hidden-xs">
+								<h4>Affiliated Sites</h4>
+								<ul>
+									<li><a href="https://liquipedia.net">Liquipedia Portal</a></li>
+									<li><a href="https://tl.net" target="_blank">TL.net</a></li>
+									<li><a href="https://www.liquiddota.com" target="_blank">LiquidDota.com</a></li>
+									<li><a href="https://www.liquidlegends.net" target="_blank">LiquidLegends.net</a></li>
+									<li><a href="https://masterleague.net/" target="_blank">MasterLeague.net</a></li>
+									<li><a href="https://qihl.gg/" target="_blank">qihl.gg</a></li>
+								</ul>
+							</div>
+
+							<div class="col-md-2 col-sm-3 col-xs-12">
+								<h4 class="hidden-xs">Follow Us</h4>
+								<ul id="footer-social-media">
+									<li>
+										<a target="_blank" href="https://twitter.com/LiquipediaNet" class="social-icon twitter-icon">
+											<span class="social-link">Twitter</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://www.facebook.com/Liquipedia" class="social-icon facebook-icon">
+											<span class="social-link">Facebook</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://www.youtube.com/user/Liquipedia" class="social-icon youtube-icon">
+											<span class="social-link">YouTube</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://www.twitch.tv/liquipedia" class="social-icon twitch-icon">
+											<span class="social-link">Twitch</span>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" href="https://github.com/Liquipedia" class="social-icon github-icon">
+											<span class="social-link">GitHub</span>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div><!-- ./footer-links -->
+					</div><!-- ./row -->
+				</div><!-- ./col-lg-8 -->
+
+				<div style="text-align:center;padding-bottom:1em;" class="col-md-12 col-xs-12">
+					<ul id="f-list">
+														<li id="footer-info-lastmod">
+									 This page was last edited on 8 September 2020, at 10:46.								</li>
+																<li id="footer-info-copyright">
+									Text/code is available under <a href="/dota2/Liquipedia:Copyrights" title="Liquipedia:Copyrights">CC-BY-SA</a>. Licenses for other media varies.								</li>
+													</ul><!-- #/f-list -->
+				</div><!-- ./col-lg-8 -->
+			</div><!-- /.container-fluid -->
+		</div><!-- /.footer -->
+
+		<script>/*<![CDATA[*/(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load('/commons/load.php?debug=false&articles=UseStrict.js%7CPolyfill.js%7CCore.js%7CBracket.js%7CCollapse.js%7CCopyToClipboard.js%7CCountdown.js%7CCrosstable.js%7CFilterButtons.js%7CLiquipedia_links.js%7CMainpage.js%7CMiscellaneous.js%7CPrizepooltable.js%7CSelectall.js%7CSiteNotice.js%7CTabs.js%7CCoreEnd.js&only=scripts&mode=articles&cacheversion=31&*');});/*]]>*/</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.980","walltime":"2.025","ppvisitednodes":{"value":4947,"limit":1500000},"ppgeneratednodes":{"value":21811,"limit":1250000},"postexpandincludesize":{"value":128768,"limit":3170304},"templateargumentsize":{"value":22220,"limit":3170304},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1010,"limit":5000000},"timingprofile":["100.00% 1837.719      1 -total"," 48.07%  883.425      1 Template:Infobox_player"," 47.08%  865.203      1 Template:Player_achievements_table","  6.18%  113.492     11 Template:Total_earnings_of","  4.11%   75.531      1 Template:Upcoming_and_ongoing_tournaments_of_player","  3.94%   72.469      1 Template:Upcoming_and_ongoing_matches_of_player","  3.42%   62.839      1 Template:Player_team_roster","  3.22%   59.105      1 Template:Team_roster","  2.85%   52.436      1 Template:Navbox","  2.84%   52.168      4 Template:Upcoming_and_ongoing_matches_of/row"]},"scribunto":{"limitreport-timeusage":{"value":"0.039","limit":"2.000"},"limitreport-memusage":{"value":1525472,"limit":52428800}},"liquipedia":{"memory-usage":"16 MB"},"cachereport":{"timestamp":"20200917005452","ttl":3600,"transientcontent":true}}});});</script><script type="text/javascript">
+if(document.getElementById("dota2_336x280_BTF") !== null) {
+window["nitroAds"].createAd("dota2_336x280_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  },
+  "mediaQuery": "(min-width: 320px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_300x250_SATF") !== null) {
+window["nitroAds"].createAd("dota2_300x250_SATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  },
+  "mediaQuery": "(min-width: 1305px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_300x1050_SATF") !== null) {
+window["nitroAds"].createAd("dota2_300x1050_SATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["300","250"],
+    ["160","600"],
+    ["300","600"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  },
+  "mediaQuery": "(min-width: 1305px)"
+});}
+</script><script type="text/javascript">
+window["nitroAds"].createAd("dota2_970x90_ATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["320","50"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 320px) and (max-width: 747px)"
+});
+</script>
+
+<script type="text/javascript">
+window["nitroAds"].createAd("dota2_970x90_ATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["728", "90"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 748px) and (max-width: 989px)"
+});
+</script>
+
+<script type="text/javascript">
+window["nitroAds"].createAd("dota2_970x90_ATF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["970","90"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 990px)"
+});
+</script><script type="text/javascript">
+if(document.getElementById("dota2_728x90_BTF") !== null) {
+window["nitroAds"].createAd("dota2_728x90_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["320","50"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 320px) and (max-width: 747px)"
+});
+}
+</script>
+
+<script type="text/javascript">
+if(document.getElementById("dota2_728x90_BTF") !== null) {
+window["nitroAds"].createAd("dota2_728x90_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["728", "90"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 748px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_970x250_BTF") !== null) {
+window["nitroAds"].createAd("dota2_970x250_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["320","50"],
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 320px) and (max-width: 747px)"
+});
+}
+</script>
+
+<script type="text/javascript">
+if(document.getElementById("dota2_970x250_BTF") !== null) {
+window["nitroAds"].createAd("dota2_970x250_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["728", "90"],
+    ["300","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 748px) and (max-width: 989px)"
+});
+}
+</script><script type="text/javascript">
+if(document.getElementById("dota2_970x250_BTF") !== null) {
+window["nitroAds"].createAd("dota2_970x250_BTF", {
+  "refreshLimit": 10,
+  "refreshTime": 60,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    ["728", "90"],
+    ["300","250"],
+    ["970","90"],
+    ["970","250"]
+  ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-center"
+  },
+  "mediaQuery": "(min-width: 990px)"
+});
+}
+</script>
+<!-- GA -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-576564-4"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() { dataLayer.push( arguments ); }
+	gtag( 'js', new Date() );
+	gtag( 'config', 'UA-576564-4', { 'anonymize_ip': true } );
+	gtag( 'config', 'UA-576564-21', { 'anonymize_ip': true } );
+</script>
+<!-- TL -->
+<script>
+	( function() {
+		if ( typeof window.fetch === 'function' ) {
+			var w = window.location.href;
+			if ( w.indexOf( '.php' ) == -1 ) {
+				var data = 'action=wikiPageView&url=' + encodeURIComponent( w );
+				window.fetch(
+					"/stats/",
+					{
+						method: 'POST',
+						headers: new Headers(
+							{
+								'Content-Type': 'application/x-www-form-urlencoded'
+							}
+						),
+						body: data
+					}
+				);
+			}
+		}
+	} )();
+</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":3238});});</script>
+		</body>
+		</html>
+
+		
+[Finished in 3.6s]

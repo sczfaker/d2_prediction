@@ -1,7 +1,6 @@
 */
-*.zip
-*.txt
-*.json
-*.pkl
-*.csv
-*.html
+raybet_sequence.json
+betrate_changing.py
+.gitignore
+structure_dynamic.py
+raybet_board.json
